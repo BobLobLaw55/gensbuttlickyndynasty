@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}
+</style>
 <title>Bullshitting with the Buttlicker</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='#4A2A17'/%3E%3Cg transform='rotate%28-6 50 50%29'%3E%3Crect x='16' y='20' width='68' height='60' fill='#FBFAF6'/%3E%3C/g%3E%3Ccircle cx='74' cy='26' r='15' fill='none' stroke='#8D5C28' stroke-opacity='.45' stroke-width='4'/%3E%3Ctext x='50' y='60' text-anchor='middle' font-family='Permanent Marker, Comic Sans MS, cursive' font-size='26' fill='#1F2A44' transform='rotate%28-6 50 50%29'%3EBwB%3C/text%3E%3Cpath d='M28 68 Q50 72 72 64' stroke='#C2410C' stroke-width='3.5' fill='none' stroke-linecap='round' transform='rotate%28-6 50 50%29'/%3E%3C/svg%3E">
@@ -289,6 +290,30 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
   .line{grid-template-columns:minmax(0,1fr) repeat(3,62px);gap:0 6px}
   .deal .gets{font-size:17px}
 }
+/* Trade History */
+.dl-bar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:end;margin-bottom:18px}
+.dl-bar label{display:flex;flex-direction:column;gap:4px;font:800 11px/1 var(--body);letter-spacing:2px;text-transform:uppercase;color:var(--dim)}
+.dl-bar select{font:600 15px/1.2 var(--body);color:var(--fg);background:var(--panel);border:1.5px solid var(--ink-line);border-radius:4px;padding:7px 10px;min-width:180px}
+.dl-count{font-family:var(--mono);font-size:12px;color:var(--dim);margin-left:auto}
+.dl-lead{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:26px}
+.dl-lead div{background:var(--napkin);border:1px solid var(--line);box-shadow:0 2px 0 var(--line);padding:10px 12px;transform:rotate(-.4deg)}
+.dl-lead div:nth-child(even){transform:rotate(.5deg)}
+.dl-lead b{display:block;font:400 26px/1 var(--display);color:var(--red)}
+.dl-lead span{font-size:13px;color:var(--soft);overflow-wrap:anywhere}
+.dl-season{font:400 30px/1 var(--display);margin:30px 0 12px;color:var(--fg)}
+.dl-deal{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--red);padding:12px 14px 14px;margin-bottom:14px}
+.dl-deal .dl-when{font-family:var(--mono);font-size:12px;color:var(--dim);margin-bottom:8px}
+.dl-deal .dl-sides{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px 22px}
+.dl-side h4{margin:0 0 2px;font:800 15px/1.25 var(--body);overflow-wrap:anywhere}
+.dl-side .dl-mgr{font-family:var(--mono);font-size:12px;color:var(--dim);margin-bottom:6px}
+.dl-side .dl-gets{font:800 10px/1 var(--body);letter-spacing:2px;text-transform:uppercase;color:var(--red);margin:6px 0 4px}
+.dl-side ul{list-style:none;margin:0;padding:0}
+.dl-side li{padding:3px 0;border-bottom:1px dashed var(--line);font-size:14.5px}
+.dl-side li:last-child{border-bottom:0}
+.dl-side li .dl-pos{font-family:var(--mono);font-size:11px;color:var(--dim);margin-left:6px}
+.dl-side li.pk{color:var(--soft)}
+.dl-side li.none{color:var(--dim);font-style:italic}
+.dl-more{display:block;margin:10px auto 0;font:800 13px/1 var(--body);letter-spacing:2px;text-transform:uppercase;background:var(--fg);color:var(--napkin);border:0;padding:12px 20px;cursor:pointer}
 </style>
 
 </head>
@@ -306,6 +331,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
       <a href="#opinion">Opinion</a>
       <a href="#rumors">Rumor Mill</a>
       <a href="#trades">Trade Desk</a>
+      <a href="#deals">Trade History</a>
       <a href="#hof">Hall of Fame</a>
       <a href="#rip">R.I.P.</a>
       <a href="#lines">Sportsbook</a>
@@ -327,6 +353,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
   <section class="page" id="p-team" hidden></section>
   <section class="page" id="p-rumors" hidden></section>
   <section class="page" id="p-trades" hidden></section>
+  <section class="page" id="p-deals" hidden></section>
   <section class="page" id="p-history" hidden></section>
   <section class="page" id="p-lines" hidden></section>
   <section class="page" id="p-story" hidden></section>
@@ -492,7 +519,91 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
     if(Y.taxi&&Y.taxi.length) h+='<div class="sec">'+head("Taxi Squad Watch",Y.taxiNote)+'<div class="grid">'+Y.taxi.map(function(x){return '<div class="item"><div class="kicker">'+esc(x.tag)+'</div><h3>'+esc(x.p)+'</h3><p>'+esc(x.t)+'</p></div>';}).join("")+'</div></div>';
     return h;
   }
-  var pages=["home","recap","rankings","teams","team","rumors","trades","history","lines","story","opinion","col","payouts","hof","commish","rip","dynasty"];
+
+  /* ---- Trade History: pulled live from Sleeper in the reader's browser ---- */
+  var SL="https://api.sleeper.app/v1/", LEAGUE="1312534094717943808", DL=null, DLP=null, dlShow=40;
+  function getJ(u){return fetch(SL+u).then(function(r){if(!r.ok) throw new Error(r.status);return r.json();});}
+  function deals(){
+    return '<div class="sec">'+head("Trade History","Every completed trade in Gentleman's Dynasty on Sleeper, newest first. Pulled live from Sleeper each time you open it.")+'<div id="dealsBox"><p class="meta">Pulling the receipts from Sleeper…</p></div></div>';
+  }
+  function playerMap(){
+    try{var c=JSON.parse(localStorage.getItem("bwb-players")||"null");if(c&&Date.now()-c.t<3*864e5) return Promise.resolve(c.m);}catch(e){}
+    return getJ("players/nfl").then(function(all){
+      var m={};for(var id in all){var p=all[id];m[id]=[((p.first_name||"")+" "+(p.last_name||"")).trim()||id,p.position||""];}
+      try{localStorage.setItem("bwb-players",JSON.stringify({t:Date.now(),m:m}));}catch(e){}
+      return m;
+    });
+  }
+  function chain(id,acc){return getJ("league/"+id).then(function(L){acc.push(L);var pr=L.previous_league_id;return pr&&pr!=="0"&&acc.length<12?chain(pr,acc):acc;});}
+  function season(L){
+    var rounds=[];for(var r=0;r<=18;r++) rounds.push(getJ("league/"+L.league_id+"/transactions/"+r).catch(function(){return [];}));
+    return Promise.all([getJ("league/"+L.league_id+"/users"),getJ("league/"+L.league_id+"/rosters"),Promise.all(rounds)]).then(function(x){
+      var users={};x[0].forEach(function(u){users[u.user_id]=u;});
+      var own={};x[1].forEach(function(r){var u=users[r.owner_id]||{};own[r.roster_id]={u:u.display_name||("Team "+r.roster_id),team:((u.metadata&&u.metadata.team_name)||u.display_name||("Team "+r.roster_id)).trim()};});
+      var tx=[];x[2].forEach(function(a){(a||[]).forEach(function(t){if(t.type==="trade"&&t.status==="complete") tx.push(t);});});
+      return {season:L.season,own:own,tx:tx};
+    });
+  }
+  function ord(n){return n+(["th","st","nd","rd"][(n%100-20)%10]||["th","st","nd","rd"][n%100]||"th");}
+  function buildDeals(seasons,P){
+    var seen={},out=[];
+    seasons.forEach(function(S){S.tx.forEach(function(t){
+      if(seen[t.transaction_id]) return; seen[t.transaction_id]=1;
+      var sides={};(t.roster_ids||[]).forEach(function(rid){var o=S.own[rid]||{u:"Team "+rid,team:"Team "+rid};sides[rid]={u:o.u,team:o.team,pl:[],pk:[],faab:0};});
+      var side=function(rid){if(!sides[rid]){var o=S.own[rid]||{u:"Team "+rid,team:"Team "+rid};sides[rid]={u:o.u,team:o.team,pl:[],pk:[],faab:0};}return sides[rid];};
+      Object.keys(t.adds||{}).forEach(function(pid){var p=P[pid]||[pid,""];side(t.adds[pid]).pl.push(p);});
+      (t.draft_picks||[]).forEach(function(d){var orig=S.own[d.roster_id];side(d.owner_id).pk.push({y:d.season,r:d.round,via:d.roster_id===d.owner_id?"own":(orig?orig.u:"Team "+d.roster_id)});});
+      (t.waiver_budget||[]).forEach(function(w){side(w.receiver).faab+=w.amount||0;});
+      var when=new Date(t.status_updated||t.created), y=+S.season;
+      var off=when<new Date(y,8,1)||when>new Date(y+1,0,20);
+      out.push({s:S.season,wk:off?"Offseason":"Week "+t.leg,d:when,sides:Object.keys(sides).map(function(k){return sides[k];})});
+    });});
+    out.sort(function(a,b){return b.d-a.d;});
+    return out;
+  }
+  function loadDeals(){
+    var box=document.getElementById("dealsBox"); if(!box) return;
+    if(DL){renderDeals();return;}
+    if(!DLP) DLP=Promise.all([chain(LEAGUE,[]).then(function(Ls){return Promise.all(Ls.map(season));}),playerMap()]).then(function(x){DL=buildDeals(x[0],x[1]);return DL;});
+    DLP.then(renderDeals).catch(function(){DLP=null;var b=document.getElementById("dealsBox");if(b) b.innerHTML='<p class="meta">Sleeper didn\'t answer. Refresh the page to try again.</p>';});
+  }
+  function renderDeals(){
+    var box=document.getElementById("dealsBox"); if(!box||!DL) return;
+    var fs=box.getAttribute("data-s")||"", fm=box.getAttribute("data-m")||"";
+    var yrs=[],mgrs=[];DL.forEach(function(t){if(yrs.indexOf(t.s)<0) yrs.push(t.s);t.sides.forEach(function(x){if(mgrs.indexOf(x.u)<0) mgrs.push(x.u);});});
+    mgrs.sort(function(a,b){return a.toLowerCase()<b.toLowerCase()?-1:1;});
+    var list=DL.filter(function(t){return (!fs||t.s===fs)&&(!fm||t.sides.some(function(x){return x.u===fm;}));});
+    // leaderboard for the current filter
+    var cnt={},pair={};list.forEach(function(t){var us=t.sides.map(function(x){return x.u;});us.forEach(function(u){cnt[u]=(cnt[u]||0)+1;});if(us.length===2){var k=us.slice().sort().join(" & ");pair[k]=(pair[k]||0)+1;}});
+    var top=Object.keys(cnt).sort(function(a,b){return cnt[b]-cnt[a];}), tp=Object.keys(pair).sort(function(a,b){return pair[b]-pair[a];});
+    var pk=0,pl=0;list.forEach(function(t){t.sides.forEach(function(x){pk+=x.pk.length;pl+=x.pl.length;});});
+    var h='<div class="dl-bar"><label>Season<select id="dlS"><option value="">All seasons</option>'+yrs.map(function(y){return '<option'+(y===fs?' selected':'')+'>'+esc(y)+'</option>';}).join("")+'</select></label>';
+    h+='<label>Manager<select id="dlM"><option value="">Everyone</option>'+mgrs.map(function(u){return '<option'+(u===fm?' selected':'')+'>'+esc(u)+'</option>';}).join("")+'</select></label><span class="dl-count">'+list.length+' trade'+(list.length===1?'':'s')+'</span></div>';
+    if(list.length){
+      h+='<div class="dl-lead"><div><b>'+list.length+'</b><span>completed trades</span></div><div><b>'+pl+'</b><span>players moved</span></div><div><b>'+pk+'</b><span>draft picks moved</span></div>';
+      if(!fm&&top[0]) h+='<div><b>'+cnt[top[0]]+'</b><span>most trades: '+esc(top[0])+'</span></div>';
+      var fp=top.filter(function(u){return u!==fm;})[0];
+      if(fm&&fp) h+='<div><b>'+cnt[fp]+'</b><span>favorite partner: '+esc(fp)+'</span></div>';
+      if(!fm&&tp[0]) h+='<div><b>'+pair[tp[0]]+'</b><span>busiest pair: '+esc(tp[0])+'</span></div>';
+      h+='</div>';
+    } else h+='<p class="meta">No trades match that filter.</p>';
+    var last=null;
+    list.slice(0,dlShow).forEach(function(t){
+      if(t.s!==last){h+='<h3 class="dl-season">'+esc(t.s)+' season</h3>';last=t.s;}
+      h+='<article class="dl-deal"><div class="dl-when">'+esc(t.wk)+' · '+t.d.toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"})+'</div><div class="dl-sides">'+t.sides.map(function(x){
+        var items=x.pl.map(function(p){return '<li>'+esc(p[0])+(p[1]?'<span class="dl-pos">'+esc(p[1])+'</span>':'')+'</li>';}).join("")+
+          x.pk.sort(function(a,b){return a.y-b.y||a.r-b.r;}).map(function(p){return '<li class="pk">'+esc(p.y)+' '+ord(p.r)+'-round pick<span class="dl-pos">'+(p.via==="own"?"own":"via "+esc(p.via))+'</span></li>';}).join("")+
+          (x.faab?'<li class="pk">$'+x.faab+' FAAB</li>':'');
+        return '<div class="dl-side"><h4>'+tlink(x.team)+'</h4><div class="dl-mgr">'+esc(x.u)+'</div><div class="dl-gets">Gets</div><ul>'+(items||'<li class="none">Nothing</li>')+'</ul></div>';
+      }).join("")+'</div></article>';
+    });
+    if(list.length>dlShow) h+='<button class="dl-more" id="dlMore">Show '+Math.min(40,list.length-dlShow)+' more</button>';
+    box.innerHTML=h; try{mark(box);}catch(e){}
+    document.getElementById("dlS").onchange=function(){box.setAttribute("data-s",this.value);dlShow=40;renderDeals();};
+    document.getElementById("dlM").onchange=function(){box.setAttribute("data-m",this.value);dlShow=40;renderDeals();};
+    var mb=document.getElementById("dlMore"); if(mb) mb.onclick=function(){dlShow+=40;renderDeals();};
+  }
+  var pages=["home","recap","rankings","teams","team","rumors","trades","deals","history","lines","story","opinion","col","payouts","hof","commish","rip","dynasty"];
   function route(){
     if(!D) return;
     var h=(location.hash||"#home").slice(1), view=h, arg=null;
@@ -501,8 +612,8 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
     else if(h.indexOf("col-")===0){view="col";arg=h.slice(4);}
     if(view==="history") view="hof";
     if(pages.indexOf(view)<0) view="home";
-    var html={home:home,recap:recap,rankings:rankings,teams:teams,team:function(){return team(arg);},rumors:rumors,trades:trades,history:history,lines:lines,story:function(){return story(arg);},opinion:opinion,col:function(){return column(arg);},payouts:payouts,hof:hof,commish:commish,rip:ring,dynasty:dynasty}[view]();
-    pages.forEach(function(p){var el=document.getElementById("p-"+p);el.hidden=(p!==view);if(p===view){ el.innerHTML=html; try{ mark(el); }catch(e){} }});
+    var html={home:home,recap:recap,rankings:rankings,teams:teams,team:function(){return team(arg);},rumors:rumors,trades:trades,deals:deals,history:history,lines:lines,story:function(){return story(arg);},opinion:opinion,col:function(){return column(arg);},payouts:payouts,hof:hof,commish:commish,rip:ring,dynasty:dynasty}[view]();
+    pages.forEach(function(p){var el=document.getElementById("p-"+p);el.hidden=(p!==view);if(p===view){ el.innerHTML=html; try{ mark(el); }catch(e){} if(p==="deals") loadDeals(); }});
     var navKey=view==="team"?"teams":view==="story"?"home":view==="col"?"opinion":view;
     document.querySelectorAll("#nav a").forEach(function(a){if(a.getAttribute("href")==="#"+navKey) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");});
     window.scrollTo(0,0);
