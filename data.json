@@ -1,5 +1,5 @@
 {
- "updated": "Thursday, Nov 5, 2026 · 8:05 AM ET",
+ "updated": "Friday, Nov 6, 2026 · 8:10 AM ET",
  "week": 9,
  "ticker": [
   [
@@ -41,12 +41,12 @@
  ],
  "wire": [
   {
-   "t": "The Champ (TJohn91) added Drew Lock (SEA) as a free agent on Thursday, with Lamar Jackson headed to injured reserve and the superflex slot a zero for two weeks. Sleeper lists Lock as questionable. Dude, Your Getting a Dell (Br0phy) added Baltimore rookie quarterback Joe Fagnano the same morning.",
+   "t": "Thursday night's Jacksonville–Baltimore game is the only Week 9 football on the board. Jefferson’s Reserve (jmello16) leads Catfan94’s Farm Team (jrsmith1391) 26.48 to 0.00 on Trevor Lawrence (17.58) and Bhayshul Tuten (8.9), and StrngeJhnsonHurtsmyBoutte (Bill_Buttlicker) has 30.8 against OBJAY's 0.00.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "The only trade in the last week is still The Champ (TJohn91) sending Bucky Irving and Colston Loveland to Catfan94’s Farm Team (jrsmith1391) for Zay Flowers and Harold Fannin Jr. on Saturday. No new trades since, and OBJAY’s Gardner Minshew II claim from Wednesday is the last waiver move.",
+   "t": "No new trades and no new waiver moves since Thursday morning, when The Champ (TJohn91) added Drew Lock and Dude, Your Getting a Dell (Br0phy) added Joe Fagnano. Fagnano started Thursday night and scored -0.3.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1312534094717943808"
   },
@@ -78,6 +78,18 @@
  ],
  "stories": [
   {
+   "id": "tnf",
+   "kicker": "Thursday Night",
+   "title": "Jefferson’s Reserve opens Week 9 with 26.48 and StrngeJhnsonHurtsmyBoutte gets 30.8 from Parker Washington and friends",
+   "dek": "Justice Hill had 18.7 on the Asian Jim bench. Joe Fagnano started for Dude, Your Getting a Dell and scored -0.3.",
+   "body": [
+    "Thursday night's Jacksonville–Baltimore game is the only one played so far, and the scoreboards show it. Jefferson’s Reserve has 26.48 against Catfan94’s Farm Team's 0.00, with Trevor Lawrence at 17.58 and Bhayshul Tuten at 8.9. The best part for jmello16 is that Catfan94’s Farm Team only had Josh Cameron (1.1) on the bench from the game.",
+    "StrngeJhnsonHurtsmyBoutte has 30.8 against OBJAY's 0.00 on starts from Parker Washington (15.6), Jakobi Meyers (10.5) and Brenton Strange (4.7). Chris Rodriguez Jr. had 11.2 on the bench and Travis Hunter had -1.6 there too. Bill_Buttlicker, yes, that's your team, and yes, it's a 30.8 head start in a game where OBJAY has nobody left on the Thursday slate.",
+    "Asian Jim sat Justice Hill, who had 18.7 on the bench. ManicOrientals starts the week at 0.00 against Dude, Your Getting a Dell, who started Joe Fagnano for -0.3, so the 41.5-point spread still holds up fine.",
+    "Hold My DK has 7.08 from Derrick Henry and Bourbon Lover has 3.4 from Mark Andrews in the other Thursday matchup. The rest of the slate is Sunday. Pittsburgh and Tennessee are on bye."
+   ]
+  },
+  {
    "id": "recap",
    "kicker": "Week 8 Recap",
    "title": "LigmaBrocksAndLoveMyPenix hangs 179.28 on Hold My DK and the 7‑0 is over",
@@ -100,17 +112,6 @@
     "Stefon Diggs had 12.3 on the bench and Jack Endries had 7.1. This roster is thin in a way a lineup can't fix.",
     "Br0phy is 0‑8 with a 5-83 all-play and 648.38 points. That's 81.05 a game, and the next lowest team is StrngeJhnsonHurtsmyBoutte at 109.19.",
     "Week 9 is Asian Jim as a 41.5-point favorite. Dude, Your Getting a Dell has never won a game in this league, and this is the best chance yet to put a number on the board that isn't 39.26."
-   ]
-  },
-  {
-   "id": "champ",
-   "kicker": "Bench Press",
-   "title": "The Champ adds Drew Lock as Lamar Jackson heads to IR",
-   "dek": "TJohn91 is 4‑4 and has had a zero at superflex for two weeks.",
-   "body": [
-    "The Champ (TJohn91) picked up Drew Lock (SEA) as a free agent Thursday morning. Sleeper lists Lock as questionable, so this is a depth move, not a fix.",
-    "Lamar Jackson and Zay Flowers both had 0.00 in the 105.44 loss to Bourbon Lover, and Jackson is headed to injured reserve per FantasyPros. Tony Pollard had 27.2 on the bench for the second week in a row.",
-    "The Champ is 4‑4 with a 51-37 all-play. Week 9 is LigmaBrocksAndLoveMyPenix as a 25.5-point underdog, and Pollard has Tennessee's bye."
    ]
   },
   {
@@ -881,7 +882,7 @@
    "dog": "Jefferson’s Reserve",
    "spread": "-16.5",
    "total": "275.6",
-   "note": "Raw PPG gap is 16.6. Breece Hall is a realistic Week 9 return for Catfan94’s Farm Team, but DeVonta Smith is out. Jefferson’s Reserve has Mike Evans out and Pat Freiermuth on Pittsburgh's bye.",
+   "note": "Raw PPG gap is 16.6. Breece Hall is a realistic Week 9 return for Catfan94’s Farm Team, but DeVonta Smith is out. Jefferson’s Reserve has Mike Evans out and Pat Freiermuth on Pittsburgh's bye. Thursday: Jefferson’s Reserve leads 26.48 to 0.00 on Lawrence and Tuten.",
    "prob": 70
   },
   {
@@ -905,7 +906,7 @@
    "dog": "StrngeJhnsonHurtsmyBoutte",
    "spread": "-15.0",
    "total": "233.2",
-   "note": "Raw gap is 14.8. OBJAY has Tyjae Spears out and Emeka Egbuka uncertain, plus Wan'Dale Robinson on Tennessee's bye. StrngeJhnsonHurtsmyBoutte has Jalen Hurts on IR and Kaleb Johnson out.",
+   "note": "Raw gap is 14.8. OBJAY has Tyjae Spears out and Emeka Egbuka uncertain, plus Wan'Dale Robinson on Tennessee's bye. StrngeJhnsonHurtsmyBoutte has Jalen Hurts on IR and Kaleb Johnson out. Thursday: StrngeJhnsonHurtsmyBoutte leads 30.8 to 0.00.",
    "prob": 69
   },
   {
@@ -913,7 +914,7 @@
    "dog": "Dude, Your Getting a Dell",
    "spread": "-41.5",
    "total": "203.9",
-   "note": "Raw gap is 41.8. Kyle Monangai is out for Asian Jim. Dude, Your Getting a Dell scored 39.26 last week with four starters at 0.00 and Tank Dell on IR.",
+   "note": "Raw gap is 41.8. Kyle Monangai is out for Asian Jim. Dude, Your Getting a Dell scored 39.26 last week with four starters at 0.00 and Tank Dell on IR. Thursday: Joe Fagnano scored -0.3 for Dude, Your Getting a Dell, and Justice Hill had 18.7 on the Asian Jim bench.",
    "prob": 91
   },
   {
@@ -921,7 +922,7 @@
    "dog": "Bourbon Lover",
    "spread": "-35.0",
    "total": "264.5",
-   "note": "Raw gap is 45.3, nudged down 10 for Pittsburgh's bye, which takes DK Metcalf, Jaylen Warren, Darnell Washington and Aaron Rodgers from Hold My DK. Bourbon Lover loses Rico Dowdle to the same bye.",
+   "note": "Raw gap is 45.3, nudged down 10 for Pittsburgh's bye, which takes DK Metcalf, Jaylen Warren, Darnell Washington and Aaron Rodgers from Hold My DK. Bourbon Lover loses Rico Dowdle to the same bye. Thursday: Derrick Henry has 7.08 for Hold My DK and Mark Andrews has 3.4 for Bourbon Lover.",
    "prob": 87
   }
  ],
@@ -967,14 +968,15 @@
  ],
  "columns": [
   {
-   "id": "mouth-w9c",
+   "id": "mouth-w9d",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "THE CHAMP ADDED DREW LOCK! THAT'S THE MOVE?",
-   "dek": "TJohn91 needs a superflex quarterback and got a questionable one.",
+   "title": "JUSTICE HILL HAD 18.7 ON THE BENCH!",
+   "dek": "Asian Jim started Week 9 at zero with the points sitting right there.",
    "body": [
-    "DREW LOCK! SEATTLE! THE CHAMP GRABBED HIM THURSDAY MORNING WITH LAMAR JACKSON HEADED TO IR! TWO-TIME CHAMP, FREE-AGENT QUARTERBACK!",
-    "SLEEPER HAS HIM QUESTIONABLE, SO THIS IS A BACKUP PLAN FOR A BACKUP PLAN! TJOHN91 IS 4‑4 AND PLAYS A 25.5-POINT FAVORITE IN LIGMABROCKSANDLOVEMYPENIX! GOOD LUCK! YOU'LL NEED IT!"
+    "JUSTICE HILL! BALTIMORE! 18.7 POINTS ON THE ASIAN JIM BENCH THURSDAY NIGHT! MANICORIENTALS HAD A WHOLE WEEK TO PICK HIM AND DIDN'T!",
+    "DUDE, YOUR GETTING A DELL STARTED JOE FAGNANO AND GOT -0.3! NEGATIVE! IT'S A NEGATIVE NUMBER! THAT'S NOT A STARTER, THAT'S A BILL!",
+    "AND STRNGEJHNSONHURTSMYBOUTTE IS UP 30.8 TO 0.00! BILL_BUTTLICKER, TAKE THE WIN AND SHUT UP! SUNDAY'S COMING!"
    ]
   },
   {
@@ -991,15 +993,15 @@
    ]
   },
   {
-   "id": "dale-w9c",
+   "id": "dale-w9d",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "3 superflex tips from Holden McGroin, who watched Dude, Your Getting a Dell add Joe Fagnano",
-   "dek": "Br0phy is 0‑8 and still shopping at quarterback.",
+   "title": "3 lineup tips from Holden McGroin, who watched Justice Hill go off on the Asian Jim bench",
+   "dek": "18.7 points, zero starts. A masterpiece of the form.",
    "body": [
-    "1. Add a rookie quarterback from Baltimore. Joe Fagnano is on the roster now and he has never started a game for you. Neither has anyone else.",
-    "2. Start him anyway. The last lineup scored 39.26, so the floor is already installed.",
-    "3. Check the waiver wire at 8 AM like Br0phy and TJohn91 just did. Both teams were up early and both are looking for a quarterback. Nobody said it was a good plan."
+    "1. Leave your best Thursday player on the bench. Justice Hill had 18.7 there for Asian Jim. That's the whole strategy: surprise yourself.",
+    "2. If you're 0-8, start the guy who scored -0.3. Joe Fagnano did it for Dude, Your Getting a Dell and now the floor is lower than 39.26 for the week. Progress.",
+    "3. Never check your lineup before Thursday. Parker Washington put up 15.6 for StrngeJhnsonHurtsmyBoutte and Bill_Buttlicker probably didn't even know he was a starter."
    ]
   },
   {
