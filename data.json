@@ -1,5 +1,5 @@
 {
- "updated": "Friday, Nov 6, 2026 · 8:10 AM ET",
+ "updated": "Saturday, Nov 7, 2026 · 7:05 AM ET",
  "week": 9,
  "ticker": [
   [
@@ -41,19 +41,19 @@
  ],
  "wire": [
   {
-   "t": "Thursday night's Jacksonville–Baltimore game is the only Week 9 football on the board. Jefferson’s Reserve (jmello16) leads Catfan94’s Farm Team (jrsmith1391) 26.48 to 0.00 on Trevor Lawrence (17.58) and Bhayshul Tuten (8.9), and StrngeJhnsonHurtsmyBoutte (Bill_Buttlicker) has 30.8 against OBJAY's 0.00.",
+   "t": "Three trades on Friday between TJohn91 and paknight12, and BTaylor1 and paknight12. The Champ got Joe Burrow, Tee Higgins, Mark Andrews, Michael Pittman Jr., Matt Hibner and Jordan Mason. Bourbon Lover got Lamar Jackson, Sam LaPorta, Drew Lock, Tony Pollard and Keon Coleman, and Kraft for Cash got Zay Flowers.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "No new trades and no new waiver moves since Thursday morning, when The Champ (TJohn91) added Drew Lock and Dude, Your Getting a Dell (Br0phy) added Joe Fagnano. Fagnano started Thursday night and scored -0.3.",
+   "t": "Thursday night's Jacksonville–Baltimore game is still the only Week 9 football on the board. Jefferson’s Reserve (jmello16) leads Catfan94’s Farm Team (jrsmith1391) 26.48 to 0.00, StrngeJhnsonHurtsmyBoutte (Bill_Buttlicker) leads OBJAY 30.8 to 0.00, and Dude, Your Getting a Dell (Br0phy) has -0.3 from Joe Fagnano.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "Lamar Jackson is headed to injured reserve and could face season-ending surgery, FantasyPros reports in its Nov 2 injury roundup. Jackson belongs to The Champ, which got 0.00 from him in Week 8 and now also has A.J. Brown (ankle and knee) ruled out.",
-   "src": "FantasyPros",
-   "url": "https://www.fantasypros.com/2026/11/fantasy-football-injury-report-updates-week-9-2026/"
+   "t": "Lamar Jackson hurt his thumb on his first play against Buffalo in Week 8 and needs surgery, with Baltimore saying he could miss the rest of the season, EssentiallySports reports. Jackson now belongs to Bourbon Lover (paknight12) after Friday's trade. Joe Fagnano, who is on Dude, Your Getting a Dell, is expected to start for Baltimore.",
+   "src": "EssentiallySports",
+   "url": "https://www.essentiallysports.com/nfl-news-nfl-week-nine-injury-report-jeremiyah-love-out-for-several-weeks-jackson-to-undergo-surgery-and-more/"
   },
   {
    "t": "Breece Hall was ruled inactive for Week 8 with a quad strain, but FantasyPros says he has returned to football activities and Week 9 against Kansas City is a realistic return target. Hall belongs to Catfan94’s Farm Team, which also has DeVonta Smith out.",
@@ -66,9 +66,9 @@
    "url": "https://www.nbcsports.com/fantasy/football/news/nfl-bye-weeks-2026-complete-list-of-bye-weeks-for-all-32-teams"
   },
   {
-   "t": "Jeremiyah Love (ARI) was ruled out after re-aggravating an ankle injury, per FantasyPros. Love is on The Champ. Tyjae Spears (TEN knee) and Emeka Egbuka (TB foot, Week 9 uncertain) are both on OBJAY.",
-   "src": "FantasyPros",
-   "url": "https://www.fantasypros.com/2026/11/fantasy-football-injury-report-updates-week-9-2026/"
+   "t": "Jeremiyah Love (ARI) suffered a high-ankle sprain and could miss four to five weeks, EssentiallySports reports. Love is on The Champ. Tyjae Spears (TEN knee) and Emeka Egbuka (TB foot, could return) are both on OBJAY.",
+   "src": "EssentiallySports",
+   "url": "https://www.essentiallysports.com/nfl-news-nfl-week-nine-injury-report-jeremiyah-love-out-for-several-weeks-jackson-to-undergo-surgery-and-more/"
   },
   {
    "t": "Kyle Monangai (CHI) was ruled out in Week 8 with turf toe and Jake Ferguson (DAL) is out with an ankle injury. Monangai is on Asian Jim and Ferguson is on Kraft for Cash.",
@@ -78,15 +78,16 @@
  ],
  "stories": [
   {
-   "id": "tnf",
-   "kicker": "Thursday Night",
-   "title": "Jefferson’s Reserve opens Week 9 with 26.48 and StrngeJhnsonHurtsmyBoutte gets 30.8 from Parker Washington and friends",
-   "dek": "Justice Hill had 18.7 on the Asian Jim bench. Joe Fagnano started for Dude, Your Getting a Dell and scored -0.3.",
+   "id": "trades",
+   "kicker": "Friday Trade Frenzy",
+   "title": "The Champ and Bourbon Lover swap Joe Burrow for Lamar Jackson in a three-trade Friday",
+   "dek": "TJohn91 got Burrow, Tee Higgins and Mark Andrews. paknight12 got Jackson, Sam LaPorta, Tony Pollard and Keon Coleman, then flipped Zay Flowers to Kraft for Cash.",
    "body": [
-    "Thursday night's Jacksonville–Baltimore game is the only one played so far, and the scoreboards show it. Jefferson’s Reserve has 26.48 against Catfan94’s Farm Team's 0.00, with Trevor Lawrence at 17.58 and Bhayshul Tuten at 8.9. The best part for jmello16 is that Catfan94’s Farm Team only had Josh Cameron (1.1) on the bench from the game.",
-    "StrngeJhnsonHurtsmyBoutte has 30.8 against OBJAY's 0.00 on starts from Parker Washington (15.6), Jakobi Meyers (10.5) and Brenton Strange (4.7). Chris Rodriguez Jr. had 11.2 on the bench and Travis Hunter had -1.6 there too. Bill_Buttlicker, yes, that's your team, and yes, it's a 30.8 head start in a game where OBJAY has nobody left on the Thursday slate.",
-    "Asian Jim sat Justice Hill, who had 18.7 on the bench. ManicOrientals starts the week at 0.00 against Dude, Your Getting a Dell, who started Joe Fagnano for -0.3, so the 41.5-point spread still holds up fine.",
-    "Hold My DK has 7.08 from Derrick Henry and Bourbon Lover has 3.4 from Mark Andrews in the other Thursday matchup. The rest of the slate is Sunday. Pittsburgh and Tennessee are on bye."
+    "Three trades went through on Friday and two of them were nine-player and two-player deals between TJohn91 and paknight12. The big one at 1:13 PM ET sent Joe Burrow, Tee Higgins, Mark Andrews, Michael Pittman Jr. and Matt Hibner to The Champ. Bourbon Lover got Lamar Jackson, Sam LaPorta, Drew Lock and Zay Flowers, plus its own 2028 first-round pick back and two 2028 second-rounders. The Champ also got Hold My DK's 2029 second-rounder.",
+    "Then at 2:26 PM ET the same two teams did it again. Tony Pollard went to Bourbon Lover, Jordan Mason went to The Champ, and the two 2028 second-rounders went back to TJohn91. Pollard had 27.2 on the bench for The Champ in each of the last two weeks, so he finally got a new bench to sit on.",
+    "The third trade, at 5:51 PM ET, sent Keon Coleman and Kraft for Cash's two 2027 second-rounders to Bourbon Lover, and Zay Flowers to BTaylor1. That's Flowers on two rosters in under five hours after a 0.00 in Week 8.",
+    "Who won? On paper, The Champ. TJohn91 turned a 0.00 from Lamar Jackson into Burrow, who had 49.48 last week, plus Higgins at 36.0. Jackson hurt his thumb on his first play in Week 8, and coach Jesse Minter says he could miss the rest of the season (EssentiallySports). paknight12 took on that injured quarterback on a 3‑5 team with a 29-59 all-play, which is a dynasty bet on 2027 and beyond. Pittman is on IR too.",
+    "Bourbon Lover still plays Hold My DK this week as a 35.0-point underdog, and The Champ is a 25.5-point underdog against LigmaBrocksAndLoveMyPenix. Both lines were set on Friday morning's rosters, so the real numbers are different."
    ]
   },
   {
@@ -357,7 +358,7 @@
    "own": "TJohn91",
    "rec": "4-4",
    "ap": "51-37",
-   "take": "105.44 with Lamar Jackson and Zay Flowers at 0.00 and Tony Pollard on the bench for 27.2. Jackson is headed to IR."
+   "take": "105.44 with Lamar Jackson and Zay Flowers at 0.00 and Tony Pollard on the bench for 27.2. Traded all three on Friday for Joe Burrow, Tee Higgins and Mark Andrews."
   },
   {
    "rk": 7,
@@ -393,7 +394,7 @@
    "own": "paknight12",
    "rec": "3-5",
    "ap": "29-59",
-   "take": "Joe Burrow's 49.48 and Tee Higgins' 36.0 made 153.98 and a second straight win. 29-59 all-play, so don't get excited."
+   "take": "Joe Burrow's 49.48 and Tee Higgins' 36.0 made 153.98 and a second straight win, and then paknight12 traded both away. 29-59 all-play, so don't get excited."
   },
   {
    "rk": 11,
@@ -505,14 +506,14 @@
    ],
    "w7": "vs. LigmaBrocksAndLoveMyPenix · 25.5-point dog",
    "inj": [
-    "Lamar Jackson (headed to IR)",
     "Davante Adams (IR)",
     "Jeremiyah Love (out)",
-    "A.J. Brown (out)"
+    "A.J. Brown (out)",
+    "Michael Pittman Jr. (IR)"
    ],
    "body": [
     "105.44 in a 48.54-point loss. Lamar Jackson and Zay Flowers both had 0.00, and Tony Pollard had 27.2 on the bench again.",
-    "Two titles in two years and one of the league's two commissioners. Jackson is headed to injured reserve."
+    "Two titles in two years and one of the league's two commissioners. Friday's trades brought in Joe Burrow, Tee Higgins, Mark Andrews and Jordan Mason, and sent out Jackson, Flowers and Pollard."
    ]
   },
   {
@@ -537,7 +538,7 @@
    ],
    "body": [
     "108.06 and a 51.12-point loss to Jefferson’s Reserve. Tucker Kraft had 18.8 and Jonah Coleman had 20.9 on the bench.",
-    "Still 5-3 with the fourth-best all-play (54-34)."
+    "Picked up Zay Flowers on Friday and gave up two 2027 second-round picks to Bourbon Lover. Still 5‑3 with the fourth-best all-play (54-34)."
    ]
   },
   {
@@ -677,14 +678,14 @@
    ],
    "w7": "vs. Hold My DK · 35.0-point dog",
    "inj": [
-    "Colby Parkinson (out)",
+    "Lamar Jackson (IR)",
+    "Colby Parkinson (questionable)",
     "Dontayvion Wicks (out)",
-    "Michael Pittman Jr. (IR)",
     "Raheim Sanders (IR)"
    ],
    "body": [
     "153.98 over The Champ. Joe Burrow had 49.48, Tee Higgins had 36.0 and Dak Prescott had 22.8.",
-    "Sam Darnold had 21.52 on the bench. Two straight wins, 29-59 all-play."
+    "Traded Burrow and Higgins on Friday for Lamar Jackson, Sam LaPorta, Tony Pollard and Keon Coleman, and now holds its own 2028 first-round pick again. Two straight wins, 29-59 all-play."
    ]
   },
   {
@@ -748,14 +749,14 @@
   {
    "a": "The Champ",
    "aget": [
-    "Sam Darnold"
+    "Aaron Jones Sr."
    ],
    "b": "Bourbon Lover",
    "bget": [
     "Kimani Vidal",
     "Bryce Lance"
    ],
-   "why": "TJohn91 has Lamar Jackson headed to IR and needs a superflex quarterback. paknight12 has Dak Prescott and Joe Burrow, so Sam Darnold (29, 21.52 on the bench) is the third. Kimani Vidal (25) and Bryce Lance (24, taxi) give paknight12 younger depth.",
+   "why": "TJohn91 just added Jordan Mason, but Jeremiyah Love (21) is out for weeks and TreVeyon Henderson is out too. paknight12 has Aaron Jones Sr. (31) on a 3‑5 team that just took on Lamar Jackson and Sam LaPorta for the long haul, and Kimani Vidal (25) and Bryce Lance (24, taxi) are younger.",
    "tag": "Both sides win"
   },
   {
@@ -854,7 +855,7 @@
    ],
    [
     "The Champ",
-    "105.44 with Lamar Jackson and Zay Flowers at 0.00 and Tony Pollard on the bench for 27.2. TJohn91, you're 4‑4 and the bench is winning."
+    "105.44 with Lamar Jackson and Zay Flowers at 0.00 and Tony Pollard on the bench for 27.2. TJohn91 traded all three on Friday for Joe Burrow, Tee Higgins and Mark Andrews, so now we see if the roster was the problem."
    ],
    [
     "StrngeJhnsonHurtsmyBoutte",
@@ -868,7 +869,7 @@
    ],
    [
     "Bourbon Lover",
-    "153.98 behind Joe Burrow's 49.48. paknight12, you're 3‑5 with a 29-59 all-play, but you've still got two in a row."
+    "153.98 behind Joe Burrow's 49.48, then paknight12 traded Burrow away for Lamar Jackson, Sam LaPorta and Tony Pollard. 3‑5 with a 29-59 all-play, and a plan. Bold."
    ],
    [
     "Jefferson’s Reserve",
@@ -898,7 +899,7 @@
    "dog": "The Champ",
    "spread": "-25.5",
    "total": "304.8",
-   "note": "Raw gap is 24.6. The Champ loses Tony Pollard to Tennessee's bye, Lamar Jackson is headed to IR and A.J. Brown is out. LigmaBrocksAndLoveMyPenix has Isaiah Pacheco and De'Von Achane on IR but not much else to worry about.",
+   "note": "Raw gap is 24.6. The Champ now has Joe Burrow, Tee Higgins and Mark Andrews after Friday's trades, but loses Tony Pollard's old spot and has A.J. Brown out and Jeremiyah Love out. LigmaBrocksAndLoveMyPenix has Isaiah Pacheco and De'Von Achane on IR but not much else to worry about.",
    "prob": 79
   },
   {
@@ -922,7 +923,7 @@
    "dog": "Bourbon Lover",
    "spread": "-35.0",
    "total": "264.5",
-   "note": "Raw gap is 45.3, nudged down 10 for Pittsburgh's bye, which takes DK Metcalf, Jaylen Warren, Darnell Washington and Aaron Rodgers from Hold My DK. Bourbon Lover loses Rico Dowdle to the same bye. Thursday: Derrick Henry has 7.08 for Hold My DK and Mark Andrews has 3.4 for Bourbon Lover.",
+   "note": "Raw gap is 45.3, nudged down 10 for Pittsburgh's bye, which takes DK Metcalf, Jaylen Warren, Darnell Washington and Aaron Rodgers from Hold My DK. Bourbon Lover loses Rico Dowdle to the same bye, and Friday's trades changed its roster. Thursday: Derrick Henry has 7.08 for Hold My DK.",
    "prob": 87
   }
  ],
@@ -934,6 +935,10 @@
   [
    "2026 NFL bye weeks (NBC Sports)",
    "https://www.nbcsports.com/fantasy/football/news/nfl-bye-weeks-2026-complete-list-of-bye-weeks-for-all-32-teams"
+  ],
+  [
+   "Week 9 injury report (EssentiallySports)",
+   "https://www.essentiallysports.com/nfl-news-nfl-week-nine-injury-report-jeremiyah-love-out-for-several-weeks-jackson-to-undergo-surgery-and-more/"
   ]
  ],
  "columnists": [
@@ -980,28 +985,28 @@
    ]
   },
   {
-   "id": "tre-w9",
+   "id": "tre-w9b",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "The Champ is 4‑4 and the bench is winning",
-   "dek": "Tony Pollard had 27.2 on the bench for the second week in a row.",
+   "title": "Burrow for Jackson is a bad trade for paknight12",
+   "dek": "The Champ got the quarterback who scored 49.48. Bourbon Lover got the one who scored 0.00.",
    "body": [
-    "I'll say this plainly. The Champ lost 153.98 to 105.44. Lamar Jackson had 0.00 and Zay Flowers had 0.00. Tony Pollard sat on 27.2 for the second week in a row.",
-    "That's TJohn91, who has two titles. He's 4‑4 with a 51-37 all-play, which is a good team losing for bad reasons.",
-    "Jackson is headed to IR and could be out for the season. Fine. Then start somebody who can play. The bench had Pollard, Keenan Allen at 12.7 and Matthew Stafford at 10.28.",
-    "Pollard has Tennessee's bye this week, so the bench problem is solved. By the bye."
+    "I'll say this plainly. Joe Burrow had 49.48 last week. Lamar Jackson had 0.00.",
+    "TJohn91 gave up Jackson, Zay Flowers and Tony Pollard and got Burrow, Tee Higgins and Mark Andrews back. That's a lot of points walking in.",
+    "paknight12 took Jackson with thumb surgery on the way and a 3‑5 record. If this is a dynasty plan, fine. Say it's a dynasty plan.",
+    "Either way, TJohn91 won Friday."
    ]
   },
   {
-   "id": "dale-w9d",
+   "id": "dale-w9b",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "3 lineup tips from Holden McGroin, who watched Justice Hill go off on the Asian Jim bench",
-   "dek": "18.7 points, zero starts. A masterpiece of the form.",
+   "title": "3 trade tips from Holden McGroin, who watched Zay Flowers change teams twice in one day",
+   "dek": "Zero points, two new rosters, one lesson.",
    "body": [
-    "1. Leave your best Thursday player on the bench. Justice Hill had 18.7 there for Asian Jim. That's the whole strategy: surprise yourself.",
-    "2. If you're 0-8, start the guy who scored -0.3. Joe Fagnano did it for Dude, Your Getting a Dell and now the floor is lower than 39.26 for the week. Progress.",
-    "3. Never check your lineup before Thursday. Parker Washington put up 15.6 for StrngeJhnsonHurtsmyBoutte and Bill_Buttlicker probably didn't even know he was a starter."
+    "1. If a player scores 0.00, trade him at 1:13 PM. If he still scores nothing, trade him again at 5:51 PM. Zay Flowers did that Friday and it's called volume.",
+    "2. Trade your quarterback for an injured quarterback. Bourbon Lover sent Joe Burrow's 49.48 away for Lamar Jackson, who needs thumb surgery. That's a bold way to see how it feels.",
+    "3. Always get your own first-round pick back. paknight12 did, and it's the best part of the whole day."
    ]
   },
   {
@@ -1020,9 +1025,9 @@
  ],
  "exits": [
   {
-   "p": "Tony Pollard",
-   "team": "The Champ",
-   "t": "Scored 27.2 on the bench in Week 8 for the second week in a row, and The Champ lost by 48.54. Now has Tennessee's bye on top of that."
+   "p": "Zay Flowers",
+   "team": "Kraft for Cash",
+   "t": "Scored 0.00 for The Champ in Week 8, then was traded twice on Friday, to Bourbon Lover and then to Kraft for Cash. Has a deep receiver room to fight through now."
   },
   {
    "p": "Emmett Johnson",
@@ -1037,7 +1042,7 @@
   {
    "p": "Sam Darnold",
    "team": "Bourbon Lover",
-   "t": "Scored 21.52 on the bench in Week 8 while Dak Prescott had 22.8 in the lineup. Bourbon Lover won by 48.54 anyway, but Darnold would like a bigger seat."
+   "t": "Scored 21.52 on the bench in Week 8 while Dak Prescott had 22.8 in the lineup. Bourbon Lover now also has Lamar Jackson and Drew Lock, so the seat only got more crowded."
   },
   {
    "p": "Jonah Coleman",
