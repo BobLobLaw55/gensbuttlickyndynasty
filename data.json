@@ -1,5 +1,5 @@
 {
- "updated": "Friday, Nov 13, 2026 · 7:15 AM ET",
+ "updated": "Saturday, Nov 14, 2026 · 7:10 AM ET",
  "week": 10,
  "ticker": [
   [
@@ -41,42 +41,71 @@
  ],
  "wire": [
   {
+   "t": "Friday's final report has Mike Evans and Marvin Harrison Jr. both ruled Out, and both are still in the Jefferson’s Reserve starting lineup. Bhayshul Tuten has no game status and should play.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG10"
+  },
+  {
+   "t": "jrsmith1391 added Cowboys tight end Brevyn Spann-Ford and dropped Kalif Raymond Friday night, then put Spann-Ford in the Catfan94’s Farm Team lineup. T.J. Hockenson is Out and Colston Loveland is on Chicago's bye.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
+  },
+  {
+   "t": "Spann-Ford signed an extension in September that keeps him in Dallas through 2029. Jake Ferguson, the Cowboys' starter, is on the Kraft for Cash IR.",
+   "src": "Dallas Cowboys",
+   "url": "https://www.dallascowboys.com/news/brevyn-spann-ford-agrees-to-terms-on-extension-with-cowboys"
+  },
+  {
+   "t": "Questionable starters for Sunday: Amon-Ra St. Brown and Kenneth Walker III (Catfan94’s Farm Team), Garrett Wilson (The Champ), Denzel Boston (StrngeJhnsonHurtsmyBoutte), Rhamondre Stevenson (Dude, Your Getting a Dell), Omar Cooper Jr. and Jordan Addison (OBJAY), and Adonai Mitchell (I Chase Brown Kids).",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG10"
+  },
+  {
+   "t": "Cleared with no game status: Tony Pollard (Bourbon Lover), Ladd McConkey (Asian Jim), Jakobi Meyers and Chris Rodriguez Jr. (StrngeJhnsonHurtsmyBoutte), Jonathan Taylor (Kraft for Cash) and George Pickens (LigmaBrocksAndLoveMyPenix).",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG10"
+  },
+  {
+   "t": "Kyler Murray was ruled Out. He's on the Asian Jim bench, so ManicOrientals doesn't have to move anything.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG10"
+  },
+  {
    "t": "Washington beat the Giants 24-21 Thursday night, and Stefon Diggs caught the winning 32-yard touchdown from Jayden Daniels with 57 seconds left. Diggs scored 17.8 for Dude, Your Getting a Dell, which is already 22% of Br0phy's season average.",
    "src": "ESPN",
    "url": "https://www.espn.com/nfl/recap/_/gameId/401873052"
   },
   {
-   "t": "Cam Skattebo ran for two touchdowns (18 carries, 78 yards, plus 44 receiving) and scored 28.7 for OBJAY. Washington's Antonio Williams caught a 31-yard touchdown and scored 11.7 on OBJAY's taxi squad.",
-   "src": "ESPN box score",
-   "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
-  },
-  {
    "t": "Isaiah Likely had 9 catches for 127 yards and a 66-yard touchdown, 29.7 points for LigmaBrocksAndLoveMyPenix. J.J. McCarthy threw for 293 yards and scored 22.12 on the Jefferson’s Reserve bench. jmello16 starts C.J. Stroud on Sunday.",
    "src": "ESPN box score",
    "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
-  },
-  {
-   "t": "Jayden Daniels threw three touchdowns and two interceptions for 27.76, and Malik Nabers had 5 catches for 44 yards and a lost fumble (5.4). I Chase Brown Kids leads Bourbon Lover 33.16 to 0.30, because Devin Singletary got one carry.",
-   "src": "ESPN box score",
-   "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
-  },
-  {
-   "t": "Bill_Buttlicker took Makai Lemon out of the StrngeJhnsonHurtsmyBoutte lineup. Chris Rodriguez Jr. and AJ Barner are in. Kaleb Johnson and Ashton Dulin are still on the bench, and there are no bye-week starters left anywhere in the league.",
-   "src": "League transactions",
-   "url": "https://sleeper.com/leagues/1312534094717943808"
-  },
-  {
-   "t": "Thursday practice: Mike Evans and Bhayshul Tuten (Jefferson’s Reserve) did not practice again. Denzel Boston (StrngeJhnsonHurtsmyBoutte), T.J. Hockenson (Catfan94’s Farm Team) and Tony Pollard (Bourbon Lover) also sat. All five are in Week 10 lineups.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/injuries/league/2026/REG10"
-  },
-  {
-   "t": "Jonathan Taylor (Kraft for Cash) was a full participant Thursday after being limited Wednesday. Alvin Kamara and Jared Goff were full too. Kyler Murray (Asian Jim) did not practice.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/injuries/league/2026/REG10"
   }
  ],
  "stories": [
+  {
+   "id": "friday-w10-outs",
+   "kicker": "Injury Report",
+   "title": "Jefferson’s Reserve has two starters ruled Out, and not one healthy receiver left on the bench",
+   "dek": "Mike Evans and Marvin Harrison Jr. are both Out. Catfan94’s Farm Team grabs Brevyn Spann-Ford off waivers to cover a tight end hole.",
+   "body": [
+    "Friday's final injury report ruled out Mike Evans and Marvin Harrison Jr., and as of this morning both are still in the Jefferson’s Reserve lineup. That's not a jmello16 screwup yet. The games are Sunday and the report came out Friday afternoon. But it's a real problem, because the bench doesn't have an answer.",
+    "Look at the active bench: Chris Godwin Jr. is on Tampa Bay's bye, Jaylen Waddle is Out, and there isn't another healthy receiver there. Chris Olave can slide from flex to receiver, and Kyle Pitts Sr. or Emanuel Wilson can take the flex, but the third receiver spot needs a body. jmello16 either promotes Elic Ayomanor, Chimere Dike or Ja'Kobi Lane off the taxi squad or hits free agency.",
+    "And this is against LigmaBrocksAndLoveMyPenix, which already leads 29.70 to 0.00 and is now a 46.4-point favorite, up from 43.4. J.J. McCarthy's 22.12 is still sitting on the bench from Thursday. Bhayshul Tuten did get cleared, so there's that.",
+    "Meanwhile jrsmith1391 actually handled it. T.J. Hockenson was ruled Out and Colston Loveland is on Chicago's bye, so Catfan94’s Farm Team picked up Brevyn Spann-Ford, dropped Kalif Raymond, and started him. Spann-Ford got an extension through 2029 in September, and Jake Ferguson is on the Kraft for Cash IR. Down 28.70 to OBJAY, still a 25.6-point favorite. That's how you manage a Friday."
+   ]
+  },
+  {
+   "id": "friday-w10-q",
+   "kicker": "Sunday Watch",
+   "title": "Eight starters are Questionable, and Catfan94’s Farm Team has two of them",
+   "dek": "Tony Pollard, Jakobi Meyers, Chris Rodriguez Jr. and Ladd McConkey all got cleared. Check your lineups before 1 PM.",
+   "body": [
+    "The questionable list for Sunday starters: Amon-Ra St. Brown and Kenneth Walker III for Catfan94’s Farm Team, Garrett Wilson for The Champ, Denzel Boston for StrngeJhnsonHurtsmyBoutte, Rhamondre Stevenson for Dude, Your Getting a Dell, Omar Cooper Jr. and Jordan Addison for OBJAY, and Adonai Mitchell for I Chase Brown Kids.",
+    "jrsmith1391 has MarShawn Lloyd and Zonovan Knight on the bench, since Bucky Irving and D'Andre Swift are on bye. JAY2913 has Efton Chism III and Tutu Atwell (Emeka Egbuka is on Tampa Bay's bye). ZachCarroll09 has Troy Franklin, who's on Denver's bye, and Rashod Bateman. TJohn91 has Kayshon Boutte and Keenan Allen.",
+    "Good news for some people: Tony Pollard got cleared for Bourbon Lover after missing Thursday, and Ladd McConkey has no status for Asian Jim. Jakobi Meyers and Chris Rodriguez Jr. are good to go for me.",
+    "My one question mark is Denzel Boston. If he's out, I've got Devaughn Vele, Konata Mumpfield and Ashton Dulin on the bench. I'm a 38.2-point underdog to Hold My DK, down from 41.2, so it barely matters, but I'm going to manage it anyway, because apparently that's my brand now."
+   ]
+  },
   {
    "id": "tnf-w10-final",
    "kicker": "Thursday Night",
@@ -87,30 +116,6 @@
     "That 29.7 is Isaiah Likely, who had 9 catches, 127 yards and a 66-yard touchdown. Catfan94 is 8‑1, a 43.4-point favorite, and got a head start from his tight end. Must be nice.",
     "OBJAY got 28.7 from Cam Skattebo and his two touchdowns, so JAY2913 leads Catfan94’s Farm Team 28.70 to 0.00. Antonio Williams also caught a 31-yard touchdown for Washington and scored 11.7 on OBJAY's taxi squad. I Chase Brown Kids leads Bourbon Lover 33.16 to 0.30 behind Jayden Daniels (27.76, three touchdowns, two picks). Devin Singletary got one carry. Dude, Your Getting a Dell got 17.8 from Stefon Diggs, including the winning touchdown, and leads The Champ 17.80 to 0.00. Br0phy is 0‑9 and has a lead. Screenshot it.",
     "And yes, I fixed it. Makai Lemon is out of the StrngeJhnsonHurtsmyBoutte lineup, Chris Rodriguez Jr. and AJ Barner are in, and the league has zero bye-week starters. I'm still a 41.2-point underdog to Hold My DK, Denzel Boston didn't practice Thursday, and Kaleb Johnson and Ashton Dulin are still on my bench. Baby steps."
-   ]
-  },
-  {
-   "id": "practice-w10",
-   "kicker": "Injury Watch",
-   "title": "Five Week 10 starters sat out Thursday practice, and two of them play for Jefferson’s Reserve",
-   "dek": "Mike Evans, Bhayshul Tuten, Denzel Boston, T.J. Hockenson and Tony Pollard. Friday's report decides a lot of lineups.",
-   "body": [
-    "Thursday's practice report has five players who did not practice and are still in Week 10 lineups. Two are on Jefferson’s Reserve: Mike Evans, who hasn't played since Oct. 19, and Bhayshul Tuten. jmello16 has Chris Godwin Jr. on bye, Jaylen Waddle out and Braelon Allen in the lineup, so the options are thin. Emanuel Wilson is on the bench.",
-    "Denzel Boston sat again for StrngeJhnsonHurtsmyBoutte. Jakobi Meyers and Chris Rodriguez Jr. were limited. Bill_Buttlicker has Devaughn Vele, Marquise Brown and Ashton Dulin on the bench, so there's a backup plan if Boston gets ruled out.",
-    "T.J. Hockenson didn't practice for Catfan94’s Farm Team, and Amon-Ra St. Brown was limited. Colston Loveland is on the bench. jrsmith1391 is down 28.7 before Sunday. Tony Pollard didn't practice for Bourbon Lover, which is already down 33.16 to 0.30. paknight12 has Kenny Gainwell on the bench.",
-    "The good news: Jonathan Taylor went from limited to full for Kraft for Cash, and George Pickens, Garrett Wilson, Rhamondre Stevenson and Marvin Harrison Jr. were all limited, which is better than not practicing. Friday's report decides the rest."
-   ]
-  },
-  {
-   "id": "week9",
-   "kicker": "Weekly Recap",
-   "title": "Week 9 recap: Catfan94’s Farm Team drops 180.30, The Champ loses with the highest losing score, and Dude, Your Getting a Dell is 0‑9",
-   "dek": "A 97.38-point blowout, a 6.28-point nail-biter and three starters below zero.",
-   "body": [
-    "Catfan94’s Farm Team beat Jefferson’s Reserve 180.30 to 82.92, a 97.38-point margin and the biggest of the week. Kenneth Walker III had 36.8, Brock Purdy 31.28, Christian Watson 28.6 and Bucky Irving 27.5. jrsmith1391 is 6‑3 and has won two straight.",
-    "LigmaBrocksAndLoveMyPenix beat The Champ 164.84 to 127.74. Jordan Love scored 42.18, Ja'Marr Chase 30.0 and Brock Bowers 24.3, and Catfan94 is 8‑1 with five wins in a row. TJohn91 had the highest losing score of the week and still lost by 37.10. Josh Jacobs scored -0.5 in the lineup, and Boutte (29.5) and Matthew Stafford (13.22) sat on the bench.",
-    "Hold My DK beat Bourbon Lover 147.12 to 86.20 behind Puka Nacua at 32.5 and Christian McCaffrey at 23.7. Kraft for Cash beat I Chase Brown Kids 121.74 to 99.86, and Asian Jim beat Dude, Your Getting a Dell 86.00 to 68.34, which is the lowest score of the week. Br0phy is 0‑9.",
-    "StrngeJhnsonHurtsmyBoutte beat OBJAY 115.16 to 108.88 by 6.28, the closest game of the week. Bill_Buttlicker is 3‑6 with Drake Maye at 24.76. JAY2913 had Efton Chism III on the bench with 14.4, and swapping him in for Emeka Egbuka (6.4) would have won it 116.88 to 115.16."
    ]
   },
   {
@@ -310,7 +315,7 @@
    "own": "Catfan94",
    "rec": "8‑1",
    "ap": "84-15",
-   "take": "Isaiah Likely put up 29.7 Thursday, so Catfan94 leads Jefferson’s Reserve 29.70 to 0.00 before Sunday. Five straight wins and the best all-play record in the league at 84-15."
+   "take": "Up 29.70 to 0.00 on Jefferson’s Reserve, which has two starters ruled Out. Now a 46.4-point favorite with the best all-play record in the league at 84-15."
   },
   {
    "rk": 2,
@@ -319,7 +324,7 @@
    "own": "TheMoneyTeam2302",
    "rec": "8‑1",
    "ap": "77-22",
-   "take": "Puka Nacua is on IR and Caleb Williams is on bye, and TheMoneyTeam2302 is still a 41.2-point favorite. Patrick Mahomes and Aaron Rodgers start Sunday."
+   "take": "Nobody on Hold My DK's starting lineup is on the injury report. Puka Nacua is still on IR and Caleb Williams is on bye, and TheMoneyTeam2302 is a 38.2-point favorite."
   },
   {
    "rk": 3,
@@ -328,7 +333,7 @@
    "own": "jrsmith1391",
    "rec": "6‑3",
    "ap": "74-25",
-   "take": "Down 28.7 to OBJAY before playing a snap. T.J. Hockenson didn't practice Thursday and Amon-Ra St. Brown was limited. Still a 24.6-point favorite."
+   "take": "jrsmith1391 picked up Brevyn Spann-Ford to cover for T.J. Hockenson (Out) and Colston Loveland (bye). Amon-Ra St. Brown and Kenneth Walker III are Questionable. Down 28.7, a 25.6-point favorite."
   },
   {
    "rk": 4,
@@ -346,7 +351,7 @@
    "own": "TJohn91",
    "rec": "4‑5",
    "ap": "59-40",
-   "take": "Trails Dude, Your Getting a Dell 17.80 to 0.00 after Stefon Diggs's game-winner. Josh Jacobs is on IR, and The Champ is still a 62.1-point favorite."
+   "take": "Garrett Wilson is Questionable, Josh Jacobs is on IR, and The Champ trails Dude, Your Getting a Dell 17.80 to 0.00. Still a 60.1-point favorite."
   },
   {
    "rk": 6,
@@ -355,7 +360,7 @@
    "own": "jmello16",
    "rec": "5‑4",
    "ap": "47-52",
-   "take": "J.J. McCarthy scored 22.12 on the bench Thursday, a week after C.J. Stroud scored 50.36 on the bench. Mike Evans and Bhayshul Tuten didn't practice Thursday. Down 29.7."
+   "take": "Mike Evans and Marvin Harrison Jr. are both Out and both still in the lineup, and there's no healthy receiver on the active bench. A 46.4-point underdog, down 29.7."
   },
   {
    "rk": 7,
@@ -391,7 +396,7 @@
    "own": "Bill_Buttlicker",
    "rec": "3‑6",
    "ap": "27-72",
-   "take": "Makai Lemon is out of the lineup. Denzel Boston didn't practice Thursday, and Jakobi Meyers was limited. A 41.2-point underdog instead of 47.2. Progress."
+   "take": "Jakobi Meyers and Chris Rodriguez Jr. got cleared, Denzel Boston is Questionable. A 38.2-point underdog instead of 41.2. Progress, again."
   },
   {
    "rk": 11,
@@ -400,7 +405,7 @@
    "own": "paknight12",
    "rec": "3‑6",
    "ap": "32-67",
-   "take": "Devin Singletary got one carry for 0.3 points, and Tony Pollard didn't practice Thursday. Down 33.16 to 0.30."
+   "take": "Tony Pollard got cleared Friday. Devin Singletary's one carry is still the only thing on the board, and Bourbon Lover trails 33.16 to 0.30."
   },
   {
    "rk": 12,
@@ -426,7 +431,7 @@
     "TheyLookedGoodInShorts (2025, 5-9)",
     "The Money Team (2024, 5-9)"
    ],
-   "w7": "Week 10: vs StrngeJhnsonHurtsmyBoutte, favored by 41.2 (91% win prob)",
+   "w7": "Week 10: vs StrngeJhnsonHurtsmyBoutte, favored by 38.2 (89% win prob)",
    "inj": [
     "James Conner (IR)",
     "Brian Robinson Jr. (IR)",
@@ -434,7 +439,7 @@
    ],
    "body": [
     "147.12 over Bourbon Lover with Puka Nacua at 32.5 and Christian McCaffrey at 23.7. Darren Waller had 25.0 on the bench.",
-    "No first-round picks in 2027, 2028 or 2029. Puka Nacua is on IR, Caleb Williams is on bye, and TheMoneyTeam2302 starts Patrick Mahomes and Aaron Rodgers as a 41.2-point favorite."
+    "No first-round picks in 2027, 2028 or 2029. Puka Nacua is on IR, Caleb Williams is on bye, and TheMoneyTeam2302 starts Patrick Mahomes and Aaron Rodgers as a 38.2-point favorite."
    ]
   },
   {
@@ -450,13 +455,11 @@
     "LigmaBrocksAndLoveMyPenix (2025, 12-2, runner-up)",
     "Yall Love PurdyWhitePenix (2024, 7-7)"
    ],
-   "w7": "Week 10: vs Jefferson’s Reserve, favored by 43.4 (92% win prob)",
+   "w7": "Week 10: vs Jefferson’s Reserve, favored by 46.4 (93% win prob)",
    "inj": [
     "Jalen McMillan (IR)",
     "Isiah Pacheco (IR)",
     "De'Von Achane (IR)",
-    "Savion Williams (Questionable)",
-    "George Pickens (Questionable)",
     "Chig Okonkwo (Questionable)"
    ],
    "body": [
@@ -477,20 +480,20 @@
     "Allen’s Degenrates (2025, 6-8)",
     "Team Cheugy (2024, runner-up)"
    ],
-   "w7": "Week 10: vs OBJAY, favored by 24.6 (79% win prob)",
+   "w7": "Week 10: vs OBJAY, favored by 25.6 (80% win prob)",
    "inj": [
     "Jayden Reed (IR)",
     "Kendrick Bourne (IR)",
     "Terry McLaurin (IR)",
+    "T.J. Hockenson (Out)",
     "DeVonta Smith (Out)",
-    "T.J. Hockenson (Questionable)",
     "Amon-Ra St. Brown (Questionable)",
-    "Zonovan Knight (Questionable)",
+    "Kenneth Walker III (Questionable)",
     "Keaton Mitchell (Questionable)"
    ],
    "body": [
     "180.30 with Kenneth Walker III at 36.8, Brock Purdy at 31.28, Christian Watson at 28.6 and Bucky Irving at 27.5. Top score of the week.",
-    "Down 28.70 to 0.00 after Thursday. T.J. Hockenson didn't practice Thursday and Amon-Ra St. Brown was limited. Zero first-round picks through 2029."
+    "jrsmith1391 added Brevyn Spann-Ford for Kalif Raymond and started him with T.J. Hockenson Out and Colston Loveland on bye. Down 28.70 to 0.00 after Thursday. Zero first-round picks through 2029."
    ]
   },
   {
@@ -506,16 +509,14 @@
     "The Champ (2025, champion)",
     "Dirty Mike & The Boys (2024, champion)"
    ],
-   "w7": "Week 10: vs Dude, Your Getting a Dell, favored by 62.1 (98% win prob)",
+   "w7": "Week 10: vs Dude, Your Getting a Dell, favored by 60.1 (97% win prob)",
    "inj": [
     "Jeremiyah Love (IR)",
     "Davante Adams (IR)",
     "Josh Jacobs (IR)",
     "TreVeyon Henderson (Out)",
-    "Harold Fannin Jr. (Questionable)",
-    "Chris Bell (Questionable)",
-    "A.J. Brown (Questionable)",
-    "Garrett Wilson (Questionable)"
+    "Garrett Wilson (Questionable)",
+    "A.J. Brown (Questionable)"
    ],
    "body": [
     "127.74 with Joe Burrow at 35.54 and Matthew Golden at 30.4. Josh Jacobs scored -0.5, and Kayshon Boutte had 29.5 on the bench.",
@@ -556,17 +557,17 @@
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "Week 10: vs LigmaBrocksAndLoveMyPenix, underdog by 43.4 (8% win prob)",
+   "w7": "Week 10: vs LigmaBrocksAndLoveMyPenix, underdog by 46.4 (7% win prob)",
    "inj": [
     "Travis Etienne Jr. (IR)",
+    "Mike Evans (Out)",
+    "Marvin Harrison Jr. (Out)",
     "Jaylen Waddle (Out)",
-    "Marvin Harrison Jr. (Questionable)",
-    "Bhayshul Tuten (Questionable)",
-    "Mike Evans (Questionable)"
+    "RJ Harvey (IR)"
    ],
    "body": [
     "82.92 with C.J. Stroud at 50.36 on the bench. Kirk Cousins at 13.64 was in the lineup.",
-    "J.J. McCarthy threw for 293 yards Thursday and scored 22.12 on the bench, with C.J. Stroud starting Sunday. Mike Evans and Bhayshul Tuten did not practice Thursday."
+    "Mike Evans and Marvin Harrison Jr. were ruled Out Friday and are still in the lineup, and the active bench has no healthy receiver. jmello16 needs a taxi-squad promotion or a free agent before Sunday."
    ]
   },
   {
@@ -582,16 +583,14 @@
     "🤷‍♂️ (2025, 5-9)",
     "Team 13 (2024, third place)"
    ],
-   "w7": "Week 10: vs Catfan94’s Farm Team, underdog by 24.6 (21% win prob)",
+   "w7": "Week 10: vs Catfan94’s Farm Team, underdog by 25.6 (20% win prob)",
    "inj": [
     "Michael Wilson (IR)",
     "Jaxson Dart (IR)",
     "Alec Pierce (IR)",
-    "Dalton Kincaid (Questionable)",
-    "Woody Marks (Questionable)",
-    "Luther Burden III (Questionable)",
     "Omar Cooper Jr. (Questionable)",
-    "Tyler Higbee (Questionable)",
+    "Jordan Addison (Questionable)",
+    "Luther Burden III (Questionable)",
     "David Montgomery (Questionable)",
     "Tyjae Spears (Questionable)"
    ],
@@ -613,12 +612,12 @@
     "I Chase Brown Kids (2025, 4-10)",
     "Bang Bros (2024, 11-3)"
    ],
-   "w7": "Week 10: vs Bourbon Lover, favored by 20.7 (75% win prob)",
+   "w7": "Week 10: vs Bourbon Lover, favored by 16.7 (70% win prob)",
    "inj": [
     "Xavier Legette (IR)",
     "Athan Kaliakmanis (Out)",
-    "Carnell Tate (Questionable)",
-    "Rashod Bateman (Questionable)"
+    "Carnell Tate (Out)",
+    "Adonai Mitchell (Questionable)"
    ],
    "body": [
     "99.86 with Bijan Robinson at 26.7 and Javonte Williams at 22.4. Two starters scored 0.00.",
@@ -642,12 +641,9 @@
    "inj": [
     "Jonathon Brooks (IR)",
     "Ricky Pearsall (IR)",
+    "Kyler Murray (Out)",
     "Kyle Monangai (Out)",
-    "Tyler Goodson (Out)",
-    "Kyler Murray (Doubtful)",
-    "Ladd McConkey (Questionable)",
-    "Tre' Harris (Questionable)",
-    "Hunter Henry (Questionable)"
+    "Tyler Goodson (Out)"
    ],
    "body": [
     "86.00 with Tyler Shough at 21.2 and Daniel Jones at 14.8. Justice Hill had 18.7 on the bench and Ladd McConkey had 0.0 in the lineup.",
@@ -667,18 +663,16 @@
     "8==👊🏼✊🏼==D💦 🫨 (2025, 4-10)",
     "BTaylor is still my bitch (2024, 3-11)"
    ],
-   "w7": "Week 10: vs Hold My DK, underdog by 41.2 (9% win prob)",
+   "w7": "Week 10: vs Hold My DK, underdog by 38.2 (11% win prob)",
    "inj": [
     "Jaylin Noel (IR)",
     "Adam Randall (IR)",
     "Jalen Hurts (IR)",
-    "Chris Rodriguez Jr. (Questionable)",
-    "Denzel Boston (Questionable)",
-    "Jakobi Meyers (Questionable)"
+    "Denzel Boston (Questionable)"
    ],
    "body": [
     "115.16 with Drake Maye at 24.76 and Parker Washington at 15.6. Beat OBJAY by 6.28 to end a three-game losing streak.",
-    "Makai Lemon is finally out of the lineup. Denzel Boston didn't practice Thursday, Kaleb Johnson and Ashton Dulin are on the bench, and Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
+    "Jakobi Meyers and Chris Rodriguez Jr. were cleared Friday and Denzel Boston is Questionable. Kaleb Johnson and Ashton Dulin are on the bench, and Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
    ]
   },
   {
@@ -694,19 +688,16 @@
     "Bourbon Lover (2025, 6-8)",
     "Bourbon Lover (2024, 5-9)"
    ],
-   "w7": "Week 10: vs I Chase Brown Kids, underdog by 20.7 (25% win prob)",
+   "w7": "Week 10: vs I Chase Brown Kids, underdog by 16.7 (30% win prob)",
    "inj": [
     "Lamar Jackson (IR)",
     "Sam Darnold (IR)",
     "Dontayvion Wicks (IR)",
-    "Drew Lock (Questionable)",
-    "Tony Pollard (Questionable)",
-    "Colby Parkinson (Questionable)",
-    "Jauan Jennings (Questionable)"
+    "Jauan Jennings (Out)"
    ],
    "body": [
     "86.20 with Dak Prescott at 23.5, Drew Lock at 15.1 and Courtland Sutton at 15.0. Aaron Jones Sr. had 2.6.",
-    "Devin Singletary got one carry Thursday for 0.3, and Tony Pollard didn't practice. Down 33.16 to 0.30 with Courtland Sutton on bye. Two first-round picks through 2029."
+    "Tony Pollard was cleared Friday after missing Thursday practice. Down 33.16 to 0.30 with Courtland Sutton on bye. Two first-round picks through 2029."
    ]
   },
   {
@@ -719,15 +710,13 @@
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "Week 10: vs The Champ, underdog by 62.1 (2% win prob)",
+   "w7": "Week 10: vs The Champ, underdog by 60.1 (3% win prob)",
    "inj": [
     "Trey Benson (IR)",
     "De'Zhaun Stribling (IR)",
-    "Zachariah Branch (Doubtful)",
-    "Brenen Thompson (Questionable)",
-    "Carson Wentz (Questionable)",
-    "Deebo Samuel Sr. (Questionable)",
-    "Rhamondre Stevenson (Questionable)"
+    "Zachariah Branch (Out)",
+    "Rhamondre Stevenson (Questionable)",
+    "Brenen Thompson (Questionable)"
    ],
    "body": [
     "68.34 with Tank Dell at 20.0. Joe Fagnano scored -0.3, a Raiders running back scored -0.3 and Carson Wentz scored -2.76.",
@@ -738,15 +727,19 @@
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "J.J. McCarthy reportedly finished Thursday's game and asked the Jefferson’s Reserve group chat whether 22.12 'counts if nobody saw it.' jmello16 left him on read."
+   "t": "jmello16 has reportedly asked Sleeper whether Justin Jefferson can play two receiver spots at once 'since he's the namesake.' Sleeper has not responded."
+  },
+  {
+   "src": "Developing",
+   "t": "Brevyn Spann-Ford reportedly showed up to Catfan94’s Farm Team with a blocking sled and asked where the line is. jrsmith1391 told him the line is 25.6 and to get open."
+  },
+  {
+   "src": "Sources say",
+   "t": "Kalif Raymond reportedly found out he'd been dropped from Catfan94’s Farm Team via push notification at 9:53 PM on a Friday and replied 'k.'"
   },
   {
    "src": "Developing",
    "t": "Br0phy has reportedly ordered a 'FIRST PLACE IN WEEK 10 (THURSDAY)' banner for Dude, Your Getting a Dell and asked the printer to rush it before Sunday at 1 PM."
-  },
-  {
-   "src": "Hearing",
-   "t": "Makai Lemon reportedly found out he'd been benched from the StrngeJhnsonHurtsmyBoutte lineup and asked Bill_Buttlicker what took so long. Tyler said he 'wanted to see how the week played out.'"
   },
   {
    "src": "Sources say",
@@ -755,10 +748,6 @@
   {
    "src": "Unconfirmed",
    "t": "paknight12 reportedly filed a complaint with the Giants that Devin Singletary got one carry. The Giants replied with a picture of Cam Skattebo."
-  },
-  {
-   "src": "Breaking",
-   "t": "Jefferson’s Reserve has reportedly hired a quarterback coach whose only job is to look at last week's bench and start whoever is sitting there. He starts next week, which is the problem."
   },
   {
    "src": "Told",
@@ -819,15 +808,15 @@
    "tag": "Fair"
   },
   {
-   "a": "Hold My DK",
+   "a": "Jefferson’s Reserve",
    "aget": [
-    "Garrett Wilson"
+    "Jerry Jeudy"
    ],
-   "b": "The Champ",
+   "b": "Bourbon Lover",
    "bget": [
-    "Chuba Hubbard"
+    "Kirk Cousins"
    ],
-   "why": "TheMoneyTeam2302 lost Puka Nacua and has Chuba Hubbard on the bench. TJohn91 needs running backs more than a fourth receiver. Wilson (26) was limited Thursday.",
+   "why": "Jefferson’s Reserve has two receivers ruled Out, Jaylen Waddle Out and Chris Godwin Jr. on bye, and five quarterbacks. Bourbon Lover has Lamar Jackson and Sam Darnold on IR and is starting Drew Lock at superflex. Each side sends what it has too much of.",
    "tag": "Both sides win"
   },
   {
@@ -874,18 +863,22 @@
   "trying": [
    [
     "Jefferson’s Reserve",
-    "J.J. McCarthy scored 22.12 on the bench Thursday, one week after C.J. Stroud scored 50.36 on the bench. Down 29.70 to 0.00, and Mike Evans and Bhayshul Tuten didn't practice Thursday."
+    "Mike Evans and Marvin Harrison Jr. are Out and still in the lineup, Jaylen Waddle is Out and Chris Godwin Jr. is on bye. No healthy receiver on the active bench and down 29.70 to 0.00. jmello16 has until Sunday at 1."
    ],
    [
     "Bourbon Lover",
-    "Devin Singletary got one carry. Down 33.16 to 0.30, Tony Pollard didn't practice Thursday, and paknight12 has given up the most points in the league."
+    "Devin Singletary got one carry. Down 33.16 to 0.30 and Tony Pollard got cleared, but and paknight12 has given up the most points in the league."
    ],
    [
-    "Catfan94’s Farm Team",
-    "Down 28.7 before kickoff, T.J. Hockenson sat out Thursday and Amon-Ra St. Brown was limited. jrsmith1391 needs a big Sunday."
+    "Asian Jim",
+    "Up 9.20 to 0.00, but a 17.5-point underdog to Kraft for Cash, and Kyler Murray was ruled Out. At least he's on the bench."
    ]
   ],
   "gfy": [
+   [
+    "Catfan94’s Farm Team",
+    "T.J. Hockenson Out, Colston Loveland on bye, so jrsmith1391 grabbed Brevyn Spann-Ford Friday night and started him. That's a manager who reads the injury report."
+   ],
    [
     "OBJAY",
     "Cam Skattebo scored two touchdowns and JAY2913 is up 28.70 to 0.00 on a 6‑3 team. Antonio Williams scored too, on the taxi squad, but nobody's perfect."
@@ -893,10 +886,6 @@
    [
     "Dude, Your Getting a Dell",
     "Br0phy started Stefon Diggs, Diggs caught the winning touchdown, and Dude, Your Getting a Dell has a lead in Week 10. Frame it."
-   ],
-   [
-    "StrngeJhnsonHurtsmyBoutte",
-    "Bill_Buttlicker took Makai Lemon out of the lineup after the rest of the league had already fixed its byes. Last one there, but credit for showing up."
    ]
   ]
  },
@@ -904,50 +893,50 @@
   {
    "fav": "LigmaBrocksAndLoveMyPenix",
    "dog": "Jefferson’s Reserve",
-   "spread": "-43.4",
+   "spread": "-46.4",
    "total": "289.0",
-   "note": "Raw PPG gap is 40.4. Jefferson’s Reserve loses Jaylen Waddle and Chris Godwin Jr., and Mike Evans and Bhayshul Tuten missed Thursday practice too (-6). LigmaBrocksAndLoveMyPenix has Saquon Barkley and Rome Odunze on bye (-3). After Thursday it's 29.70 to 0.00, and J.J. McCarthy's 22.12 is on the Jefferson’s Reserve bench.",
-   "prob": 92
+   "note": "Raw PPG gap is 40.4. Jefferson’s Reserve has Mike Evans and Marvin Harrison Jr. ruled Out and still in the lineup, Jaylen Waddle Out and Chris Godwin Jr. on bye, with no healthy receiver on the active bench (-9). LigmaBrocksAndLoveMyPenix has Saquon Barkley and Rome Odunze on bye (-3). It's 29.70 to 0.00 after Thursday.",
+   "prob": 93
   },
   {
    "fav": "Kraft for Cash",
    "dog": "Asian Jim",
    "spread": "-17.5",
    "total": "254.9",
-   "note": "Raw gap is 17.5. Jonathan Taylor practiced in full Thursday, and Kyler Murray, who's on Asian Jim's bench, did not. No nudge. Asian Jim leads 9.20 to 0.00 after Austin Ekeler's Thursday.",
+   "note": "Raw gap is 17.5. Jonathan Taylor and Ladd McConkey both have no game status, and Kyler Murray (Out) is on the Asian Jim bench. No nudge. Asian Jim leads 9.20 to 0.00 after Austin Ekeler's Thursday.",
    "prob": 71
   },
   {
    "fav": "The Champ",
    "dog": "Dude, Your Getting a Dell",
-   "spread": "-62.1",
+   "spread": "-60.1",
    "total": "218.4",
-   "note": "Raw gap is 59.1. The Champ is without Josh Jacobs (-3). Dude, Your Getting a Dell is without Dallas Goedert and has Rhamondre Stevenson, who was limited Thursday (-6). Br0phy leads 17.80 to 0.00 after Stefon Diggs's touchdown.",
-   "prob": 98
+   "note": "Raw gap is 59.1. The Champ is without Josh Jacobs (-3) and Garrett Wilson is Questionable (-2). Dude, Your Getting a Dell has Dallas Goedert on Philadelphia's bye and Rhamondre Stevenson Questionable (-6). Br0phy leads 17.80 to 0.00.",
+   "prob": 97
   },
   {
    "fav": "Catfan94’s Farm Team",
    "dog": "OBJAY",
-   "spread": "-24.6",
+   "spread": "-25.6",
    "total": "272.2",
-   "note": "Raw gap is 27.6. T.J. Hockenson didn't practice Thursday and Amon-Ra St. Brown was limited (-3 for Catfan94’s Farm Team). OBJAY already has 28.70 from Cam Skattebo.",
-   "prob": 79
+   "note": "Raw gap is 27.6. Catfan94’s Farm Team has T.J. Hockenson Out (Brevyn Spann-Ford starts at tight end) and Amon-Ra St. Brown and Kenneth Walker III Questionable (-4). OBJAY has Omar Cooper Jr. and Jordan Addison Questionable (-2). OBJAY already has 28.70 from Cam Skattebo.",
+   "prob": 80
   },
   {
    "fav": "I Chase Brown Kids",
    "dog": "Bourbon Lover",
-   "spread": "-20.7",
+   "spread": "-16.7",
    "total": "228.7",
-   "note": "Raw gap is 14.7. Bourbon Lover loses Courtland Sutton to Denver's bye (-3), and Tony Pollard didn't practice Thursday (-3). I Chase Brown Kids leads 33.16 to 0.30 after Thursday.",
-   "prob": 75
+   "note": "Raw gap is 14.7. Bourbon Lover loses Courtland Sutton to Denver's bye (-3), but Tony Pollard was cleared. I Chase Brown Kids has Adonai Mitchell Questionable (-1). It's 33.16 to 0.30 after Thursday.",
+   "prob": 70
   },
   {
    "fav": "Hold My DK",
    "dog": "StrngeJhnsonHurtsmyBoutte",
-   "spread": "-41.2",
+   "spread": "-38.2",
    "total": "263.9",
-   "note": "Raw gap is 44.2. Hold My DK has Puka Nacua on IR (-5) and Caleb Williams on bye (-3). StrngeJhnsonHurtsmyBoutte took Makai Lemon out of the lineup, but Denzel Boston didn't practice Thursday and Jakobi Meyers and Chris Rodriguez Jr. were limited (-5). Net -3 for Hold My DK, down from +3.",
-   "prob": 91
+   "note": "Raw gap is 44.2. Hold My DK has Puka Nacua on IR (-5) and Caleb Williams on bye (-3). StrngeJhnsonHurtsmyBoutte has Denzel Boston Questionable (-2), while Jakobi Meyers and Chris Rodriguez Jr. were cleared. Net -6 for Hold My DK.",
+   "prob": 89
   }
  ],
  "sources": [
@@ -966,6 +955,10 @@
   [
    "Commanders vs. Giants box score, Nov. 12, 2026 (ESPN)",
    "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
+  ],
+  [
+   "Brevyn Spann-Ford agrees to terms on extension with Cowboys (DallasCowboys.com)",
+   "https://www.dallascowboys.com/news/brevyn-spann-ford-agrees-to-terms-on-extension-with-cowboys"
   ],
   [
    "San Francisco 49ers announce concerning Mike Evans update (Heavy)",
@@ -1024,16 +1017,16 @@
  ],
  "columns": [
   {
-   "id": "mouth-w10c",
+   "id": "mouth-w10s",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "22.12 ON THE BENCH!! AGAIN!!",
-   "dek": "Jefferson’s Reserve keeps starting the wrong quarterback, and Br0phy is winning.",
+   "title": "TWO STARTERS OUT!! ZERO RECEIVERS ON THE BENCH!!",
+   "dek": "Jefferson’s Reserve has a Saturday problem. Catfan94’s Farm Team solved its Friday problem.",
    "body": [
-    "LAST WEEK C.J. STROUD SCORES 50.36 ON THE JEFFERSON’S RESERVE BENCH! SO JMELLO16 STARTS STROUD THIS WEEK! AND J.J. MCCARTHY GOES FOR 293 YARDS ON THE BENCH! 22.12! YOU CAN'T MAKE THIS UP!",
-    "AND WHO'S WINNING?! DUDE, YOUR GETTING A DELL! 17.80 TO 0.00! STEFON DIGGS! 32 YARDS! 57 SECONDS LEFT! BR0PHY IS 0‑9 AND HE'S LEADING THE CHAMP! THE CHAMP!",
-    "OBJAY IS UP 28.7 ON CATFAN94’S FARM TEAM! SKATTEBO! TWO TOUCHDOWNS! I CHASE BROWN KIDS IS UP 33.16 TO 0.30 BECAUSE DEVIN SINGLETARY GOT ONE CARRY! ONE!",
-    "AND TYLER FINALLY BENCHED MAKAI LEMON! THE LAST BYE-WEEK STARTER IN THE WHOLE LEAGUE! HIS OWN WEBSITE HAD TO TELL HIM! SLOW CLAP!"
+    "MIKE EVANS: OUT! MARVIN HARRISON JR.: OUT! BOTH IN THE JEFFERSON’S RESERVE LINEUP! AND I LOOKED AT THE BENCH! THERE'S NO RECEIVER THERE! CHRIS GODWIN JR. IS ON BYE! JAYLEN WADDLE IS OUT! IT'S TWO TIGHT ENDS, TWO RUNNING BACKS AND TWO QUARTERBACKS!",
+    "FIVE QUARTERBACKS AND NOBODY TO CATCH THE BALL! THAT'S NOT A FANTASY TEAM, THAT'S A QUARTERBACK CAMP! JMELLO16, PROMOTE SOMEBODY OFF THE TAXI SQUAD! ELIC AYOMANOR! CHIMERE DIKE! JA'KOBI LANE! ANYBODY!",
+    "MEANWHILE JRSMITH1391 SEES T.J. HOCKENSON RULED OUT, SEES COLSTON LOVELAND ON BYE, AND GOES AND GETS BREVYN SPANN-FORD AT 9:53 FRIDAY NIGHT! THAT'S A MANAGER! THAT'S A GUY WHO HAS NOTIFICATIONS ON!",
+    "AND TYLER'S A 38.2-POINT UNDERDOG NOW INSTEAD OF 41.2! THREE WHOLE POINTS! HE'S GONNA PUT IT ON THE WEBSITE! OH WAIT! HE OWNS THE WEBSITE!"
    ]
   },
   {
@@ -1050,37 +1043,38 @@
    ]
   },
   {
-   "id": "dale-w10c",
+   "id": "dale-w10s",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "4 lineup tips from Holden McGroin, who once started a punter at flex",
-   "dek": "Thursday taught us a lot. Holden learned none of it.",
+   "title": "5 Saturday lineup tips from Holden McGroin, who has never once checked an injury report",
+   "dek": "It's the day before kickoff. Holden is relaxed. Too relaxed.",
    "body": [
-    "1. Always start the quarterback who scored the most on your bench last week. jmello16 did this and got 0.00 Thursday while the other guy scored 22.12. The system works, just one week late. Every week.",
-    "2. Put your touchdown scorers on the taxi squad. Antonio Williams caught a 31-yard touchdown for JAY2913 and scored 11.7 where it doesn't count. That's what I call saving points for later.",
-    "3. Fix bye weeks last, like Bill_Buttlicker. Waiting until you're the only team left with a bye-week starter shows confidence. It also makes you the lead story on your own website.",
-    "4. Start running backs who get one carry. Devin Singletary had one carry for 0.3. That's 0.3 points per carry, and if you give him 400 carries he gets 120 points. paknight12 just needs the Giants to do the math."
+    "1. Leave Out players in your lineup. Mike Evans and Marvin Harrison Jr. are both Out, which means nobody can tackle them. Jefferson’s Reserve is currently testing this.",
+    "2. Never pick up a free agent on a Friday night. jrsmith1391 grabbed Brevyn Spann-Ford at 9:53 PM. Nothing good happens after 9 PM, except replacing an Out tight end with a healthy one, I guess.",
+    "3. Five quarterbacks is the right number. You can't start them all, but you can look at them. jmello16 has two on the active bench, one on the taxi squad and zero healthy receivers on the bench. Balance.",
+    "4. Trust the questionable tag. Questionable means the player has questions. Answer them. Eight starters are Questionable this week, so that's a lot of homework.",
+    "5. Be like Bill_Buttlicker and get 3 points better on Friday. At this pace he'll be favored by Week 23."
    ]
   },
   {
-   "id": "gary-w10c",
+   "id": "gary-w10s",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "Bourbon Lover is losing by 110.5 times",
-   "dek": "Thursday's scores, measured the only way that matters: by me.",
+   "title": "Jefferson’s Reserve has 80% more quarterbacks than healthy bench receivers, which is infinity",
+   "dek": "Ivana ran the numbers on Friday's report. She regrets nothing.",
    "body": [
-    "I Chase Brown Kids leads Bourbon Lover 33.16 to 0.30. Divide those and ZachCarroll09 is ahead by a factor of 110.5. In my model that's the biggest lead in league history, because nobody else divides.",
-    "Stefon Diggs scored 17.8, which is 22.4% of Dude, Your Getting a Dell's season average of 79.64. If Br0phy keeps that pace for the other three days, the projection is 71.2 points of Diggs and a perfect season from here.",
-    "J.J. McCarthy's 22.12 on the Jefferson’s Reserve bench is 17.8% of jmello16's average week. Stefon Diggs scored 17.8 points. I'm calling it the McCarthy-Diggs Constant and I'll be publishing a paper.",
-    "Cam Skattebo's 28.7 is 23.5% of OBJAY's average, done in one night. OBJAY is a 24.6-point underdog and already leads by 28.7, so by my math JAY2913 has won by 4.1 points and should stop watching now."
+    "Jefferson’s Reserve has five quarterbacks on the roster and zero healthy receivers on the active bench. Five divided by zero is infinity, so by my model Jefferson’s Reserve is infinitely deep. At the wrong position.",
+    "Two of the nine Jefferson’s Reserve starters are Out. That's 22.2% of the lineup. LigmaBrocksAndLoveMyPenix leads 29.70 to 0.00, which is a lead of 29.7 times nothing, also infinity. That's two infinities in one matchup. I've never seen anything like it.",
+    "Catfan94’s Farm Team dropped Kalif Raymond and added Brevyn Spann-Ford, whose extension runs through 2029. That's three more years of Spann-Ford, or 1,095 days, or roughly 26,280 hours of jrsmith1391 having a tight end. My model says that's a lot of hours.",
+    "Bill_Buttlicker's spread went from 41.2 to 38.2, a 7.3% improvement. Compound that weekly and StrngeJhnsonHurtsmyBoutte becomes the favorite in 13 weeks. The regular season has five weeks left, counting this one. The model is still bullish."
    ]
   }
  ],
  "exits": [
   {
-   "p": "J.J. McCarthy",
+   "p": "Kirk Cousins",
    "team": "Jefferson’s Reserve",
-   "t": "Threw for 293 yards and scored 22.12 on the bench Thursday, a week after the other bench quarterback scored 50.36. Jefferson’s Reserve has five quarterbacks and keeps starting the wrong one."
+   "t": "One of five quarterbacks on the Jefferson’s Reserve roster, on a roster with no healthy receiver behind its starters. Would like to be traded to anyone who needs a quarterback instead of a fifth one."
   },
   {
    "p": "Antonio Williams",
