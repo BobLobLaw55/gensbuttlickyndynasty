@@ -1,133 +1,132 @@
 {
- "updated": "Monday, Nov 16, 2026 · 7:10 AM ET",
- "week": 10,
+ "updated": "Tuesday, Nov 17, 2026 · 7:20 AM ET",
+ "week": 11,
  "ticker": [
   [
-   "Catfan94’s Farm Team",
-   "180.30",
-   "Jefferson’s Reserve",
-   "82.92"
-  ],
-  [
    "LigmaBrocksAndLoveMyPenix",
-   "164.84",
-   "The Champ",
-   "127.74"
-  ],
-  [
-   "Hold My DK",
-   "147.12",
-   "Bourbon Lover",
-   "86.20"
-  ],
-  [
-   "Kraft for Cash",
-   "121.74",
-   "I Chase Brown Kids",
-   "99.86"
-  ],
-  [
-   "StrngeJhnsonHurtsmyBoutte",
-   "115.16",
-   "OBJAY",
-   "108.88"
+   "232.54",
+   "Jefferson’s Reserve",
+   "134.62"
   ],
   [
    "Asian Jim",
-   "86.00",
+   "123.46",
+   "Kraft for Cash",
+   "99.20"
+  ],
+  [
+   "The Champ",
+   "166.08",
    "Dude, Your Getting a Dell",
-   "68.34"
+   "68.10"
+  ],
+  [
+   "Catfan94’s Farm Team",
+   "138.94",
+   "OBJAY",
+   "83.62"
+  ],
+  [
+   "I Chase Brown Kids",
+   "124.46",
+   "Bourbon Lover",
+   "116.92"
+  ],
+  [
+   "Hold My DK",
+   "196.34",
+   "StrngeJhnsonHurtsmyBoutte",
+   "78.92"
   ]
  ],
  "wire": [
   {
-   "t": "Kraft for Cash leads Asian Jim 89.30 to 84.06 going into Chargers at Ravens tonight, the only Week 10 matchup still open. BTaylor1 has Zay Flowers left; ManicOrientals has Omarion Hampton, Tre' Harris and Justice Hill. Baltimore is a 4.5-point favorite with a 38.5 total.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/preview?gameId=401873065"
+   "t": "Chargers 23, Ravens 20 on Monday night, and it flipped a fantasy game. Omarion Hampton ran for 105 yards and a touchdown (19.0), Tre' Harris caught five for 86 (12.6) and Justice Hill added 7.8, so Asian Jim beat Kraft for Cash 123.46 to 99.20. Zay Flowers had 74 yards and 9.9.",
+   "src": "ESPN box score",
+   "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
   },
   {
-   "t": "Christian McCaffrey caught touchdowns of 74 and 66 yards in the 49ers' 46-40 win at Dallas and scored 50.3 for Hold My DK. On the other side, George Pickens caught three touchdowns (40.0 for LigmaBrocksAndLoveMyPenix) and Dak Prescott threw five (45.42 for Bourbon Lover).",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873063"
+   "t": "Derrick Henry ran 10 times for 10 yards and scored twice in the loss, 16.5 for Hold My DK, which finished at 196.34. Jacoby Brissett threw for 340 yards with no touchdowns and an interception, 12.3 for Dude, Your Getting a Dell.",
+   "src": "ESPN box score",
+   "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
   },
   {
-   "t": "Patrick Mahomes threw five touchdowns at Atlanta (45.92 for Hold My DK), two of them to rookie Emmett Johnson, who ran for 101 yards in his first start. Catfan94 moved Johnson into the LigmaBrocksAndLoveMyPenix lineup and got 34.6.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873058"
+   "t": "Drake Maye needs more tests on his ankle, and reports say the Patriots feared a fracture. New England is on bye in Week 11 and Mike Vrabel said he wouldn't imagine Maye being available coming out of it. Tommy DeVito replaced him in Munich.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/647876/drake-maye-set-for-more-tests-on-ankle/"
   },
   {
-   "t": "Drake Maye left the Patriots' 35-10 loss to Detroit in Munich with an ankle injury on New England's opening drive. He's listed Out on Sleeper this morning. Jahmyr Gibbs ran for 153 yards and two scores for Detroit.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873053"
+   "t": "Brock Bowers is day-to-day with the ankle he hurt against Seattle, and Ian Rapoport reported it isn't believed to be a major injury. He's listed Out on Sleeper. The Raiders play Denver next.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/647994/brock-bowers-wont-return-to-action-sunday/"
   },
   {
-   "t": "The Jets lost Geno Smith to an ankle injury in the third quarter of a 31-12 loss to Buffalo, and rookie Omar Cooper Jr. hurt his ankle on New York's first offensive play. Both were OBJAY starters.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873054"
+   "t": "Kenneth Walker III (groin) is expected to play Sunday against Arizona, per Ian Rapoport, who called last week's absence precautionary. That's good news for Catfan94’s Farm Team and less good for Emmett Johnson's 34.6-point week on LigmaBrocksAndLoveMyPenix.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/647817/kenneth-walker-iii-expected-back-in-week-11/"
   },
   {
-   "t": "Chuba Hubbard had 172 yards from scrimmage and two touchdowns in Carolina's 20-17 win at New Orleans. He scored 35.7 on the Hold My DK bench.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873055"
+   "t": "Six teams are on bye in Week 11: Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle. That takes out Michael Penix Jr. and Jordan Love for LigmaBrocksAndLoveMyPenix, Deshaun Watson for Catfan94’s Farm Team and Jaxon Smith-Njigba for Asian Jim.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week"
   },
   {
-   "t": "Kirk Cousins threw two touchdowns in his first game back with Minnesota, a 30-10 win at Green Bay, with Jordan Addison out injured. Cousins scored 19.38 on the Jefferson’s Reserve bench.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873060"
+   "t": "No transactions since Saturday, when jmello16 added Mack Hollins to Jefferson’s Reserve. Hollins plays for New England, which is on bye this week.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "Joe Burrow threw for 409 yards and four touchdowns against Pittsburgh on Sunday night, 41.16 for The Champ. Aaron Rodgers scored 18.62 for Hold My DK in the loss.",
-   "src": "ESPN",
-   "url": "https://www.espn.com/nfl/recap/_/gameId/401873064"
+   "t": "Week 10 is final. LigmaBrocksAndLoveMyPenix and Hold My DK are 9-1, Dude, Your Getting a Dell is 0-10, and four teams are tied at 5-5 or 6-4 for the last three playoff spots.",
+   "src": "League standings",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
   }
  ],
  "stories": [
   {
-   "id": "monday-w10",
-   "kicker": "Monday Scoreboard",
-   "title": "One game left: Kraft for Cash leads Asian Jim by 5.24, and the projections say it's a coin flip",
-   "dek": "Zay Flowers against Omarion Hampton, Tre' Harris and Justice Hill. Sleeper projects 102.67 to 103.72.",
+   "id": "tue-w10-recap",
+   "kicker": "Week 10 Recap",
+   "title": "Week 10: Hold My DK beats me by 117.42, Asian Jim steals Monday night, and Dude, Your Getting a Dell is 0‑10",
+   "dek": "Two teams are 9‑1, four teams are fighting over three playoff spots, and I'm 3‑7 with no quarterback for Week 11.",
    "body": [
-    "Five of the six Week 10 games are done for all practical purposes. The one that isn't: Kraft for Cash 89.30, Asian Jim 84.06, with Chargers at Ravens tonight deciding it. BTaylor1 has one player left, Zay Flowers, projected for 13.37. ManicOrientals has three: Omarion Hampton (7.20), Tre' Harris (6.17) and Justice Hill (6.29). Add it up and Sleeper has Asian Jim winning 103.72 to 102.67. That's a 1.05-point projected margin on a game that opened with Kraft for Cash as an 18.5-point favorite.",
-    "How'd it get here? CeeDee Lamb had 18.2 and DJ Moore 17.9, and then it dries up. Bryce Young scored 8.1, Kyren Williams 4.7 and Travis Kelce 5.5. Justin Herbert is on the Kraft for Cash bench and plays tonight. He was expected to play after negative imaging on his non-throwing hand, so starting Young was a defensible call. It's just one that might cost a game.",
-    "Asian Jim got 31.6 from Jaxon Smith-Njigba, including a 71-yard touchdown from Drew Lock, and ManicOrientals pulled Ladd McConkey (Out, back) for Tre' Harris before kickoff. If Asian Jim wins it's 5‑5 and right in the race for the sixth playoff spot. If Kraft for Cash wins it's 7‑3 and tied with Catfan94’s Farm Team.",
-    "Everything else is settled. LigmaBrocksAndLoveMyPenix 232.54, Jefferson’s Reserve 134.62. Hold My DK 179.84, StrngeJhnsonHurtsmyBoutte 78.92. The Champ 166.08, Dude, Your Getting a Dell 55.80, and Jacoby Brissett would need 110.28 tonight to flip it. Catfan94’s Farm Team 138.94, OBJAY 83.62. I Chase Brown Kids 124.46, Bourbon Lover 116.92."
+    "Hold My DK 196.34, StrngeJhnsonHurtsmyBoutte 78.92. That's a 117.42-point margin, the biggest of the week and the second-biggest of the season behind Catfan94's 127.22 in Week 5. Christian McCaffrey had 50.3, Patrick Mahomes 45.92, and Derrick Henry added 16.5 on Monday night with two touchdowns on 10 yards rushing. Chuba Hubbard scored 35.7 on the bench. TheMoneyTeam2302 is 9‑1 and has scored 1582.92 points.",
+    "The game of the week happened Monday. Kraft for Cash led Asian Jim 89.30 to 84.06 going into Chargers at Ravens, and BTaylor1 had Zay Flowers left against three for ManicOrientals. Flowers scored 9.9. Omarion Hampton ran for 105 yards and a touchdown for 19.0, Tre' Harris caught five for 86 (12.6) and Justice Hill added 7.8. Final: Asian Jim 123.46, Kraft for Cash 99.20. ManicOrientals pulled Ladd McConkey for Harris before kickoff, and that move is worth a win. Asian Jim has won three straight and is 5‑5.",
+    "LigmaBrocksAndLoveMyPenix beat Jefferson’s Reserve 232.54 to 134.62, the second-highest score in league history, and is 9‑1 with six straight wins. The Champ beat Dude, Your Getting a Dell 166.08 to 68.10; Jacoby Brissett threw for 340 yards and scored 12.3, and Br0phy is 0‑10. Catfan94’s Farm Team beat OBJAY 138.94 to 83.62, and I Chase Brown Kids beat Bourbon Lover 124.46 to 116.92 in the closest game of the week.",
+    "Bad beat: Jefferson’s Reserve scored 134.62, the fifth-highest score of the week, and lost by 97.92. Low score: Dude, Your Getting a Dell at 68.10. And for the record, I scored 78.92 and started AJ Barner at superflex while Dalton Schultz (8.1) and Samaje Perine (13.9) sat on my bench. Swap those two in and I score 93.12 and lose by 103.22 instead of 117.42. Still the worst week of anyone not named Br0phy."
    ]
   },
   {
-   "id": "monday-232",
-   "kicker": "Record Watch",
-   "title": "LigmaBrocksAndLoveMyPenix drops 232.54, the second-highest score in league history",
-   "dek": "Catfan94 now owns both 230-point weeks this league has ever seen. The pregame line was 41.4. He won by 97.92.",
+   "id": "tue-byes",
+   "kicker": "Week 11 Preview",
+   "title": "Six teams on bye, and LigmaBrocksAndLoveMyPenix loses both backup quarterbacks in the same week",
+   "dek": "Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle are off. Some of you are about to start a tight end at superflex. Some of you are me.",
    "body": [
-    "Catfan94 scored 243.58 in Week 5. Yesterday he scored 232.54. Nobody else in league history has cleared 198.64. Jahmyr Gibbs had 45.2, George Pickens 40.0, Emmett Johnson 34.6, Ja'Marr Chase 32.1, Isaiah Likely 29.7 and Josh Allen 25.34. That's six players over 25 in one week.",
-    "The Emmett Johnson part is the one that should hurt. Yesterday's edition had Johnson on the bench. Catfan94 put him in the lineup, Kansas City gave him his first start with Kenneth Walker III Out, and he caught two touchdowns from Patrick Mahomes. Meanwhile Jordan Love got sacked eight times and scored 12.8 in the superflex spot, and it didn't matter at all.",
-    "Brock Bowers left the Raiders' loss with a right ankle injury after 4.8 points. That's the one thing to watch for LigmaBrocksAndLoveMyPenix, which is going to be 9‑1 and has I Chase Brown Kids next week. Ryan Flournoy scored 17.1 on the bench and Ollie Gordon II 15.5. The bench alone would've beaten Dude, Your Getting a Dell.",
-    "Jefferson’s Reserve didn't play badly. Trevor Lawrence had 34.28 and C.J. Stroud 26.94, and jmello16 scored 134.62, the fifth-best score of the week. It lost by 97.92. jmello16 is going to be 5‑5."
+    "This is the worst bye week of the year, and it hits the top of the standings first. Michael Penix Jr. (Atlanta) and Jordan Love (Green Bay) are both off, so LigmaBrocksAndLoveMyPenix has Josh Allen and nobody else at quarterback. Malik Willis is on IR and Brock Bowers is Out with the ankle. Catfan94 is still a 36.2-point favorite over I Chase Brown Kids, which tells you how much is left on that roster.",
+    "Catfan94’s Farm Team loses Deshaun Watson, Jadarian Price, Christian Watson and KC Concepcion Jr. to byes, and Baker Mayfield is Questionable. jrsmith1391 does get Kenneth Walker III back if Ian Rapoport is right. Asian Jim loses Jaxon Smith-Njigba, the 31.6-point guy from Week 10, to Seattle's bye, and Kyler Murray is still Out.",
+    "The Champ loses Matthew Stafford, Matthew Golden and Harold Fannin Jr., and still has Joe Burrow and Jared Goff. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft. I Chase Brown Kids loses Bijan Robinson and Blake Corum, but ZachCarroll09 has six quarterbacks, so the superflex spot is the one thing he'll never worry about.",
+    "Then there's me. Drake Maye is hurt and New England is on bye anyway. Jalen Hurts is on IR. Shedeur Sanders is on my taxi squad and Cleveland is on bye. That leaves Justin Fields, the Kansas City backup, and Sleeper doesn't project him for a single point. Zach Charbonnet, AJ Barner, Kaleb Johnson, Konata Mumpfield and Denzel Boston are on bye too. I'm a 48.5-point underdog to The Champ, and honestly that number is generous."
    ]
   },
   {
-   "id": "monday-bottom",
-   "kicker": "The Basement",
-   "title": "Dude, Your Getting a Dell is going to be 0‑10, and StrngeJhnsonHurtsmyBoutte and Bourbon Lover are going to be 3‑7",
-   "dek": "I Chase Brown Kids beat Bourbon Lover by 7.54 and climbs out. I scored 78.92. Let's get into it.",
-   "body": [
-    "I'll start with me. StrngeJhnsonHurtsmyBoutte scored 78.92 against Hold My DK's 179.84. Parker Washington had 27.2 and nobody else cleared 12. Tyler Allgeier started at running back and scored 1.9 while Samaje Perine scored 13.9 on my bench. Drake Maye left on New England's first drive with an ankle injury, and he's Out on Sleeper this morning. With Jalen Hurts on IR, my quarterbacks behind him are Justin Fields and Shedeur Sanders on the taxi squad. In a superflex league. Next week is The Champ.",
-    "I Chase Brown Kids beat Bourbon Lover 124.46 to 116.92 to get to 4‑6. Jayden Daniels had 27.76, Chase Brown 26.8 at superflex and Blake Corum 22.9. Cam Ward scored 24.14 on the bench. ZachCarroll09 had a 16.7-point line and won by 7.54, so paknight12 covered and still lost.",
-    "Bourbon Lover got 45.42 from Dak Prescott, 22.4 from Tony Pollard and 22.1 from Drew Lock, and lost anyway because Devin Singletary scored 0.3 and Demarcus Robinson 0.0 in the lineup. paknight12 will be 3‑7 and has given up the most points in the league.",
-    "Dude, Your Getting a Dell scored 55.80. Deebo Samuel's 70-yard reverse touchdown got him to 26.9 and Stefon Diggs had 17.8. Xavier Worthy caught zero of three targets. Br0phy owns both Jacoby Brissett and Joe Fagnano, the two Ravens quarterbacks, and Brissett starts tonight. He needs 110.28 to stop 0‑10."
-   ]
-  },
-  {
-   "id": "monday-race",
+   "id": "tue-race",
    "kicker": "Playoff Picture",
-   "title": "Four weeks left, six playoff spots, and The Champ and Jefferson’s Reserve are both about to be 5‑5",
-   "dek": "The Champ scored 166.08 behind Joe Burrow's 409 yards. Tiebreaker is points, and TJohn91 is up 161.22 on jmello16.",
+   "title": "Four weeks left: Kraft for Cash is 6‑4, and The Champ, Jefferson’s Reserve and Asian Jim are all 5‑5",
+   "dek": "Six teams make it. The top three are close to locked. The tiebreaker is points for, and TJohn91 has the most of the 5‑5 teams by a lot.",
    "body": [
-    "Where it stands once tonight is over, assuming the Sunday results hold: LigmaBrocksAndLoveMyPenix and Hold My DK 9‑1, Catfan94’s Farm Team 7‑3, Kraft for Cash 7‑3 or 6‑4, The Champ 5‑5, Jefferson’s Reserve 5‑5, Asian Jim 5‑5 or 4‑6, then I Chase Brown Kids and OBJAY at 4‑6. Six teams make it. The regular season ends in Week 14.",
-    "The Champ beat Dude, Your Getting a Dell 166.08 to 55.80. Burrow had 41.16, Jared Goff 28.92, Nico Collins 22.9 and Harold Fannin Jr. 18.1. Matthew Stafford scored 25.76 on the bench and Jordyn Tyson 15.5, with Jordan Mason at 7.9 in the lineup. TJohn91 will have 1414.72 points for. Jefferson’s Reserve will have 1253.50. If it comes down to points, the two-time champ wins that.",
-    "Catfan94’s Farm Team beat OBJAY 138.94 to 83.62. Brock Purdy scored 42.16 and Amon-Ra St. Brown 25.8 with two touchdowns in Munich. jrsmith1391 started Deshaun Watson at superflex, and Watson threw for 312 yards against his old team for 21.38. Kenneth Walker III sat, Zonovan Knight scored 2.4 at flex, and it didn't matter.",
-    "OBJAY got 28.7 from Cam Skattebo and 25.7 from James Cook III, and lost Geno Smith and Omar Cooper Jr. to ankle injuries during the game. Jordan Addison missed the game and stayed in the lineup for 0.0, and Tyler Higbee scored 10.7 on the bench. Even with Higbee, JAY2913 loses by 44.62. Next week is Kraft for Cash."
+    "LigmaBrocksAndLoveMyPenix and Hold My DK are 9‑1. Catfan94’s Farm Team is 7‑3. Those three are at least two games clear of seventh place with four weeks to play, so the real fight is for spots four through six between Kraft for Cash at 6‑4 and three teams at 5‑5.",
+    "Points for is the tiebreaker. Among the 5‑5 teams: The Champ 1414.72, Jefferson’s Reserve 1253.50, Asian Jim 1191.98. TJohn91 is 161.22 points ahead of jmello16 and 222.74 ahead of ManicOrientals, which is almost two full weeks of scoring. If it's a three-way tie at the end, the two-time champ is in.",
+    "I Chase Brown Kids (1219.86) and OBJAY (1184.34) are 4‑6, one game back. Bourbon Lover and StrngeJhnsonHurtsmyBoutte are 3‑7 and need four straight wins and some help. Dude, Your Getting a Dell is 0‑10 and mathematically eliminated: seven teams already have five wins, and Br0phy can finish with four at best.",
+    "This week's games that matter: Jefferson’s Reserve is a 22.3-point favorite over Bourbon Lover. Kraft for Cash is a 19.0-point favorite over OBJAY. Catfan94’s Farm Team is a 27.7-point favorite over Asian Jim, with Smith-Njigba on bye. And The Champ gets me, a team with no quarterback, so pencil TJohn91 in for 6‑5."
+   ]
+  },
+  {
+   "id": "tue-kraft",
+   "kicker": "Monday Night",
+   "title": "Kraft for Cash had a 5.24-point lead and one player left. It lost by 24.26.",
+   "dek": "Zay Flowers scored 9.9 and three Chargers and Ravens scored 39.4. Starting Justin Herbert wouldn't have saved it.",
+   "body": [
+    "Kraft for Cash went into Monday up 89.30 to 84.06 as an 18.5-point pregame favorite. Flowers caught six for 74 and scored 9.9. ManicOrientals got 19.0 from Omarion Hampton, 12.6 from Tre' Harris and 7.8 from Justice Hill, a 39.4-point night from three players. The final was 123.46 to 99.20.",
+    "Justin Herbert ran for a touchdown and scored 16.26 on the Kraft for Cash bench while Bryce Young scored 8.1 in the lineup. That swap is worth 8.16 points, and Kraft for Cash still loses by 16.10. Herbert had been expected to play after negative imaging on his non-throwing hand, so starting Young wasn't crazy. The problem was Kyren Williams (4.7), Travis Kelce (5.5) and Tetairoa McMillan (6.0) in the lineup.",
+    "BTaylor1 is 6‑4, a game ahead of three 5‑5 teams, and has OBJAY next. OBJAY has Geno Smith Out and Jaxson Dart on IR, so JAY2913 is down to Bo Nix and Kyle McCord at quarterback. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft to byes and is still a 19.0-point favorite."
    ]
   }
  ],
@@ -135,120 +134,120 @@
   [
    "LigmaBrocksAndLoveMyPenix",
    "Catfan94",
-   "8-1",
-   "1482.14",
-   "1139.20",
-   "84-15",
-   "W5"
+   "9-1",
+   "1714.68",
+   "1273.82",
+   "95-15",
+   "W6"
   ],
   [
    "Hold My DK",
    "TheMoneyTeam2302",
-   "8-1",
-   "1386.58",
-   "1164.26",
-   "77-22",
-   "W1"
+   "9-1",
+   "1582.92",
+   "1243.18",
+   "87-23",
+   "W2"
   ],
   [
    "Catfan94’s Farm Team",
    "jrsmith1391",
-   "6-3",
-   "1349.12",
-   "1155.28",
-   "74-25",
-   "W2"
+   "7-3",
+   "1488.06",
+   "1238.90",
+   "82-28",
+   "W3"
   ],
   [
    "Kraft for Cash",
    "BTaylor1",
-   "6-3",
-   "1225.70",
-   "1096.50",
-   "61-38",
-   "W1"
-  ],
-  [
-   "Jefferson’s Reserve",
-   "jmello16",
-   "5-4",
-   "1118.88",
-   "1178.44",
-   "47-52",
+   "6-4",
+   "1324.90",
+   "1219.96",
+   "64-46",
    "L1"
   ],
   [
    "The Champ",
    "TJohn91",
-   "4-5",
-   "1248.64",
-   "1155.96",
-   "59-40",
-   "L3"
+   "5-5",
+   "1414.72",
+   "1224.06",
+   "68-42",
+   "W1"
   ],
   [
-   "OBJAY",
-   "JAY2913",
-   "4-5",
-   "1100.72",
-   "1119.42",
-   "44-55",
-   "L1"
+   "Jefferson’s Reserve",
+   "jmello16",
+   "5-5",
+   "1253.50",
+   "1410.98",
+   "54-56",
+   "L2"
   ],
   [
    "Asian Jim",
    "ManicOrientals",
-   "4-5",
-   "1068.52",
-   "1144.18",
-   "42-57",
-   "W2"
+   "5-5",
+   "1191.98",
+   "1243.38",
+   "47-63",
+   "W3"
   ],
   [
    "I Chase Brown Kids",
    "ZachCarroll09",
-   "3-6",
-   "1095.40",
-   "1166.86",
-   "42-57",
+   "4-6",
+   "1219.86",
+   "1283.78",
+   "48-62",
+   "W1"
+  ],
+  [
+   "OBJAY",
+   "JAY2913",
+   "4-6",
+   "1184.34",
+   "1258.36",
+   "46-64",
+   "L2"
+  ],
+  [
+   "Bourbon Lover",
+   "paknight12",
+   "3-7",
+   "1079.88",
+   "1348.90",
+   "36-74",
    "L2"
   ],
   [
    "StrngeJhnsonHurtsmyBoutte",
    "Bill_Buttlicker",
-   "3-6",
-   "988.70",
-   "1083.56",
-   "27-72",
-   "W1"
-  ],
-  [
-   "Bourbon Lover",
-   "paknight12",
-   "3-6",
-   "962.96",
-   "1224.44",
-   "32-67",
+   "3-7",
+   "1067.62",
+   "1279.90",
+   "28-82",
    "L1"
   ],
   [
    "Dude, Your Getting a Dell",
    "Br0phy",
-   "0-9",
-   "716.72",
-   "1115.98",
-   "5-94",
-   "L9"
+   "0-10",
+   "784.82",
+   "1282.06",
+   "5-105",
+   "L10"
   ]
  ],
  "recap": {
   "feature": {
-   "title": "Week 9: Catfan94’s Farm Team drops 180.30, The Champ takes the bad beat, and Dude, Your Getting a Dell is 0‑9",
+   "title": "Week 10: Hold My DK wins by 117.42, Asian Jim wins it on Monday night, and Dude, Your Getting a Dell is 0‑10",
    "body": [
-    "Catfan94’s Farm Team beat Jefferson’s Reserve 180.30 to 82.92, a 97.38-point margin and the biggest of the week. Kenneth Walker III had 36.8, Brock Purdy 31.28, Christian Watson 28.6 and Bucky Irving 27.5. jrsmith1391 is 6‑3 and has won two straight.",
-    "LigmaBrocksAndLoveMyPenix beat The Champ 164.84 to 127.74. Jordan Love scored 42.18, Ja'Marr Chase 30.0 and Brock Bowers 24.3, and Catfan94 is 8‑1 with five wins in a row. TJohn91 had the highest losing score of the week and still lost by 37.10. Josh Jacobs scored -0.5 in the lineup, and Boutte (29.5) and Matthew Stafford (13.22) sat on the bench.",
-    "Hold My DK beat Bourbon Lover 147.12 to 86.20 behind Puka Nacua at 32.5 and Christian McCaffrey at 23.7. Kraft for Cash beat I Chase Brown Kids 121.74 to 99.86, and Asian Jim beat Dude, Your Getting a Dell 86.00 to 68.34, which is the lowest score of the week. Br0phy is 0‑9.",
-    "StrngeJhnsonHurtsmyBoutte beat OBJAY 115.16 to 108.88 by 6.28, the closest game of the week. Bill_Buttlicker is 3‑6 with Drake Maye at 24.76. JAY2913 had Efton Chism III on the bench with 14.4, and swapping him in for Emeka Egbuka (6.4) would have won it 116.88 to 115.16."
+    "Hold My DK beat StrngeJhnsonHurtsmyBoutte 196.34 to 78.92, the biggest margin of the week. Christian McCaffrey scored 50.3, Patrick Mahomes 45.92 and Derrick Henry 16.5, with Chuba Hubbard's 35.7 on the bench. TheMoneyTeam2302 is 9‑1. Bill_Buttlicker is 3‑7 and started AJ Barner (5.9) at superflex.",
+    "LigmaBrocksAndLoveMyPenix beat Jefferson’s Reserve 232.54 to 134.62, the second-highest score in league history. Jahmyr Gibbs 45.2, George Pickens 40.0, Emmett Johnson 34.6, Ja'Marr Chase 32.1, Isaiah Likely 29.7 and Josh Allen 25.34. jmello16 had the bad beat of the week and is 5‑5.",
+    "Asian Jim came from 5.24 down on Monday night to beat Kraft for Cash 123.46 to 99.20, with Omarion Hampton (19.0), Tre' Harris (12.6) and Justice Hill (7.8) outscoring Zay Flowers (9.9) by 29.5. The Champ beat Dude, Your Getting a Dell 166.08 to 68.10 behind Joe Burrow's 41.16, and Br0phy is 0‑10.",
+    "Catfan94’s Farm Team beat OBJAY 138.94 to 83.62 with Brock Purdy at 42.16, and I Chase Brown Kids beat Bourbon Lover 124.46 to 116.92, the closest game of the week, even though Dak Prescott threw five touchdowns for 45.42."
    ]
   },
   "weeks": [
@@ -305,6 +304,12 @@
     "blowout": "Catfan94’s Farm Team 180.30 over Jefferson’s Reserve 82.92 (+97.38)",
     "beat": "The Champ scores 127.74, the highest losing score of the week, and loses to LigmaBrocksAndLoveMyPenix.",
     "bed": "Dude, Your Getting a Dell, 68.34, in a loss to Asian Jim. The lowest score of the week."
+   },
+   {
+    "w": 10,
+    "blowout": "Hold My DK 196.34 over StrngeJhnsonHurtsmyBoutte 78.92 (+117.42)",
+    "beat": "Jefferson’s Reserve scores 134.62, the fifth-best score of the week, and loses by 97.92 to LigmaBrocksAndLoveMyPenix.",
+    "bed": "Dude, Your Getting a Dell, 68.10, in a loss to The Champ. 0-10."
    }
   ]
  },
@@ -314,108 +319,108 @@
    "prev": 1,
    "team": "LigmaBrocksAndLoveMyPenix",
    "own": "Catfan94",
-   "rec": "8‑1",
-   "ap": "84-15",
-   "take": "232.54, the second-highest score in league history, and Catfan94 owns the highest too. Six starters over 25. Brock Bowers left with an ankle injury, which is the only bad news. Will be 9‑1."
+   "rec": "9‑1",
+   "ap": "95-15",
+   "take": "9‑1, six straight wins and 1714.68 points, 131.76 more than anyone else. Josh Allen is the only active quarterback this week with Michael Penix Jr. and Jordan Love on bye, and Brock Bowers is Out. Still a 36.2-point favorite."
   },
   {
    "rk": 2,
    "prev": 2,
    "team": "Hold My DK",
    "own": "TheMoneyTeam2302",
-   "rec": "8‑1",
-   "ap": "77-22",
-   "take": "179.84 with Christian McCaffrey at 50.3 and Patrick Mahomes at 45.92, and Chuba Hubbard had 35.7 on the bench. Will be 9‑1. Gets Dude, Your Getting a Dell next week. Unfair."
+   "rec": "9‑1",
+   "ap": "87-23",
+   "take": "196.34 with McCaffrey at 50.3 and Mahomes at 45.92, and Hubbard's 35.7 on the bench. 9‑1, and next up is a winless team. Has no picks in the first four rounds of the next three drafts, and right now it doesn't matter."
   },
   {
    "rk": 3,
    "prev": 3,
    "team": "Catfan94’s Farm Team",
    "own": "jrsmith1391",
-   "rec": "6‑3",
-   "ap": "74-25",
-   "take": "Brock Purdy 42.16, Deshaun Watson 21.38 at superflex and a 55.32-point win without Kenneth Walker III. Will be 7‑3."
+   "rec": "7‑3",
+   "ap": "82-28",
+   "take": "7‑3, three straight wins. Byes take Deshaun Watson, Jadarian Price and Christian Watson this week, but Kenneth Walker III is expected back. Two games clear of seventh."
   },
   {
    "rk": 4,
-   "prev": 4,
-   "team": "Kraft for Cash",
-   "own": "BTaylor1",
-   "rec": "6‑3",
-   "ap": "61-38",
-   "take": "Leads Asian Jim by 5.24 with Zay Flowers left, and Sleeper projects a 1.05-point loss. Justin Herbert plays tonight from the bench."
-  },
-  {
-   "rk": 5,
    "prev": 5,
    "team": "The Champ",
    "own": "TJohn91",
-   "rec": "4‑5",
-   "ap": "59-40",
-   "take": "Joe Burrow threw for 409 yards and The Champ scored 166.08. Will be 5‑5 with 1414.72 points for, the fourth-most in the league."
+   "rec": "5‑5",
+   "ap": "68-42",
+   "take": "5‑5 with 1414.72 points, fourth-most in the league, and the fourth-best all-play record at 68-42. Gets my quarterback-less roster this week. Moves up because of the points cushion."
+  },
+  {
+   "rk": 5,
+   "prev": 4,
+   "team": "Kraft for Cash",
+   "own": "BTaylor1",
+   "rec": "6‑4",
+   "ap": "64-46",
+   "take": "Blew a 5.24-point Monday lead and lost by 24.26. Still 6‑4 and a game ahead of three 5‑5 teams. Loses Judkins, Kyren Williams and Tucker Kraft to byes."
   },
   {
    "rk": 6,
-   "prev": 6,
-   "team": "Jefferson’s Reserve",
-   "own": "jmello16",
-   "rec": "5‑4",
-   "ap": "47-52",
-   "take": "134.62 is a winning score in most weeks. Not against 232.54. Will be 5‑5, and J.J. McCarthy (22.12) and Kirk Cousins (19.38) both scored on the bench."
+   "prev": 7,
+   "team": "Asian Jim",
+   "own": "ManicOrientals",
+   "rec": "5‑5",
+   "ap": "47-63",
+   "take": "Three straight wins and a Monday comeback built on Hampton, Harris and Hill. 5‑5. Loses Jaxon Smith-Njigba to Seattle's bye with Catfan94’s Farm Team next, which is rough timing."
   },
   {
    "rk": 7,
-   "prev": 8,
-   "team": "Asian Jim",
-   "own": "ManicOrientals",
-   "rec": "4‑5",
-   "ap": "42-57",
-   "take": "Down 5.24 with three players left and projected to win by 1.05. Jaxon Smith-Njigba had 31.6. Could be 5‑5 by midnight."
+   "prev": 6,
+   "team": "Jefferson’s Reserve",
+   "own": "jmello16",
+   "rec": "5‑5",
+   "ap": "54-56",
+   "take": "Scored 134.62 and lost by 97.92, and trails The Champ by 161.22 in points for, which is the tiebreaker. Two straight losses. Bourbon Lover is next, and that's a 22.3-point line."
   },
   {
    "rk": 8,
-   "prev": 9,
+   "prev": 8,
    "team": "I Chase Brown Kids",
    "own": "ZachCarroll09",
-   "rec": "3‑6",
-   "ap": "42-57",
-   "take": "Beat Bourbon Lover by 7.54 and gets to 4‑6. Cam Ward scored 24.14 on the bench. Gets LigmaBrocksAndLoveMyPenix next week, so enjoy it."
+   "rec": "4‑6",
+   "ap": "48-62",
+   "take": "4‑6 with Cam Ward scoring 24.14 on the bench last week. Bijan Robinson and Blake Corum are on bye and LigmaBrocksAndLoveMyPenix is next. One game out."
   },
   {
    "rk": 9,
-   "prev": 7,
+   "prev": 9,
    "team": "OBJAY",
    "own": "JAY2913",
-   "rec": "4‑5",
-   "ap": "44-55",
-   "take": "Lost Geno Smith and Omar Cooper Jr. during the game, and Jordan Addison missed it. 83.62 points and will be 4‑6."
+   "rec": "4‑6",
+   "ap": "46-64",
+   "take": "4‑6, two straight losses, and Geno Smith is Out with Jaxson Dart on IR. Bo Nix and Kyle McCord are the quarterbacks against Kraft for Cash."
   },
   {
    "rk": 10,
-   "prev": 11,
+   "prev": 10,
    "team": "Bourbon Lover",
    "own": "paknight12",
-   "rec": "3‑6",
-   "ap": "32-67",
-   "take": "Dak Prescott had 45.42 and Bourbon Lover still lost. Devin Singletary 0.3, Demarcus Robinson 0.0. Will be 3‑7."
+   "rec": "3‑7",
+   "ap": "36-74",
+   "take": "Dak Prescott threw five touchdowns and Bourbon Lover still lost. 3‑7 and has allowed 1348.90 points, the second-most in the league. Drew Lock is on bye."
   },
   {
    "rk": 11,
-   "prev": 10,
+   "prev": 11,
    "team": "StrngeJhnsonHurtsmyBoutte",
    "own": "Bill_Buttlicker",
-   "rec": "3‑6",
-   "ap": "27-72",
-   "take": "78.92 points. Samaje Perine outscored Tyler Allgeier by 12 points from my bench, and the quarterback room is now Justin Fields. Will be 3‑7. I'm writing this ranking myself and I still couldn't put it higher."
+   "rec": "3‑7",
+   "ap": "28-82",
+   "take": "3‑7. Lost by 117.42. Started a tight end at superflex. Drake Maye is hurt, Jalen Hurts is on IR, and my Week 11 quarterback is Justin Fields, Kansas City's backup. I'd rank me lower, but there's one team below me and it's 0‑10."
   },
   {
    "rk": 12,
    "prev": 12,
    "team": "Dude, Your Getting a Dell",
    "own": "Br0phy",
-   "rec": "0‑9",
-   "ap": "5-94",
-   "take": "55.80 with Jacoby Brissett left. Deebo Samuel had 26.9. Will be 0‑10 unless Brissett scores 110.28."
+   "rec": "0‑10",
+   "ap": "5-105",
+   "take": "0‑10 and mathematically eliminated. 784.82 points, 282.80 behind 11th place. Hold My DK is next. Br0phy, it's okay to start thinking about the 2027 draft."
   }
  ],
  "teams": [
@@ -423,16 +428,16 @@
    "key": "dk",
    "name": "Hold My DK",
    "own": "TheMoneyTeam2302",
-   "rec": "8-1",
-   "pf": "1386.58",
-   "ap": "77-22",
+   "rec": "9-1",
+   "pf": "1582.92",
+   "ap": "87-23",
    "since": "2024",
    "titles": 0,
    "past": [
     "TheyLookedGoodInShorts (2025, 5-9)",
     "The Money Team (2024, 5-9)"
    ],
-   "w7": "Week 10: leads StrngeJhnsonHurtsmyBoutte 179.84-78.92, Derrick Henry tonight (was a 38.2-point favorite). Week 11: vs Dude, Your Getting a Dell",
+   "w7": "Week 10: beat StrngeJhnsonHurtsmyBoutte 196.34-78.92. Week 11: vs Dude, Your Getting a Dell (favored by 77.0)",
    "inj": [
     "Brian Robinson Jr. (IR)",
     "Chris Brazzell II (IR)",
@@ -442,24 +447,24 @@
     "Terrance Ferguson (IR)"
    ],
    "body": [
-    "Christian McCaffrey scored 50.3 on touchdown catches of 74 and 66 yards and Patrick Mahomes threw five touchdowns for 45.92. Chuba Hubbard had 35.7 on the bench. Derrick Henry plays tonight in a game that's already over.",
-    "Puka Nacua is still on IR. Still has no picks in the first four rounds of 2027, 2028 or 2029, and at 9-1 nobody cares."
+    "196.34 against StrngeJhnsonHurtsmyBoutte, the biggest margin of Week 10 at 117.42. Christian McCaffrey 50.3, Patrick Mahomes 45.92, Derrick Henry 16.5 with two Monday touchdowns. Chuba Hubbard scored 35.7 on the bench.",
+    "Drake London and Cooper Kupp are on bye, and Puka Nacua is still on IR. Caleb Williams can play superflex. 9-1 with Dude, Your Getting a Dell next and no picks in the first four rounds of 2027, 2028 or 2029."
    ]
   },
   {
    "key": "ligma",
    "name": "LigmaBrocksAndLoveMyPenix",
    "own": "Catfan94",
-   "rec": "8-1",
-   "pf": "1482.14",
-   "ap": "84-15",
+   "rec": "9-1",
+   "pf": "1714.68",
+   "ap": "95-15",
    "since": "2024",
    "titles": 0,
    "past": [
     "LigmaBrocksAndLoveMyPenix (2025, 12-2, runner-up)",
     "Yall Love PurdyWhitePenix (2024, 7-7)"
    ],
-   "w7": "Week 10: beat Jefferson’s Reserve 232.54-134.62 (was a 41.4-point favorite). Week 11: vs I Chase Brown Kids",
+   "w7": "Week 10: beat Jefferson’s Reserve 232.54-134.62. Week 11: vs I Chase Brown Kids (favored by 36.2)",
    "inj": [
     "Brock Bowers (out)",
     "Chig Okonkwo (questionable)",
@@ -469,24 +474,24 @@
     "Jayden Higgins (IR)"
    ],
    "body": [
-    "232.54 over Jefferson’s Reserve: Jahmyr Gibbs 45.2, George Pickens 40.0, Emmett Johnson 34.6, Ja'Marr Chase 32.1, Isaiah Likely 29.7 and Josh Allen 25.34. Second-highest score in league history, behind Catfan94's own 243.58.",
-    "Brock Bowers left with a right ankle injury. Ryan Flournoy (17.1) and Ollie Gordon II (15.5) were on the bench. Will be 9-1 with I Chase Brown Kids next."
+    "232.54 over Jefferson’s Reserve, the second-highest score in league history behind Catfan94's own 243.58. Six straight wins and 1714.68 points.",
+    "Michael Penix Jr. and Jordan Love are both on bye and Malik Willis is on IR, so Josh Allen is the only quarterback. Brock Bowers is day-to-day with the ankle and listed Out. Kenneth Walker III's expected return in Kansas City could cut into Emmett Johnson's work."
    ]
   },
   {
    "key": "farm",
    "name": "Catfan94’s Farm Team",
    "own": "jrsmith1391",
-   "rec": "6-3",
-   "pf": "1349.12",
-   "ap": "74-25",
+   "rec": "7-3",
+   "pf": "1488.06",
+   "ap": "82-28",
    "since": "2024",
    "titles": 0,
    "past": [
     "Allen’s Degenrates (2025, 6-8)",
     "Team Cheugy (2024, runner-up)"
    ],
-   "w7": "Week 10: beat OBJAY 138.94-83.62 (was a 23.6-point favorite). Week 11: vs Asian Jim",
+   "w7": "Week 10: beat OBJAY 138.94-83.62. Week 11: vs Asian Jim (favored by 27.7)",
    "inj": [
     "Baker Mayfield (questionable)",
     "DeVonta Smith (out)",
@@ -496,24 +501,24 @@
     "T.J. Hockenson (out)"
    ],
    "body": [
-    "Brock Purdy 42.16, Amon-Ra St. Brown 25.8 and Deshaun Watson 21.38 at superflex in a 55.32-point win over OBJAY. Kenneth Walker III sat with the groin injury and Zonovan Knight scored 2.4 at flex.",
-    "Will be 7-3. T.J. Hockenson and DeVonta Smith are still Out, so Brevyn Spann-Ford (4.1) keeps the tight end job for now."
+    "Beat OBJAY 138.94 to 83.62 behind Brock Purdy's 42.16. 7-3 with three straight wins, two games clear of seventh place.",
+    "Deshaun Watson, Jadarian Price, Christian Watson and KC Concepcion Jr. are on bye, and Baker Mayfield is Questionable. Kenneth Walker III is expected back against Arizona. T.J. Hockenson and DeVonta Smith are still Out."
    ]
   },
   {
    "key": "champ",
    "name": "The Champ",
    "own": "TJohn91",
-   "rec": "4-5",
-   "pf": "1248.64",
-   "ap": "59-40",
+   "rec": "5-5",
+   "pf": "1414.72",
+   "ap": "68-42",
    "since": "2024",
    "titles": 2,
    "past": [
     "The Champ (2025, champion)",
     "Dirty Mike & The Boys (2024, champion)"
    ],
-   "w7": "Week 10: leads Dude, Your Getting a Dell 166.08-55.80 (was a 60.1-point favorite). Week 11: vs StrngeJhnsonHurtsmyBoutte",
+   "w7": "Week 10: beat Dude, Your Getting a Dell 166.08-68.10. Week 11: vs StrngeJhnsonHurtsmyBoutte (favored by 48.5)",
    "inj": [
     "A.J. Brown (out)",
     "Chris Bell (out)",
@@ -523,47 +528,46 @@
     "Josh Jacobs (out)"
    ],
    "body": [
-    "Joe Burrow threw for 409 yards and four touchdowns (41.16), Jared Goff added 28.92 and Nico Collins 22.9. Leads Dude, Your Getting a Dell by 110.28 with Jacoby Brissett left.",
-    "Matthew Stafford scored 25.76 and Jordyn Tyson 15.5 on the bench. Josh Jacobs and A.J. Brown are Out. Will be 5-5 with StrngeJhnsonHurtsmyBoutte next."
+    "Beat Dude, Your Getting a Dell 166.08 to 68.10. Joe Burrow 41.16, Jared Goff 28.92, Nico Collins 22.9. Matthew Stafford (25.76) and Mark Andrews (18.7) were on the bench.",
+    "5-5 with 1414.72 points for, the best among the 5-5 teams by 161.22. Stafford, Harold Fannin Jr. and Matthew Golden are on bye. Josh Jacobs and A.J. Brown are Out. StrngeJhnsonHurtsmyBoutte is next."
    ]
   },
   {
    "key": "kraft",
    "name": "Kraft for Cash",
    "own": "BTaylor1",
-   "rec": "6-3",
-   "pf": "1225.70",
-   "ap": "61-38",
+   "rec": "6-4",
+   "pf": "1324.90",
+   "ap": "64-46",
    "since": "2024",
    "titles": 0,
    "past": [
     "2 Scoops of Herbert (2025, 11-3, third place)",
     "2 Scoops of Herbert (2024, 4-10)"
    ],
-   "w7": "Week 10: leads Asian Jim 89.30-84.06, Zay Flowers tonight (was an 18.5-point favorite). Week 11: vs OBJAY",
+   "w7": "Week 10: lost to Asian Jim 123.46-99.20. Week 11: vs OBJAY (favored by 19.0)",
    "inj": [
-    "David Njoku (IR)",
     "Isaac Guerendo (pup)",
     "Jake Ferguson (out)",
     "Nicholas Singleton (out)",
     "Travis Kelce (questionable)"
    ],
    "body": [
-    "Leads Asian Jim 89.30 to 84.06 with Zay Flowers left tonight. CeeDee Lamb 18.2, DJ Moore 17.9 and Quinshon Judkins 16.1 carried it. Bryce Young started at quarterback and scored 8.1.",
-    "Justin Herbert plays tonight from the bench after negative imaging on his non-throwing hand last week. Travis Kelce was carted off and returned. Next: OBJAY."
+    "Led Asian Jim by 5.24 going into Monday night and lost 123.46 to 99.20. Zay Flowers scored 9.9. Justin Herbert scored 16.26 on the bench, which wouldn't have changed the result.",
+    "6-4, a game ahead of three 5-5 teams. Quinshon Judkins, Kyren Williams and Tucker Kraft are on bye. OBJAY is next."
    ]
   },
   {
    "key": "reserve",
    "name": "Jefferson’s Reserve",
    "own": "jmello16",
-   "rec": "5-4",
-   "pf": "1118.88",
-   "ap": "47-52",
+   "rec": "5-5",
+   "pf": "1253.50",
+   "ap": "54-56",
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "Week 10: lost to LigmaBrocksAndLoveMyPenix 232.54-134.62 (was a 41.4-point underdog). Week 11: vs Bourbon Lover",
+   "w7": "Week 10: lost to LigmaBrocksAndLoveMyPenix 232.54-134.62. Week 11: vs Bourbon Lover (favored by 22.3)",
    "inj": [
     "Emanuel Wilson (out)",
     "Jaylen Waddle (out)",
@@ -572,24 +576,24 @@
     "RJ Harvey (IR)"
    ],
    "body": [
-    "Scored 134.62 and lost by 97.92. Trevor Lawrence had 34.28, C.J. Stroud 26.94 and Bhayshul Tuten 20.8. Mack Hollins scored 7.8 in his first start for jmello16.",
-    "J.J. McCarthy (22.12) and Kirk Cousins (19.38) scored on the bench. Mike Evans, Marvin Harrison Jr. and Jaylen Waddle are Out. Will be 5-5 with Bourbon Lover next."
+    "Scored 134.62 and lost to LigmaBrocksAndLoveMyPenix by 97.92, the bad beat of Week 10. Trevor Lawrence 34.28, C.J. Stroud 26.94, Bhayshul Tuten 20.8.",
+    "5-5 with two straight losses. Mike Evans, Marvin Harrison Jr. and Jaylen Waddle are Out, and Mack Hollins and Kyle Pitts Sr. are on bye. Kirk Cousins and J.J. McCarthy are still on the bench behind two starters."
    ]
   },
   {
    "key": "objay",
    "name": "OBJAY",
    "own": "JAY2913",
-   "rec": "4-5",
-   "pf": "1100.72",
-   "ap": "44-55",
+   "rec": "4-6",
+   "pf": "1184.34",
+   "ap": "46-64",
    "since": "2024",
    "titles": 0,
    "past": [
     "🤷‍♂️ (2025, 5-9)",
     "Team 13 (2024, third place)"
    ],
-   "w7": "Week 10: lost to Catfan94’s Farm Team 138.94-83.62 (was a 23.6-point underdog). Week 11: vs Kraft for Cash",
+   "w7": "Week 10: lost to Catfan94’s Farm Team 138.94-83.62. Week 11: vs Kraft for Cash (19.0-point underdog)",
    "inj": [
     "Alec Pierce (IR)",
     "David Montgomery (out)",
@@ -599,24 +603,24 @@
     "Luther Burden III (questionable)"
    ],
    "body": [
-    "Cam Skattebo 28.7 and James Cook III 25.7, and then Geno Smith (ankle) and Omar Cooper Jr. (ankle) went down during the game and Woody Marks went into the concussion protocol. Jordan Addison missed the game and scored 0.0 in the lineup.",
-    "Tyler Higbee scored 10.7 on the bench and Kaelon Black 14.1 on the taxi squad. With Jaxson Dart on IR, the healthy quarterbacks are Bo Nix and Kyle McCord. Will be 4-6."
+    "Lost to Catfan94’s Farm Team 138.94 to 83.62. Cam Skattebo 28.7 and James Cook III 25.7. Kyle McCord scored 12.76 on the bench.",
+    "4-6, one game out. Geno Smith is Out and Jaxson Dart is on IR, so it's Bo Nix and McCord against Kraft for Cash. Tyler Higbee, Efton Chism III and Tutu Atwell are on bye."
    ]
   },
   {
    "key": "cbk",
    "name": "I Chase Brown Kids",
    "own": "ZachCarroll09",
-   "rec": "3-6",
-   "pf": "1095.40",
-   "ap": "42-57",
+   "rec": "4-6",
+   "pf": "1219.86",
+   "ap": "48-62",
    "since": "2024",
    "titles": 0,
    "past": [
     "I Chase Brown Kids (2025, 4-10)",
     "Bang Bros (2024, 11-3)"
    ],
-   "w7": "Week 10: beat Bourbon Lover 124.46-116.92 (was a 16.7-point favorite). Week 11: vs LigmaBrocksAndLoveMyPenix",
+   "w7": "Week 10: beat Bourbon Lover 124.46-116.92. Week 11: vs LigmaBrocksAndLoveMyPenix (36.2-point underdog)",
    "inj": [
     "Athan Kaliakmanis (out)",
     "Brandon Aiyuk (dnr)",
@@ -626,24 +630,24 @@
     "Jaylin Lane (IR)"
    ],
    "body": [
-    "Beat Bourbon Lover 124.46 to 116.92. Jayden Daniels 27.76, Chase Brown 26.8 and Blake Corum 22.9. Will be 4-6.",
-    "Cam Ward scored 24.14 and Fernando Mendoza 14.92 on the bench. Six quarterbacks on the roster. LigmaBrocksAndLoveMyPenix is next."
+    "Beat Bourbon Lover 124.46 to 116.92 in the closest game of Week 10. Jayden Daniels 27.76, Chase Brown 26.8, Blake Corum 22.9. Cam Ward scored 24.14 on the bench.",
+    "4-6. Bijan Robinson and Corum are on bye, and LigmaBrocksAndLoveMyPenix is next. Six quarterbacks on the roster, so Ward might finally start at superflex."
    ]
   },
   {
    "key": "jim",
    "name": "Asian Jim",
    "own": "ManicOrientals",
-   "rec": "4-5",
-   "pf": "1068.52",
-   "ap": "42-57",
+   "rec": "5-5",
+   "pf": "1191.98",
+   "ap": "47-63",
    "since": "2024",
    "titles": 0,
    "past": [
     "Who Shot Rick (2025, 7-7)",
     "Who Shot Rick (2024, 9-5)"
    ],
-   "w7": "Week 10: trails Kraft for Cash 89.30-84.06 with three players left (was an 18.5-point underdog). Week 11: vs Catfan94’s Farm Team",
+   "w7": "Week 10: beat Kraft for Cash 123.46-99.20. Week 11: vs Catfan94’s Farm Team (27.7-point underdog)",
    "inj": [
     "Elijah Arroyo (IR)",
     "Jack Strand (out)",
@@ -653,24 +657,24 @@
     "Ladd McConkey (out)"
    ],
    "body": [
-    "Trails Kraft for Cash 84.06 to 89.30 with Omarion Hampton, Tre' Harris and Justice Hill left tonight. Jaxon Smith-Njigba had 31.6. ManicOrientals pulled Ladd McConkey (Out) for Harris before kickoff.",
-    "Seth McGowan scored 15.7 on the bench. Kyler Murray is still Out. Sleeper projects a 103.72 to 102.67 win."
+    "Came from 5.24 down on Monday night to beat Kraft for Cash 123.46 to 99.20. Omarion Hampton 19.0, Tre' Harris 12.6 and Justice Hill 7.8 on Monday, and Jaxon Smith-Njigba 31.6 on Sunday.",
+    "5-5 with three straight wins. Smith-Njigba and Hunter Henry are on bye, Kyler Murray and Ladd McConkey are Out, and Catfan94’s Farm Team is next."
    ]
   },
   {
    "key": "bill",
    "name": "StrngeJhnsonHurtsmyBoutte",
    "own": "Bill_Buttlicker",
-   "rec": "3-6",
-   "pf": "988.70",
-   "ap": "27-72",
+   "rec": "3-7",
+   "pf": "1067.62",
+   "ap": "28-82",
    "since": "2024",
    "titles": 0,
    "past": [
     "8==👊🏼✊🏼==D💦 🫨 (2025, 4-10)",
     "BTaylor is still my bitch (2024, 3-11)"
    ],
-   "w7": "Week 10: trails Hold My DK 179.84-78.92 (was a 38.2-point underdog). Week 11: vs The Champ",
+   "w7": "Week 10: lost to Hold My DK 196.34-78.92. Week 11: vs The Champ (48.5-point underdog)",
    "inj": [
     "Adam Randall (IR)",
     "Drake Maye (out)",
@@ -679,24 +683,24 @@
     "Jaylin Noel (IR)"
    ],
    "body": [
-    "78.92. Parker Washington had 27.2 and Samaje Perine scored 13.9 on the bench while Tyler Allgeier scored 1.9 in the lineup. Drake Maye left on New England's opening drive with an ankle injury.",
-    "Maye is Out on Sleeper and Jalen Hurts is on IR, so the quarterbacks are Justin Fields and Shedeur Sanders. Will be 3-7. Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
+    "Lost to Hold My DK 196.34 to 78.92. Parker Washington had 27.2. I started AJ Barner (5.9) at superflex with Dalton Schultz (8.1) and Samaje Perine (13.9) on the bench.",
+    "3-7. Drake Maye is hurt and on bye, Jalen Hurts is on IR, and Shedeur Sanders is on bye on the taxi squad. Justin Fields is the quarterback. Zach Charbonnet, AJ Barner and Kaleb Johnson are on bye too. Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
    ]
   },
   {
    "key": "bourbon",
    "name": "Bourbon Lover",
    "own": "paknight12",
-   "rec": "3-6",
-   "pf": "962.96",
-   "ap": "32-67",
+   "rec": "3-7",
+   "pf": "1079.88",
+   "ap": "36-74",
    "since": "2024",
    "titles": 0,
    "past": [
     "Bourbon Lover (2025, 6-8)",
     "Bourbon Lover (2024, 5-9)"
    ],
-   "w7": "Week 10: lost to I Chase Brown Kids 124.46-116.92 (was a 16.7-point underdog). Week 11: vs Jefferson’s Reserve",
+   "w7": "Week 10: lost to I Chase Brown Kids 124.46-116.92. Week 11: vs Jefferson’s Reserve (22.3-point underdog)",
    "inj": [
     "Dontayvion Wicks (out)",
     "Jauan Jennings (out)",
@@ -704,143 +708,141 @@
     "Sam Darnold (out)"
    ],
    "body": [
-    "Dak Prescott threw five touchdowns (45.42), Tony Pollard had 22.4 and Drew Lock 22.1, and it still lost by 7.54. Devin Singletary scored 0.3 and Demarcus Robinson 0.0 in the lineup.",
-    "Will be 3-7. Lamar Jackson and Sam Darnold are on IR. Jefferson’s Reserve is next."
+    "Lost to I Chase Brown Kids 124.46 to 116.92 with Dak Prescott at 45.42. Devin Singletary scored 0.3 and Demarcus Robinson 0.0 in the lineup, with Jerry Jeudy's 9.4 on the bench.",
+    "3-7. Drew Lock, Jeudy and Colby Parkinson are on bye, and Lamar Jackson and Sam Darnold are on IR. Jefferson’s Reserve is next."
    ]
   },
   {
    "key": "dell",
    "name": "Dude, Your Getting a Dell",
    "own": "Br0phy",
-   "rec": "0-9",
-   "pf": "716.72",
-   "ap": "5-94",
+   "rec": "0-10",
+   "pf": "784.82",
+   "ap": "5-105",
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "Week 10: trails The Champ 166.08-55.80, Jacoby Brissett tonight (was a 60.1-point underdog). Week 11: vs Hold My DK",
+   "w7": "Week 10: lost to The Champ 166.08-68.10. Week 11: vs Hold My DK (77.0-point underdog)",
    "inj": [
-    "Brenen Thompson (doubtful)",
+    "Brenen Thompson (out)",
     "De'Zhaun Stribling (IR)",
     "Drew Allar (out)",
+    "Elijah Sarratt (out)",
     "Romeo Doubs (IR)",
-    "Trey Benson (IR)",
-    "Ty Simpson (out)"
+    "Trey Benson (IR)"
    ],
    "body": [
-    "55.80 with Jacoby Brissett left tonight. Deebo Samuel scored 26.9 on a 70-yard reverse and Stefon Diggs had 17.8. Xavier Worthy caught zero of three targets.",
-    "Br0phy owns both Ravens quarterbacks, Brissett and Joe Fagnano. Will be 0-10 unless Brissett scores 110.28. Hold My DK is next."
+    "Lost to The Champ 166.08 to 68.10. Jacoby Brissett threw for 340 yards on Monday and scored 12.3. Deebo Samuel Sr. had 26.9.",
+    "0-10 and mathematically eliminated. Rashid Shaheed and Rhamondre Stevenson are on bye. Hold My DK is next. Br0phy has four first-round picks over the next three drafts."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "Catfan94 has reportedly asked Sleeper to put a 'Most Recent' and an 'Also Me' line on the all-time high score board."
+   "t": "Bill_Buttlicker has reportedly asked Sleeper whether a 2028 first-round pick can be started at superflex this week. Sleeper said it can't throw."
   },
   {
    "src": "Developing",
-   "t": "TheMoneyTeam2302 reportedly framed Chuba Hubbard's 35.7 bench points and hung them next to the deed for every draft pick Hold My DK sold."
+   "t": "Catfan94 is reportedly holding open tryouts for a Week 11 quarterback in his driveway. Josh Allen showed up to watch and Chig Okonkwo brought cleats."
   },
   {
    "src": "Sources say",
-   "t": "Br0phy has reportedly asked the Ravens if Jacoby Brissett and Joe Fagnano can both play quarterback at the same time tonight, 'just for one drive.'"
+   "t": "BTaylor1 has reportedly filed a noise complaint against the Chargers' Monday night offense, citing 39.4 points of disturbance after 11 PM."
   },
   {
    "src": "Unconfirmed",
-   "t": "BTaylor1 has reportedly been refreshing the Zay Flowers projection since 6 AM, and it has gone up by zero points."
+   "t": "ManicOrientals reportedly had Tre' Harris's 12.6 points bronzed and mounted over the mantel next to a sign that says 'I Saw It Coming.'"
   },
   {
    "src": "Per a person familiar",
-   "t": "jmello16 is reportedly forming a quarterback union at Jefferson’s Reserve. J.J. McCarthy is president, Kirk Cousins is treasurer, and Carson Beck takes the minutes from the taxi squad."
+   "t": "Br0phy has reportedly started mailing Hold My DK a personalized letter before each game that just says 'please,' and TheMoneyTeam2302 has started framing them."
   },
   {
    "src": "Developing",
-   "t": "Bill_Buttlicker reportedly offered all 12 first-round picks for Cam Ward, and ZachCarroll09 asked if he could get a Week 10 lineup decision thrown in as a sweetener."
+   "t": "jmello16 reportedly asked the commissioners whether 134.62 points can be converted into a partial win, like store credit."
   },
   {
    "src": "Sources say",
-   "t": "ZachCarroll09 has reportedly started a seventh quarterback slot in a group chat with himself, so Cam Ward has somewhere to score points."
+   "t": "ZachCarroll09 is reportedly building a seventh quarterback out of spare parts from the other six, and Cam Ward is still not starting."
   },
   {
    "src": "Per league sources",
-   "t": "paknight12 reportedly filed a grievance claiming Dak Prescott's five touchdowns should count for two wins. Sleeper said it counts for zero."
+   "t": "TheMoneyTeam2302 has reportedly offered to rent Chuba Hubbard's bench seat to other managers by the hour, since Hubbard keeps scoring 35 on it."
   }
  ],
  "trades": [
   {
    "a": "StrngeJhnsonHurtsmyBoutte",
    "aget": [
-    "Cam Ward"
+    "Kirk Cousins"
    ],
-   "b": "I Chase Brown Kids",
+   "b": "Jefferson’s Reserve",
    "bget": [
-    "Brenton Strange",
     "Jakobi Meyers"
    ],
-   "why": "Drake Maye is Out and Jalen Hurts is on IR, and Bill_Buttlicker's healthy quarterbacks are Justin Fields and a taxi-squad Shedeur Sanders. ZachCarroll09 has six quarterbacks and Mike Gesicki scored 1.9 at tight end. Ward (24) for a 25-year-old tight end and a receiver.",
+   "why": "My quarterbacks are hurt, on IR, on bye or a backup. jmello16 has five quarterbacks and Mike Evans, Marvin Harrison Jr. and Jaylen Waddle all Out. A 38-year-old bench quarterback who scored 19.38 for a 30-year-old receiver who can start this week.",
    "tag": "Both sides win"
   },
   {
    "a": "OBJAY",
    "aget": [
-    "Kirk Cousins"
+    "Fernando Mendoza"
    ],
-   "b": "Jefferson’s Reserve",
+   "b": "I Chase Brown Kids",
    "bget": [
-    "Tyjae Spears"
+    "Tyler Higbee",
+    "Tutu Atwell"
    ],
-   "why": "OBJAY lost Geno Smith during the game and has Jaxson Dart on IR. jmello16 has five quarterbacks, one of whom scored 19.38 on the bench in his first game back with Minnesota. Spears gives Jefferson’s Reserve running back depth behind Bhayshul Tuten.",
+   "why": "Geno Smith is Out and Jaxson Dart is on IR, so OBJAY is down to Bo Nix and Kyle McCord. ZachCarroll09 has six quarterbacks and Mendoza is on the taxi squad, while Mike Gesicki scored 1.9 at tight end last week. Long-term quarterback for JAY2913, help now for a 4‑6 team.",
    "tag": "Fair"
-  },
-  {
-   "a": "The Champ",
-   "aget": [
-    "Chuba Hubbard"
-   ],
-   "b": "Hold My DK",
-   "bget": [
-    "Kayshon Boutte",
-    "Keenan Allen"
-   ],
-   "why": "Josh Jacobs is on IR and The Champ is starting Jordan Mason. Hold My DK has Christian McCaffrey, Derrick Henry and Jaylen Warren, and Hubbard just scored 35.7 on the bench. With Puka Nacua on IR, TheMoneyTeam2302 can use two receivers.",
-   "tag": "Both sides win"
   },
   {
    "a": "Asian Jim",
    "aget": [
-    "J.J. McCarthy"
+    "Deshaun Watson"
    ],
-   "b": "Jefferson’s Reserve",
+   "b": "Catfan94’s Farm Team",
    "bget": [
     "Malik Washington"
    ],
-   "why": "Kyler Murray is still Out and Asian Jim is starting Daniel Jones and Tyler Shough. McCarthy is 23 and scored 22.12 on a bench. Jefferson’s Reserve has three receivers Out and gets a 25-year-old who scored 14.86.",
+   "why": "Kyler Murray is Out and Asian Jim is starting Daniel Jones and Tyler Shough. jrsmith1391 has Brock Purdy, Baker Mayfield and Watson, and DeVonta Smith, Terry McLaurin and Jayden Reed are all hurt. Washington scored 14.86 last week.",
+   "tag": "Both sides win"
+  },
+  {
+   "a": "The Champ",
+   "aget": [
+    "J.K. Dobbins"
+   ],
+   "b": "Kraft for Cash",
+   "bget": [
+    "Mark Andrews"
+   ],
+   "why": "Josh Jacobs is Out, TreVeyon Henderson is on IR and Jordan Mason scored 7.9. Kraft for Cash has five running backs and Travis Kelce scored 5.5. Andrews scored 18.7 on The Champ's bench behind Harold Fannin Jr.",
    "tag": "Fair"
   },
   {
-   "a": "Catfan94’s Farm Team",
+   "a": "Hold My DK",
    "aget": [
-    "Aaron Jones Sr."
+    "Courtland Sutton"
    ],
    "b": "Bourbon Lover",
    "bget": [
-    "Isaac TeSlaa"
+    "Isaiah Bond"
    ],
-   "why": "Kenneth Walker III is Out and Zonovan Knight scored 2.4 at flex. paknight12 is going to be 3-7 and should be selling a 31-year-old running back for a 24-year-old receiver off the Catfan94’s Farm Team taxi squad.",
-   "tag": "Fair"
+   "why": "Hold My DK is 9‑1 with Puka Nacua on IR and Drake London Questionable, so TheMoneyTeam2302 buys a receiver now. paknight12 is 3‑7 and should be selling a 31-year-old for a 22-year-old on the Hold My DK taxi squad.",
+   "tag": "Contender buys"
   },
   {
    "a": "Dude, Your Getting a Dell",
    "aget": [
-    "Jahmyr Gibbs",
-    "George Pickens"
+    "Josh Allen"
    ],
    "b": "LigmaBrocksAndLoveMyPenix",
    "bget": [
-    "Tank Dell"
+    "Joe Fagnano"
    ],
-   "why": "Catfan94 scored 232.54 and decided the remaining 11 teams needed help. Br0phy gets 85.2 points from one week. LigmaBrocksAndLoveMyPenix gets a receiver who scored 4.1.",
+   "why": "Catfan94 has Penix and Love on bye and decides the fix is trading his only active quarterback for a Ravens backup. Br0phy finally gets a 25-point player. Nobody would ever do this, which is the only reason it's here.",
    "tag": "Veto immediately",
    "bad": true
   },
@@ -848,13 +850,13 @@
    "a": "Hold My DK",
    "aget": [
     "Parker Washington",
-    "Makai Lemon"
+    "Travis Hunter"
    ],
    "b": "StrngeJhnsonHurtsmyBoutte",
    "bget": [
-    "Cooper Kupp"
+    "Aaron Rodgers"
    ],
-   "why": "I'm going to be 3-7 and I'd still somehow sell my 24-year-old top scorer and a 22-year-old for a 33-year-old receiver who scored 9.9 on someone else's bench. This is how you go 10-27 all time.",
+   "why": "I have no quarterback, so naturally I sell my 24-year-old top scorer and a 23-year-old off my taxi squad for a 42-year-old who scored 18.62 last week. This is how you get to 10-28 all time.",
    "tag": "Call the commish",
    "bad": true
   }
@@ -863,80 +865,80 @@
   "trying": [
    [
     "StrngeJhnsonHurtsmyBoutte",
-    "78.92 points, a 1.9 in the lineup with 13.9 on the bench, and no healthy starting quarterback for next week. The Champ is next. I've given up pretending this is a slump."
-   ],
-   [
-    "Dude, Your Getting a Dell",
-    "55.80 with one Ravens backup left to play. 0‑10 is coming tonight, and Hold My DK is next."
+    "Lost by 117.42, started a tight end at superflex, and my Week 11 quarterback is a backup in Kansas City. I'm a 48.5-point underdog. I own 12 first-round picks and it's the only thing keeping me upright."
    ],
    [
     "Kraft for Cash",
-    "Up 5.24 with one player left and projected to lose by 1.05. BTaylor1 is the most nervous 6‑3 man in America."
+    "Up 5.24 with one player left, lost by 24.26. BTaylor1 is still 6‑4 but just turned a cushion into a coin flip with three 5‑5 teams."
+   ],
+   [
+    "Dude, Your Getting a Dell",
+    "0‑10, 68.10 points and mathematically eliminated in November. Br0phy, the draft room is that way."
    ]
   ],
   "gfy": [
    [
-    "LigmaBrocksAndLoveMyPenix",
-    "232.54. Second-highest score in league history, and he started the right rookie running back. Go f*** yourself, respectfully."
-   ],
-   [
     "Hold My DK",
-    "Scored 179.84 with 35.7 on the bench. TheMoneyTeam2302 is so good he left a starter's week on the pine and still won by 100."
+    "196.34 with 35.7 on the bench, again. TheMoneyTeam2302 mortgaged every pick and it's working. Go f*** yourself."
    ],
    [
-    "Catfan94’s Farm Team",
-    "Started Deshaun Watson at superflex and got 21.38. jrsmith1391 is out here making the moves I'm too scared to make."
+    "Asian Jim",
+    "Swapped Ladd McConkey for Tre' Harris before kickoff, got 12.6 from Harris, and won on Monday night. ManicOrientals is 5‑5 and playing like a 7‑3 team."
+   ],
+   [
+    "The Champ",
+    "Joe Burrow 41.16, 166.08 points, and the points tiebreaker over every 5‑5 team. TJohn91 is lurking and I'm the next victim."
    ]
   ]
  },
  "lines": [
   {
-   "fav": "LigmaBrocksAndLoveMyPenix",
-   "dog": "Jefferson’s Reserve",
-   "spread": "-41.4",
-   "total": "289.0",
-   "note": "Final: LigmaBrocksAndLoveMyPenix 232.54, Jefferson’s Reserve 134.62. Won by 97.92 and covered by 56.5. Jahmyr Gibbs 45.2, George Pickens 40.0, Emmett Johnson 34.6.",
-   "prob": 91
+   "fav": "Jefferson’s Reserve",
+   "dog": "Bourbon Lover",
+   "spread": "-22.3",
+   "total": "233.3",
+   "note": "Season PPG says 17.4. Nudged up because Bourbon Lover loses Drew Lock, Jerry Jeudy and Colby Parkinson to byes and would start Kenny Gainwell at superflex. Jefferson’s Reserve loses Kyle Pitts Sr. and Mack Hollins, but still has Trevor Lawrence and C.J. Stroud.",
+   "prob": 76
   },
   {
    "fav": "Kraft for Cash",
-   "dog": "Asian Jim",
-   "spread": "-18.5",
-   "total": "254.9",
-   "note": "Live: Kraft for Cash 89.30, Asian Jim 84.06. Tonight: Zay Flowers for Kraft for Cash; Omarion Hampton, Tre' Harris and Justice Hill for Asian Jim. Sleeper projects 102.67 to 103.72, so the favorite may not even win.",
-   "prob": 72
+   "dog": "OBJAY",
+   "spread": "-19.0",
+   "total": "250.9",
+   "note": "PPG says 14.1. Nudged up because OBJAY has Geno Smith Out and Jaxson Dart on IR, leaving Bo Nix and Kyle McCord at quarterback. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft to byes.",
+   "prob": 73
   },
   {
    "fav": "The Champ",
-   "dog": "Dude, Your Getting a Dell",
-   "spread": "-60.1",
-   "total": "218.4",
-   "note": "Live: The Champ 166.08, Dude, Your Getting a Dell 55.80. Jacoby Brissett plays tonight for Br0phy and needs 110.28 to flip it. Joe Burrow 41.16.",
-   "prob": 97
+   "dog": "StrngeJhnsonHurtsmyBoutte",
+   "spread": "-48.5",
+   "total": "248.2",
+   "note": "PPG says 34.7. Nudged way up: StrngeJhnsonHurtsmyBoutte has Drake Maye hurt and on bye, Jalen Hurts on IR and Justin Fields as the only available quarterback, plus Zach Charbonnet and AJ Barner on bye. The Champ loses Matthew Stafford, Harold Fannin Jr. and Matthew Golden.",
+   "prob": 94
   },
   {
    "fav": "Catfan94’s Farm Team",
-   "dog": "OBJAY",
-   "spread": "-23.6",
-   "total": "272.2",
-   "note": "Final: Catfan94’s Farm Team 138.94, OBJAY 83.62. Won by 55.32 and covered. Brock Purdy 42.16; OBJAY lost Geno Smith and Omar Cooper Jr. during the game.",
-   "prob": 78
+   "dog": "Asian Jim",
+   "spread": "-27.7",
+   "total": "268.0",
+   "note": "PPG says 29.6. Nudged down slightly: Catfan94’s Farm Team loses Deshaun Watson, Jadarian Price and Christian Watson to byes and Baker Mayfield is Questionable. Asian Jim loses Jaxon Smith-Njigba to Seattle's bye.",
+   "prob": 81
   },
   {
-   "fav": "I Chase Brown Kids",
-   "dog": "Bourbon Lover",
-   "spread": "-16.7",
-   "total": "228.7",
-   "note": "Final: I Chase Brown Kids 124.46, Bourbon Lover 116.92. Won by 7.54. Bourbon Lover covered the 16.7 behind Dak Prescott's 45.42.",
-   "prob": 71
+   "fav": "LigmaBrocksAndLoveMyPenix",
+   "dog": "I Chase Brown Kids",
+   "spread": "-36.2",
+   "total": "293.5",
+   "note": "PPG says 49.5. Nudged down: Michael Penix Jr. and Jordan Love are both on bye, so the superflex spot goes to a non-quarterback, and Brock Bowers is Out. I Chase Brown Kids loses Bijan Robinson and Blake Corum to byes.",
+   "prob": 88
   },
   {
    "fav": "Hold My DK",
-   "dog": "StrngeJhnsonHurtsmyBoutte",
-   "spread": "-38.2",
-   "total": "263.9",
-   "note": "Live: Hold My DK 179.84, StrngeJhnsonHurtsmyBoutte 78.92. Derrick Henry still plays tonight. Christian McCaffrey 50.3, Patrick Mahomes 45.92. Covered by about 62.7 already.",
-   "prob": 89
+   "dog": "Dude, Your Getting a Dell",
+   "spread": "-77.0",
+   "total": "236.8",
+   "note": "PPG says 79.8. Nudged down a hair: Hold My DK loses Drake London and Cooper Kupp to byes, but can start Caleb Williams at superflex. Dude, Your Getting a Dell loses Rashid Shaheed and Rhamondre Stevenson.",
+   "prob": 99
   }
  ],
  "sources": [
@@ -945,44 +947,28 @@
    "https://sleeper.com/leagues/1312534094717943808"
   ],
   [
-   "Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling (ESPN / AP)",
-   "https://www.espn.com/nfl/preview?gameId=401873065"
+   "Chargers at Ravens, Week 10 box score and scoring plays (ESPN)",
+   "https://www.espn.com/nfl/game/_/gameId/401873065"
   ],
   [
-   "McCaffrey's TDs of 74 and 66 yards and Samuel's 70-yard score help 49ers beat Cowboys 46-40 (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873063"
+   "Drake Maye set for more tests on ankle (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/647876/drake-maye-set-for-more-tests-on-ankle/"
   ],
   [
-   "Mahomes throws 5 TD passes and rookie Johnson runs for 101 yards as Chiefs overwhelm Falcons 35-13 (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873058"
+   "Brock Bowers won't return to action Sunday (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/647994/brock-bowers-wont-return-to-action-sunday/"
   ],
   [
-   "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout of Patriots after Maye injured in Munich (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873053"
+   "Kenneth Walker III expected back in Week 11 (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/647817/kenneth-walker-iii-expected-back-in-week-11/"
   ],
   [
-   "Josh Allen powers Bills past Jets 31-12 for best start in 35 years. New York loses Geno Smith twice (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873054"
+   "2026 NFL schedule release: every team's bye week (NFL.com)",
+   "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week"
   ],
   [
-   "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873055"
-  ],
-  [
-   "Kirk Cousins has triumphant return as Vikings sack Jordan Love 8 times in 30-10 win over Packers (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873060"
-  ],
-  [
-   "Joe Burrow and Bengals dominate Steelers 38-18 to take AFC North lead alone (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873064"
-  ],
-  [
-   "Seahawks beat Raiders 21-13 as Drew Lock throws for 2 TDs and Seattle sacks Fernando Mendoza 6 times (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873062"
-  ],
-  [
-   "Deshaun Watson throws for 312 yards against his old team as the Browns rally past the Texans 27-24 (ESPN / AP)",
-   "https://www.espn.com/nfl/recap/_/gameId/401873056"
+   "Sleeper Week 11 projections",
+   "https://sleeper.com/leagues/1312534094717943808"
   ]
  ],
  "columnists": [
@@ -1017,86 +1003,87 @@
  ],
  "columns": [
   {
-   "id": "mouth-w10mon",
+   "id": "mouth-w10tue",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "TWO HUNDRED THIRTY-TWO POINTS!! AGAIN!!",
-   "dek": "Catfan94 has the top two scores in league history. Hugh G. Rection needs a minute.",
+   "title": "MONDAY NIGHT!! THREE CHARGERS AND RAVENS!! ASIAN JIM!!",
+   "dek": "Hugh G. Rection stayed up for Chargers 23, Ravens 20 and has not calmed down since.",
    "body": [
-    "TWO HUNDRED THIRTY-TWO POINTS AND FIFTY-FOUR CENTS! LigmaBrocksAndLoveMyPenix! JAHMYR GIBBS 45.2! GEORGE PICKENS 40.0! EMMETT JOHNSON 34.6, A ROOKIE IN HIS FIRST START! SIX GUYS OVER 25! I SPILLED MY DUNKIN' ON THE SHRINE!",
-    "AND HERE'S THE PART THAT MAKES ME WANT TO FLIP THE TABLE: JORDAN LOVE GOT SACKED EIGHT TIMES AND SCORED 12.8 AND IT DIDN'T MATTER! THE BENCH HAD 17.1 FROM RYAN FLOURNOY! THE BENCH WOULD HAVE BEATEN Dude, Your Getting a Dell!",
-    "MEANWHILE Kraft for Cash IS UP 5.24 ON Asian Jim WITH ONE GUY LEFT! ZAY FLOWERS AGAINST THREE CHARGERS AND RAVENS! SLEEPER SAYS Asian Jim BY 1.05! MONDAY NIGHT FOOTBALL, BABY! I'M NOT SLEEPING! I WASN'T GOING TO ANYWAY!"
+    "DOWN 5.24! ONE GUY LEFT FOR Kraft for Cash! THREE GUYS LEFT FOR Asian Jim! AND THEN OMARION HAMPTON RUNS FOR 105 YARDS AND A TOUCHDOWN! NINETEEN POINTS! TRE' HARRIS FIVE CATCHES, 86 YARDS! JUSTICE HILL 7.8! THIRTY-NINE POINT FOUR FROM THREE GUYS ON A MONDAY! I KNOCKED THE DUNKIN' OFF THE SHRINE AGAIN!",
+    "ZAY FLOWERS? 9.9! BTaylor1 HAD AN 18.5-POINT LINE AND LOST BY 24.26! THAT'S A 42.76-POINT SWING AGAINST THE SPREAD! I DID THAT MATH ON A NAPKIN AND THEN I CHECKED IT TWICE BECAUSE I DIDN'T BELIEVE IT!",
+    "AND Hold My DK HUNG 196.34 ON THE GUY WHO RUNS THIS WEBSITE! 117.42-POINT WIN! HE STARTED A TIGHT END AT SUPERFLEX! IN MY HOUSE THAT'S A FELONY! FOUR WEEKS LEFT! FOUR TEAMS FOR THREE SPOTS! I'M NOT SLEEPING UNTIL WEEK 14!"
    ]
   },
   {
-   "id": "tre-w10mon",
+   "id": "tre-w10tue",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "Chuba Hubbard scored 35.7 on a bench. That's a coaching problem, even when you win by 100.",
-   "dek": "TheMoneyTeam2302 won. The film still shows a guy who didn't play the right back.",
+   "title": "Kraft for Cash didn't lose on Monday. It lost on Sunday, and Monday just made it official.",
+   "dek": "Richard \"Dick\" Gozinya watched the film. Benching Justin Herbert isn't what cost BTaylor1 this one.",
    "body": [
-    "Hold My DK beat StrngeJhnsonHurtsmyBoutte 179.84 to 78.92. Nobody's going to give TheMoneyTeam2302 grief for that score. I am. Jaylen Warren started and scored 7.1. Chuba Hubbard was on the bench and had 172 yards from scrimmage and two touchdowns for 35.7. That's 28.6 points left on the table.",
-    "You'll say it doesn't matter, and this week it didn't. In Week 14 it will. You don't get to pick which week your bench decides. At 9‑1, the margin for error is big. In the playoffs it's one game.",
-    "And since I'm handing out film notes, Bill_Buttlicker started Tyler Allgeier at 1.9 over Samaje Perine at 13.9 and lost by 100.92. Different situation. That one's just soft."
+    "Everybody wants to talk about Herbert's 16.26 on the bench. Fine. Swap him in for Bryce Young and Kraft for Cash scores 107.36. Asian Jim scored 123.46. You still lose by 16.10. The quarterback call is not the story.",
+    "The story is Kyren Williams 4.7, Travis Kelce 5.5 and Tetairoa McMillan 6.0 in the lineup. That's three starters combining for 16.2. When I played, if three guys took a Sunday off, the coach didn't blame the backup quarterback. He ran all three until somebody threw up.",
+    "BTaylor1 is 6‑4 and still in fourth place. OBJAY is next, with Bo Nix and Kyle McCord at quarterback. Win that and nobody remembers Monday. Lose that and you're one of four teams fighting for three chairs, and you're the one standing when the music stops. Toughen up."
    ]
   },
   {
-   "id": "dale-w10mon",
+   "id": "dale-w10tue",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "5 Monday tips from Holden McGroin, who has never once checked a Monday night lineup",
-   "dek": "Holden McGroin is on the porch. The laptop is at 4%. The advice is at 0%.",
+   "title": "6 bye-week tips from Holden McGroin, who once started a punter on bye and called it 'resting him'",
+   "dek": "Six NFL teams are off this week. Holden McGroin has a plan for all of them, and every plan is wrong.",
    "body": [
-    "1. Always have six quarterbacks. ZachCarroll09 does, and Cam Ward scored 24.14 on the bench. Points on the bench are points you saved for later. That's how savings work.",
-    "2. Never start the quarterback who plays on Monday. BTaylor1 started Bryce Young (8.1) and kept Justin Herbert on the bench for tonight. That way Herbert's points stay fresh.",
-    "3. Own both quarterbacks from the same team. Br0phy has Jacoby Brissett and Joe Fagnano from Baltimore. That's called a monopoly. Br0phy is 0‑9, but monopolies take time.",
-    "4. Score 116.92 and lose. paknight12 did it with Dak Prescott at 45.42. Losing with a lot of points is basically winning, according to my accountant, who is also me.",
-    "5. If your quarterback goes down, start a defensive back. Bill_Buttlicker has Travis Hunter on the taxi squad. I'm not saying it's legal. I'm saying nobody's checked."
+    "1. Start your bye-week players anyway. They're rested. Fresh legs score more points, and zero is technically a number, which means it's technically a score.",
+    "2. LigmaBrocksAndLoveMyPenix has Michael Penix Jr. and Jordan Love on bye. Catfan94 should bench Josh Allen too, for team chemistry. Nobody likes the one guy who shows up when everybody else stayed home.",
+    "3. Bill_Buttlicker's only available quarterback is Justin Fields, Kansas City's backup. My advice: start Fields at quarterback and Shedeur Sanders at superflex. I'm told Shedeur is on the taxi squad and Cleveland is on bye. That's two reasons he'll be well-rested.",
+    "4. Hold My DK is a 77.0-point favorite. Br0phy should try to make it close by trading away everyone who scored last week. Fewer players means fewer bad decisions. That's addition.",
+    "5. Kenneth Walker III is expected back for Kansas City, so drop Emmett Johnson immediately. He only scored 34.6 last week. Players who score 34.6 are due to score less, and I'd rather get out early.",
+    "6. When in doubt, start the guy with the coolest name. That's how I finished 14th in a 12-team league, and nobody's ever been able to explain it."
    ]
   },
   {
-   "id": "gary-w10mon",
+   "id": "gary-w10tue",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "Catfan94 scored 232.54. My model says that's 4.17 units of Dude, Your Getting a Dell.",
-   "dek": "Ivana Humpalot built a new unit of measurement and she's going to use it all season.",
+   "title": "Hold My DK scored 2.88 units of Dude, Your Getting a Dell. My new unit is getting a workout.",
+   "dek": "Ivana Humpalot has run the Week 10 numbers through the spreadsheet and the spreadsheet has opinions.",
    "body": [
-    "LigmaBrocksAndLoveMyPenix scored 232.54 and Dude, Your Getting a Dell scored 55.80. Divide one by the other and you get 4.17. So that's my new unit: one Dude, Your Getting a Dell equals 55.80 points, and I'll be using it until Br0phy scores more, which my model says is never.",
-    "Catfan94's two best weeks add up to 476.12 points, or 8.53 units of Dude, Your Getting a Dell. The best week anyone else in this league has ever had is 198.64, or 3.56 units. My model says the gap between Catfan94 and everyone else is about one entire Dude, Your Getting a Dell, plus change.",
-    "Tonight, Kraft for Cash leads Asian Jim by 5.24, or 0.094 units. Sleeper projects Asian Jim by 1.05, or 0.019 units. The confidence interval on that is 'Monday night,' which my spreadsheet doesn't have a cell for."
+    "Yesterday I invented a unit of fantasy scoring: one Dude, Your Getting a Dell, equal to whatever that team scored that week. Then Jacoby Brissett scored 12.3 on Monday night and the final Week 10 unit came in at 68.10, so I re-ran everything. Hold My DK scored 196.34, which is 2.88 units. LigmaBrocksAndLoveMyPenix scored 232.54, or 3.41 units.",
+    "Season-long, LigmaBrocksAndLoveMyPenix has 1714.68 points and Dude, Your Getting a Dell has 784.82. That's 2.18 units of Dude, Your Getting a Dell per Catfan94, a ratio I'm calling the Catfan Coefficient. Catfan94's lead over Br0phy is 929.86 points, which is more than Br0phy has scored all year. My model says that's bad for Br0phy. My model is right.",
+    "Br0phy's all-play record is 5-105, a 4.5% win rate. Bill_Buttlicker's is 28-82, or 25.5%. That makes Bill_Buttlicker 5.6 times more competitive than Br0phy, which my spreadsheet labels 'Almost Mediocre.' Bill_Buttlicker asked me to change the label. I did not."
    ]
   }
  ],
  "exits": [
   {
-   "p": "Chuba Hubbard",
-   "team": "Hold My DK",
-   "t": "Had 172 yards from scrimmage, two touchdowns and 35.7 points on the Hold My DK bench, while Jaylen Warren started and scored 7.1. Would like to be traded somewhere that counts his points."
-  },
-  {
-   "p": "Samaje Perine",
+   "p": "Dalton Schultz",
    "team": "StrngeJhnsonHurtsmyBoutte",
-   "t": "Scored 13.9 on the StrngeJhnsonHurtsmyBoutte bench while Tyler Allgeier started and scored 1.9. The owner of this website did that. Perine has seen the website."
+   "t": "Scored 8.1 on the StrngeJhnsonHurtsmyBoutte bench while AJ Barner, another tight end, started at superflex and scored 5.9. Wants to go somewhere the owner can count to nine."
   },
   {
-   "p": "Ryan Flournoy",
-   "team": "LigmaBrocksAndLoveMyPenix",
-   "t": "Scored 17.1 on the LigmaBrocksAndLoveMyPenix bench while Jameson Williams scored 8.0 in the lineup. The team scored 232.54 without him, which somehow makes it worse."
-  },
-  {
-   "p": "Cam Ward",
+   "p": "Alvin Kamara",
    "team": "I Chase Brown Kids",
-   "t": "Scored 24.14 on the bench as one of six quarterbacks on I Chase Brown Kids. Starting in a superflex league is not a crazy ask."
+   "t": "Scored 14.9 on the I Chase Brown Kids bench while Javonte Williams started and scored 8.2. Would like to be traded to a team with fewer quarterbacks and more lineup spots for him."
   },
   {
-   "p": "Jordyn Tyson",
-   "team": "The Champ",
-   "t": "Scored 15.5 on The Champ's bench while Jordan Mason scored 7.9 in the lineup. A 22-year-old on a dynasty roster would like to be part of the dynasty."
+   "p": "Seth McGowan",
+   "team": "Asian Jim",
+   "t": "Scored 15.7 on the Asian Jim bench while Austin Ekeler (9.2) and Justice Hill (7.8) started. Asian Jim won anyway, which McGowan considers beside the point."
   },
   {
-   "p": "Kaelon Black",
-   "team": "OBJAY",
-   "t": "Scored 14.1 on the OBJAY taxi squad, where points don't count, in a week OBJAY scored 83.62. Following Antonio Williams's lead and asking for a real roster spot."
+   "p": "Jerry Jeudy",
+   "team": "Bourbon Lover",
+   "t": "Scored 9.4 on the Bourbon Lover bench while Demarcus Robinson (0.0) and Keon Coleman (2.1) started. Bourbon Lover lost by 7.54. Jeudy has done the math."
+  },
+  {
+   "p": "Josh Cameron",
+   "team": "Catfan94’s Farm Team",
+   "t": "Scored 14.2 on the Catfan94’s Farm Team taxi squad while Zonovan Knight started at flex and scored 2.4. Would like a real roster spot on a team that's 7‑3."
+  },
+  {
+   "p": "Elic Ayomanor",
+   "team": "Jefferson’s Reserve",
+   "t": "Scored 12.4 on the Jefferson’s Reserve taxi squad while Chris Olave started and scored 6.0. Jefferson’s Reserve lost by 97.92, so it didn't matter, but he'd still like to be asked."
   }
  ],
  "history": {
@@ -1131,90 +1118,90 @@
    ],
    [
     "The Basement",
-    "Bill_Buttlicker went 3-11 in 2024 and 4-10 in 2025, and scored 54.86 in 2024 Week 3, the second-lowest score in league history."
+    "Bill_Buttlicker went 3-11 in 2024 and 4-10 in 2025, scored 54.86 in 2024 Week 3, the second-lowest score in league history, and is 10-28 all time."
    ],
    [
     "39.26",
-    "Br0phy's 39.26 in Week 8 this year is the lowest score in league history by 14.78 points."
+    "Br0phy's 39.26 in Week 8 this year is the lowest score in league history by 14.78 points. Dude, Your Getting a Dell is 0-10."
    ]
   ],
   "alltime": [
    [
-    "TJohn91",
-    "26-11",
-    "2",
-    "2"
-   ],
-   [
     "Catfan94",
-    "27-10",
+    "28-10",
     "0",
     "1"
    ],
    [
+    "TJohn91",
+    "27-11",
+    "2",
+    "2"
+   ],
+   [
     "jrsmith1391",
-    "22-15",
+    "23-15",
     "0",
     "1"
    ],
    [
     "BTaylor1",
-    "21-16",
+    "21-17",
     "0",
     "0"
    ],
    [
     "ManicOrientals",
-    "20-17",
+    "21-17",
     "0",
     "0"
    ],
    [
     "ZachCarroll09",
-    "18-19",
-    "0",
-    "0"
-   ],
-   [
-    "JAY2913",
-    "18-19",
+    "19-19",
     "0",
     "0"
    ],
    [
     "TheMoneyTeam2302",
-    "18-19",
+    "19-19",
+    "0",
+    "0"
+   ],
+   [
+    "JAY2913",
+    "18-20",
     "0",
     "0"
    ],
    [
     "paknight12",
-    "14-23",
+    "14-24",
     "0",
     "0"
    ],
    [
     "Bill_Buttlicker",
-    "10-27",
+    "10-28",
     "0",
     "0"
    ],
    [
     "jmello16",
-    "5-4",
+    "5-5",
     "0",
     "0"
    ],
    [
     "Br0phy",
-    "0-9",
+    "0-10",
     "0",
     "0"
    ]
   ]
  },
  "hof": {
-  "note": "Records through Week 9 of 2026, regular season since 2024. The high-score list includes Catfan94's final Week 10 score. Playoff trips count 2024-2025.",
+  "note": "Records through Week 10 of 2026, regular season since 2024. Playoff trips count 2024-2025.",
   "asterisk": "Sleeper history for Gentleman's Dynasty starts in 2024. Anything older is between you and whoever ran it before.",
   "cats": [
    {
@@ -1234,28 +1221,28 @@
     "rows": [
      [
       "Catfan94",
-      "27 wins",
-      "27-10"
+      "28 wins",
+      "28-10"
      ],
      [
       "TJohn91",
-      "26 wins",
-      "26-11"
+      "27 wins",
+      "27-11"
      ],
      [
       "jrsmith1391",
-      "22 wins",
-      "22-15"
+      "23 wins",
+      "23-15"
      ],
      [
       "BTaylor1",
       "21 wins",
-      "21-16"
+      "21-17"
      ],
      [
       "ManicOrientals",
-      "20 wins",
-      "20-17"
+      "21 wins",
+      "21-17"
      ]
     ]
    },
@@ -1265,28 +1252,28 @@
     "rows": [
      [
       "Bill_Buttlicker",
-      "27 losses",
-      "10-27"
+      "28 losses",
+      "10-28"
      ],
      [
       "paknight12",
-      "23 losses",
-      "14-23"
+      "24 losses",
+      "14-24"
+     ],
+     [
+      "JAY2913",
+      "20 losses",
+      "18-20"
      ],
      [
       "ZachCarroll09",
       "19 losses",
-      "18-19"
-     ],
-     [
-      "JAY2913",
-      "19 losses",
-      "18-19"
+      "19-19"
      ],
      [
       "TheMoneyTeam2302",
       "19 losses",
-      "18-19"
+      "19-19"
      ]
     ]
    },
@@ -1315,9 +1302,9 @@
       "2026 Wk 3 vs jmello16"
      ],
      [
-      "BTaylor1",
-      "192.66",
-      "2026 Wk 4 vs Catfan94"
+      "TheMoneyTeam2302",
+      "196.34",
+      "2026 Wk 10 vs Bill_Buttlicker"
      ]
     ]
    },
@@ -1393,12 +1380,12 @@
    {
     "t": "The Bank",
     "w": "Bill_Buttlicker",
-    "why": "12 first-round picks over the next three drafts and the worst all-time record in the league at 10-27. Rich and bad."
+    "why": "12 first-round picks over the next three drafts and the worst all-time record in the league at 10-28. Rich and bad."
    },
    {
     "t": "The Mortgage",
     "w": "TheMoneyTeam2302",
-    "why": "Sold every pick in rounds one through four of the next three drafts to go 8-1. Bold. Possibly brilliant. Definitely irreversible."
+    "why": "Sold every pick in rounds one through four of the next three drafts to go 9-1. Bold. Possibly brilliant. Definitely irreversible."
    },
    {
     "t": "The 243",
