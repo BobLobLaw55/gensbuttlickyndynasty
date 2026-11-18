@@ -1,5 +1,5 @@
 {
- "updated": "Tuesday, Nov 17, 2026 · 7:20 AM ET",
+ "updated": "Wednesday, Nov 18, 2026 · 7:10 AM ET",
  "week": 11,
  "ticker": [
   [
@@ -41,47 +41,59 @@
  ],
  "wire": [
   {
-   "t": "Chargers 23, Ravens 20 on Monday night, and it flipped a fantasy game. Omarion Hampton ran for 105 yards and a touchdown (19.0), Tre' Harris caught five for 86 (12.6) and Justice Hill added 7.8, so Asian Jim beat Kraft for Cash 123.46 to 99.20. Zay Flowers had 74 yards and 9.9.",
-   "src": "ESPN box score",
-   "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
+   "t": "Week 10 waivers ran overnight. JAY2913 paid $13 for Xavier Hutchinson and dropped Efton Chism III. Bill_Buttlicker paid $11 for Tampa Bay rookie quarterback Jalon Daniels and dropped Marquise Brown. Br0phy paid $1 for Emari Demercado and dropped Najee Harris.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "Derrick Henry ran 10 times for 10 yards and scored twice in the loss, 16.5 for Hold My DK, which finished at 196.34. Jacoby Brissett threw for 340 yards with no touchdowns and an interception, 12.3 for Dude, Your Getting a Dell.",
-   "src": "ESPN box score",
-   "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
+   "t": "jrsmith1391 added Myles Price to Catfan94’s Farm Team Wednesday morning and dropped Zonovan Knight, who started at flex in Week 10 and scored 2.4.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
-   "t": "Drake Maye needs more tests on his ankle, and reports say the Patriots feared a fracture. New England is on bye in Week 11 and Mike Vrabel said he wouldn't imagine Maye being available coming out of it. Tommy DeVito replaced him in Munich.",
+   "t": "Baker Mayfield's status for Sunday against Detroit is uncertain with a foot and ankle injury from Week 9, per NFL Network's Mike Garafolo. Injured reserve isn't in play. Jalon Daniels started three games in Mayfield's place earlier this season and went 1-2. Mayfield is on Catfan94’s Farm Team; Daniels is now on StrngeJhnsonHurtsmyBoutte.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11"
+  },
+  {
+   "t": "Geno Smith had an MRI on his left ankle Monday and Aaron Glenn said an update would come later in the week; if healthy, Smith stays the starter against the Chargers. Cade Klubnik is next up. Sleeper now lists Smith as Questionable, which matters for OBJAY.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/648136/geno-smith-set-for-mri-on-ankle/"
+  },
+  {
+   "t": "Brock Bowers is viewed as day-to-day with the ankle and isn't believed to have a major injury, per Ian Rapoport, though his practice participation is expected to be limited before Denver. Sleeper has moved him from Out to Questionable for LigmaBrocksAndLoveMyPenix.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/648132/brock-bowers-viewed-as-day-to-day/"
+  },
+  {
+   "t": "Drake Maye needs more tests on his ankle, and reports say the Patriots feared a fracture. New England is on bye in Week 11. Maye is Out on Sleeper, which is why StrngeJhnsonHurtsmyBoutte was shopping for quarterbacks at 3 AM.",
    "src": "The Fantasy Footballers",
    "url": "https://www.thefantasyfootballers.com/news/647876/drake-maye-set-for-more-tests-on-ankle/"
   },
   {
-   "t": "Brock Bowers is day-to-day with the ankle he hurt against Seattle, and Ian Rapoport reported it isn't believed to be a major injury. He's listed Out on Sleeper. The Raiders play Denver next.",
-   "src": "The Fantasy Footballers",
-   "url": "https://www.thefantasyfootballers.com/news/647994/brock-bowers-wont-return-to-action-sunday/"
-  },
-  {
-   "t": "Kenneth Walker III (groin) is expected to play Sunday against Arizona, per Ian Rapoport, who called last week's absence precautionary. That's good news for Catfan94’s Farm Team and less good for Emmett Johnson's 34.6-point week on LigmaBrocksAndLoveMyPenix.",
-   "src": "The Fantasy Footballers",
-   "url": "https://www.thefantasyfootballers.com/news/647817/kenneth-walker-iii-expected-back-in-week-11/"
+   "t": "Sleeper status upgrades this week: Mike Evans, Marvin Harrison Jr. and Jaylen Waddle went from Out to Questionable for Jefferson’s Reserve, DeVonta Smith and T.J. Hockenson are Questionable for Catfan94’s Farm Team, and Ladd McConkey is Questionable for Asian Jim.",
+   "src": "League rosters",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
   },
   {
    "t": "Six teams are on bye in Week 11: Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle. That takes out Michael Penix Jr. and Jordan Love for LigmaBrocksAndLoveMyPenix, Deshaun Watson for Catfan94’s Farm Team and Jaxon Smith-Njigba for Asian Jim.",
    "src": "NFL.com",
    "url": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week"
-  },
-  {
-   "t": "No transactions since Saturday, when jmello16 added Mack Hollins to Jefferson’s Reserve. Hollins plays for New England, which is on bye this week.",
-   "src": "League transactions",
-   "url": "https://sleeper.com/leagues/1312534094717943808"
-  },
-  {
-   "t": "Week 10 is final. LigmaBrocksAndLoveMyPenix and Hold My DK are 9-1, Dude, Your Getting a Dell is 0-10, and four teams are tied at 5-5 or 6-4 for the last three playoff spots.",
-   "src": "League standings",
-   "url": "https://sleeper.com/leagues/1312534094717943808"
   }
  ],
  "stories": [
+  {
+   "id": "wed-waivers",
+   "kicker": "Waiver Wire",
+   "title": "I paid $11 for a quarterback who only plays if somebody else's quarterback can't",
+   "dek": "Jalon Daniels is mine, Marquise Brown is gone, and Baker Mayfield's ankle now decides whether StrngeJhnsonHurtsmyBoutte has a quarterback on Sunday.",
+   "body": [
+    "Here's where I was Tuesday: Drake Maye Out and on bye, Jalen Hurts on IR, Shedeur Sanders on my taxi squad with Cleveland on bye, and Justin Fields as the only healthy quarterback, sitting behind Patrick Mahomes in Kansas City. So I put in $11 on Jalon Daniels, the Tampa Bay rookie, and dropped Marquise Brown, who isn't on an NFL team. That drop I'll defend. The bid is the part you can laugh at.",
+    "Daniels starts only if Baker Mayfield can't. Mike Garafolo says Mayfield's foot and ankle make him uncertain for Detroit, but it's not an IR thing. Daniels started three games earlier this year and went 1-2. So my Week 11 superflex plan is rooting against a quarterback on Catfan94’s Farm Team, which is also the third-best team in the league. jrsmith1391, nothing personal. I'm just broke at the position.",
+    "JAY2913 won the night with $13 on Xavier Hutchinson, dropping Efton Chism III, who's on bye with New England anyway. Br0phy spent $1 on Emari Demercado and dropped Najee Harris, who also isn't on an NFL team, so Dude, Your Getting a Dell made a correct roster move in Week 11, and I want that on the record. Then this morning jrsmith1391 grabbed Myles Price and cut Zonovan Knight, the 2.4-point flex from Week 10.",
+    "FAAB check: I've spent $17 of $100 and still have 12 first-round picks over the next three drafts, so I'm rich in every currency except points. TheMoneyTeam2302 has spent $87 and is 9‑1. Catfan94 has spent $81 and is 9‑1. jmello16 has spent $0, is 5‑5, and is probably the smartest guy in the room. The line didn't move much for me: I'm now a 45.0-point underdog to The Champ instead of 48.5. That's $11 for 3.5 points. Bargain."
+   ]
+  },
   {
    "id": "tue-w10-recap",
    "kicker": "Week 10 Recap",
@@ -95,15 +107,15 @@
    ]
   },
   {
-   "id": "tue-byes",
-   "kicker": "Week 11 Preview",
-   "title": "Six teams on bye, and LigmaBrocksAndLoveMyPenix loses both backup quarterbacks in the same week",
-   "dek": "Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle are off. Some of you are about to start a tight end at superflex. Some of you are me.",
+   "id": "wed-injuries",
+   "kicker": "Injury Watch",
+   "title": "Brock Bowers, Geno Smith and a pile of Sleeper upgrades: who's actually playing in Week 11",
+   "dek": "Half the 'Out' tags from Tuesday are 'Questionable' tags on Wednesday. Here's what that does to the lines.",
    "body": [
-    "This is the worst bye week of the year, and it hits the top of the standings first. Michael Penix Jr. (Atlanta) and Jordan Love (Green Bay) are both off, so LigmaBrocksAndLoveMyPenix has Josh Allen and nobody else at quarterback. Malik Willis is on IR and Brock Bowers is Out with the ankle. Catfan94 is still a 36.2-point favorite over I Chase Brown Kids, which tells you how much is left on that roster.",
-    "Catfan94’s Farm Team loses Deshaun Watson, Jadarian Price, Christian Watson and KC Concepcion Jr. to byes, and Baker Mayfield is Questionable. jrsmith1391 does get Kenneth Walker III back if Ian Rapoport is right. Asian Jim loses Jaxon Smith-Njigba, the 31.6-point guy from Week 10, to Seattle's bye, and Kyler Murray is still Out.",
-    "The Champ loses Matthew Stafford, Matthew Golden and Harold Fannin Jr., and still has Joe Burrow and Jared Goff. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft. I Chase Brown Kids loses Bijan Robinson and Blake Corum, but ZachCarroll09 has six quarterbacks, so the superflex spot is the one thing he'll never worry about.",
-    "Then there's me. Drake Maye is hurt and New England is on bye anyway. Jalen Hurts is on IR. Shedeur Sanders is on my taxi squad and Cleveland is on bye. That leaves Justin Fields, the Kansas City backup, and Sleeper doesn't project him for a single point. Zach Charbonnet, AJ Barner, Kaleb Johnson, Konata Mumpfield and Denzel Boston are on bye too. I'm a 48.5-point underdog to The Champ, and honestly that number is generous."
+    "Brock Bowers went from Out to Questionable on Sleeper. Ian Rapoport says the ankle isn't a major injury and he's day-to-day, though practice will be limited before Denver. That's the reason LigmaBrocksAndLoveMyPenix moved from a 36.2-point favorite to 38.5 over I Chase Brown Kids. Catfan94 still has Josh Allen as the only active quarterback with Michael Penix Jr. and Jordan Love on bye.",
+    "Geno Smith had an MRI on his ankle Monday, and Aaron Glenn says he's still the starter if he's healthy. Sleeper lists him Questionable. If he plays, OBJAY has a real second quarterback next to Bo Nix instead of Kyle McCord, so Kraft for Cash drops from a 19.0-point favorite to 17.0. Woody Marks is Doubtful and Jaxson Dart is still on IR.",
+    "Jefferson’s Reserve got the best news of anybody: Mike Evans, Marvin Harrison Jr. and Jaylen Waddle all went from Out to Questionable. jmello16 is a 22.3-point favorite over Bourbon Lover and has Trevor Lawrence and C.J. Stroud at quarterback. Catfan94’s Farm Team has DeVonta Smith and T.J. Hockenson Questionable, Kenneth Walker III Questionable after Rapoport said he's expected back, and Baker Mayfield uncertain.",
+    "Asian Jim gets Ladd McConkey back to Questionable, but Kyler Murray is still Out and Jaxon Smith-Njigba is on bye, so ManicOrientals is down to Daniel Jones and Tyler Shough at quarterback. Drake Maye is still Out for me, and New England is on bye regardless. These tags will move again Thursday and Friday. Check before you set a lineup, and don't be me."
    ]
   },
   {
@@ -115,18 +127,7 @@
     "LigmaBrocksAndLoveMyPenix and Hold My DK are 9‑1. Catfan94’s Farm Team is 7‑3. Those three are at least two games clear of seventh place with four weeks to play, so the real fight is for spots four through six between Kraft for Cash at 6‑4 and three teams at 5‑5.",
     "Points for is the tiebreaker. Among the 5‑5 teams: The Champ 1414.72, Jefferson’s Reserve 1253.50, Asian Jim 1191.98. TJohn91 is 161.22 points ahead of jmello16 and 222.74 ahead of ManicOrientals, which is almost two full weeks of scoring. If it's a three-way tie at the end, the two-time champ is in.",
     "I Chase Brown Kids (1219.86) and OBJAY (1184.34) are 4‑6, one game back. Bourbon Lover and StrngeJhnsonHurtsmyBoutte are 3‑7 and need four straight wins and some help. Dude, Your Getting a Dell is 0‑10 and mathematically eliminated: seven teams already have five wins, and Br0phy can finish with four at best.",
-    "This week's games that matter: Jefferson’s Reserve is a 22.3-point favorite over Bourbon Lover. Kraft for Cash is a 19.0-point favorite over OBJAY. Catfan94’s Farm Team is a 27.7-point favorite over Asian Jim, with Smith-Njigba on bye. And The Champ gets me, a team with no quarterback, so pencil TJohn91 in for 6‑5."
-   ]
-  },
-  {
-   "id": "tue-kraft",
-   "kicker": "Monday Night",
-   "title": "Kraft for Cash had a 5.24-point lead and one player left. It lost by 24.26.",
-   "dek": "Zay Flowers scored 9.9 and three Chargers and Ravens scored 39.4. Starting Justin Herbert wouldn't have saved it.",
-   "body": [
-    "Kraft for Cash went into Monday up 89.30 to 84.06 as an 18.5-point pregame favorite. Flowers caught six for 74 and scored 9.9. ManicOrientals got 19.0 from Omarion Hampton, 12.6 from Tre' Harris and 7.8 from Justice Hill, a 39.4-point night from three players. The final was 123.46 to 99.20.",
-    "Justin Herbert ran for a touchdown and scored 16.26 on the Kraft for Cash bench while Bryce Young scored 8.1 in the lineup. That swap is worth 8.16 points, and Kraft for Cash still loses by 16.10. Herbert had been expected to play after negative imaging on his non-throwing hand, so starting Young wasn't crazy. The problem was Kyren Williams (4.7), Travis Kelce (5.5) and Tetairoa McMillan (6.0) in the lineup.",
-    "BTaylor1 is 6‑4, a game ahead of three 5‑5 teams, and has OBJAY next. OBJAY has Geno Smith Out and Jaxson Dart on IR, so JAY2913 is down to Bo Nix and Kyle McCord at quarterback. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft to byes and is still a 19.0-point favorite."
+    "This week's games that matter: Jefferson’s Reserve is a 22.3-point favorite over Bourbon Lover. Kraft for Cash is a 17.0-point favorite over OBJAY now that Geno Smith is Questionable. Catfan94’s Farm Team is a 27.7-point favorite over Asian Jim, with Smith-Njigba on bye. And The Champ gets me, a team whose quarterback depends on Baker Mayfield's ankle, so pencil TJohn91 in for 6‑5."
    ]
   }
  ],
@@ -321,7 +322,7 @@
    "own": "Catfan94",
    "rec": "9‑1",
    "ap": "95-15",
-   "take": "9‑1, six straight wins and 1714.68 points, 131.76 more than anyone else. Josh Allen is the only active quarterback this week with Michael Penix Jr. and Jordan Love on bye, and Brock Bowers is Out. Still a 36.2-point favorite."
+   "take": "9‑1, six straight wins and 1714.68 points, 131.76 more than anyone else. Brock Bowers moved from Out to Questionable and is reportedly day-to-day. Josh Allen is still the only active quarterback this week, and Catfan94 is still a 38.5-point favorite."
   },
   {
    "rk": 2,
@@ -339,11 +340,11 @@
    "own": "jrsmith1391",
    "rec": "7‑3",
    "ap": "82-28",
-   "take": "7‑3, three straight wins. Byes take Deshaun Watson, Jadarian Price and Christian Watson this week, but Kenneth Walker III is expected back. Two games clear of seventh."
+   "take": "7‑3, three straight wins. Added Myles Price for Zonovan Knight. Byes take Deshaun Watson, Jadarian Price and Christian Watson, and Baker Mayfield is uncertain with the foot and ankle. Two games clear of seventh."
   },
   {
    "rk": 4,
-   "prev": 5,
+   "prev": 4,
    "team": "The Champ",
    "own": "TJohn91",
    "rec": "5‑5",
@@ -352,7 +353,7 @@
   },
   {
    "rk": 5,
-   "prev": 4,
+   "prev": 5,
    "team": "Kraft for Cash",
    "own": "BTaylor1",
    "rec": "6‑4",
@@ -361,7 +362,7 @@
   },
   {
    "rk": 6,
-   "prev": 7,
+   "prev": 6,
    "team": "Asian Jim",
    "own": "ManicOrientals",
    "rec": "5‑5",
@@ -370,12 +371,12 @@
   },
   {
    "rk": 7,
-   "prev": 6,
+   "prev": 7,
    "team": "Jefferson’s Reserve",
    "own": "jmello16",
    "rec": "5‑5",
    "ap": "54-56",
-   "take": "Scored 134.62 and lost by 97.92, and trails The Champ by 161.22 in points for, which is the tiebreaker. Two straight losses. Bourbon Lover is next, and that's a 22.3-point line."
+   "take": "Scored 134.62 and lost by 97.92, and trails The Champ by 161.22 in points for. Mike Evans, Marvin Harrison Jr. and Jaylen Waddle all moved from Out to Questionable. Has spent $0 of FAAB all year. A 22.3-point favorite over Bourbon Lover."
   },
   {
    "rk": 8,
@@ -393,7 +394,7 @@
    "own": "JAY2913",
    "rec": "4‑6",
    "ap": "46-64",
-   "take": "4‑6, two straight losses, and Geno Smith is Out with Jaxson Dart on IR. Bo Nix and Kyle McCord are the quarterbacks against Kraft for Cash."
+   "take": "4‑6, two straight losses. Paid $13 for Xavier Hutchinson, the biggest bid of the week. Geno Smith is Questionable after an MRI, which would give JAY2913 a second real quarterback next to Bo Nix against Kraft for Cash."
   },
   {
    "rk": 10,
@@ -411,7 +412,7 @@
    "own": "Bill_Buttlicker",
    "rec": "3‑7",
    "ap": "28-82",
-   "take": "3‑7. Lost by 117.42. Started a tight end at superflex. Drake Maye is hurt, Jalen Hurts is on IR, and my Week 11 quarterback is Justin Fields, Kansas City's backup. I'd rank me lower, but there's one team below me and it's 0‑10."
+   "take": "3‑7. Lost by 117.42. Paid $11 for Jalon Daniels, who starts only if Baker Mayfield can't. My other option is Justin Fields, Kansas City's backup. I'd rank me lower, but there's one team below me and it's 0‑10."
   },
   {
    "rk": 12,
@@ -420,7 +421,7 @@
    "own": "Br0phy",
    "rec": "0‑10",
    "ap": "5-105",
-   "take": "0‑10 and mathematically eliminated. 784.82 points, 282.80 behind 11th place. Hold My DK is next. Br0phy, it's okay to start thinking about the 2027 draft."
+   "take": "0‑10 and mathematically eliminated. Spent $1 on Emari Demercado and dropped a running back who isn't on an NFL team, which counts as progress. Hold My DK is next, and that's a 77.0-point line."
   }
  ],
  "teams": [
@@ -464,18 +465,19 @@
     "LigmaBrocksAndLoveMyPenix (2025, 12-2, runner-up)",
     "Yall Love PurdyWhitePenix (2024, 7-7)"
    ],
-   "w7": "Week 10: beat Jefferson’s Reserve 232.54-134.62. Week 11: vs I Chase Brown Kids (favored by 36.2)",
+   "w7": "Week 10: beat Jefferson’s Reserve 232.54-134.62. Week 11: vs I Chase Brown Kids (favored by 38.5)",
    "inj": [
-    "Brock Bowers (out)",
-    "Chig Okonkwo (questionable)",
+    "Brock Bowers (questionable)",
     "De'Von Achane (IR)",
     "Isiah Pacheco (IR)",
     "Jalen McMillan (IR)",
-    "Jayden Higgins (IR)"
+    "Jayden Higgins (IR)",
+    "Malik Willis (IR)",
+    "Tank Bigsby (IR)"
    ],
    "body": [
     "232.54 over Jefferson’s Reserve, the second-highest score in league history behind Catfan94's own 243.58. Six straight wins and 1714.68 points.",
-    "Michael Penix Jr. and Jordan Love are both on bye and Malik Willis is on IR, so Josh Allen is the only quarterback. Brock Bowers is day-to-day with the ankle and listed Out. Kenneth Walker III's expected return in Kansas City could cut into Emmett Johnson's work."
+    "Michael Penix Jr. and Jordan Love are both on bye and Malik Willis is on IR, so Josh Allen is the only quarterback. Brock Bowers moved from Out to Questionable and is viewed as day-to-day. Kenneth Walker III's expected return in Kansas City could cut into Emmett Johnson's work."
    ]
   },
   {
@@ -494,15 +496,16 @@
    "w7": "Week 10: beat OBJAY 138.94-83.62. Week 11: vs Asian Jim (favored by 27.7)",
    "inj": [
     "Baker Mayfield (questionable)",
-    "DeVonta Smith (out)",
+    "DeVonta Smith (questionable)",
     "Jayden Reed (IR)",
     "Kendrick Bourne (IR)",
-    "Kenneth Walker III (out)",
-    "T.J. Hockenson (out)"
+    "Kenneth Walker III (questionable)",
+    "T.J. Hockenson (questionable)",
+    "Terry McLaurin (IR)"
    ],
    "body": [
     "Beat OBJAY 138.94 to 83.62 behind Brock Purdy's 42.16. 7-3 with three straight wins, two games clear of seventh place.",
-    "Deshaun Watson, Jadarian Price, Christian Watson and KC Concepcion Jr. are on bye, and Baker Mayfield is Questionable. Kenneth Walker III is expected back against Arizona. T.J. Hockenson and DeVonta Smith are still Out."
+    "Deshaun Watson, Jadarian Price, Christian Watson and KC Concepcion Jr. are on bye, and Baker Mayfield is uncertain with a foot and ankle injury. Kenneth Walker III is expected back. T.J. Hockenson and DeVonta Smith are Questionable. Added Myles Price and dropped Zonovan Knight Wednesday morning."
    ]
   },
   {
@@ -518,14 +521,16 @@
     "The Champ (2025, champion)",
     "Dirty Mike & The Boys (2024, champion)"
    ],
-   "w7": "Week 10: beat Dude, Your Getting a Dell 166.08-68.10. Week 11: vs StrngeJhnsonHurtsmyBoutte (favored by 48.5)",
+   "w7": "Week 10: beat Dude, Your Getting a Dell 166.08-68.10. Week 11: vs StrngeJhnsonHurtsmyBoutte (favored by 45.0)",
    "inj": [
     "A.J. Brown (out)",
-    "Chris Bell (out)",
+    "Chris Bell (questionable)",
     "Davante Adams (IR)",
-    "Dont'e Thornton Jr. (out)",
+    "Dont'e Thornton Jr. (questionable)",
     "Jeremiyah Love (IR)",
-    "Josh Jacobs (out)"
+    "Josh Jacobs (out)",
+    "Michael Pittman Jr. (IR)",
+    "TreVeyon Henderson (IR)"
    ],
    "body": [
     "Beat Dude, Your Getting a Dell 166.08 to 68.10. Joe Burrow 41.16, Jared Goff 28.92, Nico Collins 22.9. Matthew Stafford (25.76) and Mark Andrews (18.7) were on the bench.",
@@ -545,12 +550,10 @@
     "2 Scoops of Herbert (2025, 11-3, third place)",
     "2 Scoops of Herbert (2024, 4-10)"
    ],
-   "w7": "Week 10: lost to Asian Jim 123.46-99.20. Week 11: vs OBJAY (favored by 19.0)",
+   "w7": "Week 10: lost to Asian Jim 123.46-99.20. Week 11: vs OBJAY (favored by 17.0)",
    "inj": [
     "Isaac Guerendo (pup)",
-    "Jake Ferguson (out)",
-    "Nicholas Singleton (out)",
-    "Travis Kelce (questionable)"
+    "Jake Ferguson (out)"
    ],
    "body": [
     "Led Asian Jim by 5.24 going into Monday night and lost 123.46 to 99.20. Zay Flowers scored 9.9. Justin Herbert scored 16.26 on the bench, which wouldn't have changed the result.",
@@ -570,14 +573,14 @@
    "w7": "Week 10: lost to LigmaBrocksAndLoveMyPenix 232.54-134.62. Week 11: vs Bourbon Lover (favored by 22.3)",
    "inj": [
     "Emanuel Wilson (out)",
-    "Jaylen Waddle (out)",
-    "Marvin Harrison Jr. (out)",
-    "Mike Evans (out)",
+    "Jaylen Waddle (questionable)",
+    "Marvin Harrison Jr. (questionable)",
+    "Mike Evans (questionable)",
     "RJ Harvey (IR)"
    ],
    "body": [
     "Scored 134.62 and lost to LigmaBrocksAndLoveMyPenix by 97.92, the bad beat of Week 10. Trevor Lawrence 34.28, C.J. Stroud 26.94, Bhayshul Tuten 20.8.",
-    "5-5 with two straight losses. Mike Evans, Marvin Harrison Jr. and Jaylen Waddle are Out, and Mack Hollins and Kyle Pitts Sr. are on bye. Kirk Cousins and J.J. McCarthy are still on the bench behind two starters."
+    "5-5 with two straight losses. Mike Evans, Marvin Harrison Jr. and Jaylen Waddle moved from Out to Questionable, and Mack Hollins and Kyle Pitts Sr. are on bye. Kirk Cousins and J.J. McCarthy are still on the bench behind two starters. $0 of FAAB spent."
    ]
   },
   {
@@ -593,18 +596,21 @@
     "🤷‍♂️ (2025, 5-9)",
     "Team 13 (2024, third place)"
    ],
-   "w7": "Week 10: lost to Catfan94’s Farm Team 138.94-83.62. Week 11: vs Kraft for Cash (19.0-point underdog)",
+   "w7": "Week 10: lost to Catfan94’s Farm Team 138.94-83.62. Week 11: vs Kraft for Cash (17.0-point underdog)",
    "inj": [
     "Alec Pierce (IR)",
-    "David Montgomery (out)",
-    "Geno Smith (out)",
+    "Geno Smith (questionable)",
     "Jaxson Dart (IR)",
     "Jordan Addison (out)",
-    "Luther Burden III (questionable)"
+    "Michael Wilson (IR)",
+    "Omar Cooper Jr. (questionable)",
+    "Tyrone Tracy Jr. (IR)",
+    "Wan'Dale Robinson (IR)",
+    "Woody Marks (doubtful)"
    ],
    "body": [
     "Lost to Catfan94’s Farm Team 138.94 to 83.62. Cam Skattebo 28.7 and James Cook III 25.7. Kyle McCord scored 12.76 on the bench.",
-    "4-6, one game out. Geno Smith is Out and Jaxson Dart is on IR, so it's Bo Nix and McCord against Kraft for Cash. Tyler Higbee, Efton Chism III and Tutu Atwell are on bye."
+    "4-6, one game out. Paid $13 for Xavier Hutchinson and dropped Efton Chism III. Geno Smith is Questionable after an MRI on his ankle and Jaxson Dart is on IR, so it's Bo Nix and either Smith or Kyle McCord against Kraft for Cash. Tyler Higbee and Tutu Atwell are on bye."
    ]
   },
   {
@@ -620,13 +626,11 @@
     "I Chase Brown Kids (2025, 4-10)",
     "Bang Bros (2024, 11-3)"
    ],
-   "w7": "Week 10: beat Bourbon Lover 124.46-116.92. Week 11: vs LigmaBrocksAndLoveMyPenix (36.2-point underdog)",
+   "w7": "Week 10: beat Bourbon Lover 124.46-116.92. Week 11: vs LigmaBrocksAndLoveMyPenix (38.5-point underdog)",
    "inj": [
-    "Athan Kaliakmanis (out)",
     "Brandon Aiyuk (dnr)",
-    "Carnell Tate (out)",
+    "Carnell Tate (questionable)",
     "Demond Claiborne (IR)",
-    "Garrett Nussmeier (out)",
     "Jaylin Lane (IR)"
    ],
    "body": [
@@ -652,13 +656,16 @@
     "Elijah Arroyo (IR)",
     "Jack Strand (out)",
     "Jonathon Brooks (IR)",
-    "Kyle Monangai (out)",
+    "Kyle Monangai (questionable)",
     "Kyler Murray (out)",
-    "Ladd McConkey (out)"
+    "Ladd McConkey (questionable)",
+    "Ricky Pearsall (IR)",
+    "Roman Wilson (IR)",
+    "Tyler Goodson (IR)"
    ],
    "body": [
     "Came from 5.24 down on Monday night to beat Kraft for Cash 123.46 to 99.20. Omarion Hampton 19.0, Tre' Harris 12.6 and Justice Hill 7.8 on Monday, and Jaxon Smith-Njigba 31.6 on Sunday.",
-    "5-5 with three straight wins. Smith-Njigba and Hunter Henry are on bye, Kyler Murray and Ladd McConkey are Out, and Catfan94’s Farm Team is next."
+    "5-5 with three straight wins. Smith-Njigba and Hunter Henry are on bye, Kyler Murray is Out, Ladd McConkey is Questionable, and Catfan94’s Farm Team is next."
    ]
   },
   {
@@ -674,7 +681,7 @@
     "8==👊🏼✊🏼==D💦 🫨 (2025, 4-10)",
     "BTaylor is still my bitch (2024, 3-11)"
    ],
-   "w7": "Week 10: lost to Hold My DK 196.34-78.92. Week 11: vs The Champ (48.5-point underdog)",
+   "w7": "Week 10: lost to Hold My DK 196.34-78.92. Week 11: vs The Champ (45.0-point underdog)",
    "inj": [
     "Adam Randall (IR)",
     "Drake Maye (out)",
@@ -684,7 +691,7 @@
    ],
    "body": [
     "Lost to Hold My DK 196.34 to 78.92. Parker Washington had 27.2. I started AJ Barner (5.9) at superflex with Dalton Schultz (8.1) and Samaje Perine (13.9) on the bench.",
-    "3-7. Drake Maye is hurt and on bye, Jalen Hurts is on IR, and Shedeur Sanders is on bye on the taxi squad. Justin Fields is the quarterback. Zach Charbonnet, AJ Barner and Kaleb Johnson are on bye too. Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
+    "3-7. Drake Maye is Out and on bye, Jalen Hurts is on IR, and Shedeur Sanders is on bye on the taxi squad. Paid $11 for Jalon Daniels, who starts only if Baker Mayfield can't, and dropped Marquise Brown. Otherwise it's Justin Fields. Bill_Buttlicker still owns 12 first-round picks over the next three drafts."
    ]
   },
   {
@@ -702,8 +709,8 @@
    ],
    "w7": "Week 10: lost to I Chase Brown Kids 124.46-116.92. Week 11: vs Jefferson’s Reserve (22.3-point underdog)",
    "inj": [
-    "Dontayvion Wicks (out)",
-    "Jauan Jennings (out)",
+    "Dontayvion Wicks (questionable)",
+    "Jauan Jennings (questionable)",
     "Lamar Jackson (IR)",
     "Sam Darnold (out)"
    ],
@@ -724,23 +731,24 @@
    "past": [],
    "w7": "Week 10: lost to The Champ 166.08-68.10. Week 11: vs Hold My DK (77.0-point underdog)",
    "inj": [
-    "Brenen Thompson (out)",
+    "Brenen Thompson (questionable)",
     "De'Zhaun Stribling (IR)",
-    "Drew Allar (out)",
-    "Elijah Sarratt (out)",
     "Romeo Doubs (IR)",
-    "Trey Benson (IR)"
+    "Trey Benson (IR)",
+    "Ty Simpson (out)",
+    "Tyreek Hill (questionable)",
+    "Zachariah Branch (out)"
    ],
    "body": [
     "Lost to The Champ 166.08 to 68.10. Jacoby Brissett threw for 340 yards on Monday and scored 12.3. Deebo Samuel Sr. had 26.9.",
-    "0-10 and mathematically eliminated. Rashid Shaheed and Rhamondre Stevenson are on bye. Hold My DK is next. Br0phy has four first-round picks over the next three drafts."
+    "0-10 and mathematically eliminated. Added Emari Demercado for $1 and dropped Najee Harris. Rashid Shaheed and Rhamondre Stevenson are on bye. Hold My DK is next. Br0phy has four first-round picks over the next three drafts."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "Bill_Buttlicker has reportedly asked Sleeper whether a 2028 first-round pick can be started at superflex this week. Sleeper said it can't throw."
+   "t": "Bill_Buttlicker has reportedly mailed Baker Mayfield a get-well card with $11 worth of FAAB taped inside and a note that says 'take your time.'"
   },
   {
    "src": "Developing",
@@ -748,11 +756,11 @@
   },
   {
    "src": "Sources say",
-   "t": "BTaylor1 has reportedly filed a noise complaint against the Chargers' Monday night offense, citing 39.4 points of disturbance after 11 PM."
+   "t": "jmello16 has reportedly never spent a dollar of FAAB because he believes the $100 is real and plans to cash it out for a jet ski at the end of the season."
   },
   {
    "src": "Unconfirmed",
-   "t": "ManicOrientals reportedly had Tre' Harris's 12.6 points bronzed and mounted over the mantel next to a sign that says 'I Saw It Coming.'"
+   "t": "JAY2913 reportedly bid $13 on Xavier Hutchinson because he thought it was the per-catch price, and has asked Sleeper for an itemized bill."
   },
   {
    "src": "Per a person familiar",
@@ -760,7 +768,7 @@
   },
   {
    "src": "Developing",
-   "t": "jmello16 reportedly asked the commissioners whether 134.62 points can be converted into a partial win, like store credit."
+   "t": "Br0phy has reportedly framed the Najee Harris drop notification and hung it next to the Week 1 schedule, labeled 'First Correct Decision, 2026.'"
   },
   {
    "src": "Sources say",
@@ -781,7 +789,7 @@
    "bget": [
     "Jakobi Meyers"
    ],
-   "why": "My quarterbacks are hurt, on IR, on bye or a backup. jmello16 has five quarterbacks and Mike Evans, Marvin Harrison Jr. and Jaylen Waddle all Out. A 38-year-old bench quarterback who scored 19.38 for a 30-year-old receiver who can start this week.",
+   "why": "My quarterbacks are hurt, on IR, on bye or a backup, and my $11 waiver add only plays if Baker Mayfield sits. jmello16 has five quarterbacks and just watched Mike Evans, Marvin Harrison Jr. and Jaylen Waddle move to Questionable. A 38-year-old bench quarterback who scored 19.38 for a 30-year-old receiver.",
    "tag": "Both sides win"
   },
   {
@@ -794,7 +802,7 @@
     "Tyler Higbee",
     "Tutu Atwell"
    ],
-   "why": "Geno Smith is Out and Jaxson Dart is on IR, so OBJAY is down to Bo Nix and Kyle McCord. ZachCarroll09 has six quarterbacks and Mendoza is on the taxi squad, while Mike Gesicki scored 1.9 at tight end last week. Long-term quarterback for JAY2913, help now for a 4‑6 team.",
+   "why": "Geno Smith is Questionable after an MRI and Jaxson Dart is on IR, so OBJAY's quarterback room is Bo Nix and a coin flip. ZachCarroll09 has six quarterbacks and Mendoza is on the taxi squad, while Mike Gesicki scored 1.9 at tight end last week. Long-term quarterback for JAY2913, help now for a 4‑6 team.",
    "tag": "Fair"
   },
   {
@@ -865,11 +873,11 @@
   "trying": [
    [
     "StrngeJhnsonHurtsmyBoutte",
-    "Lost by 117.42, started a tight end at superflex, and my Week 11 quarterback is a backup in Kansas City. I'm a 48.5-point underdog. I own 12 first-round picks and it's the only thing keeping me upright."
+    "Paid $11 for a backup quarterback who only plays if Baker Mayfield sits, and I'm still a 45.0-point underdog. I own 12 first-round picks and it's the only thing keeping me upright."
    ],
    [
-    "Kraft for Cash",
-    "Up 5.24 with one player left, lost by 24.26. BTaylor1 is still 6‑4 but just turned a cushion into a coin flip with three 5‑5 teams."
+    "OBJAY",
+    "4‑6, two straight losses, and spent the biggest bid of the week on Xavier Hutchinson. JAY2913's playoff hopes depend on an MRI in New York."
    ],
    [
     "Dude, Your Getting a Dell",
@@ -886,8 +894,8 @@
     "Swapped Ladd McConkey for Tre' Harris before kickoff, got 12.6 from Harris, and won on Monday night. ManicOrientals is 5‑5 and playing like a 7‑3 team."
    ],
    [
-    "The Champ",
-    "Joe Burrow 41.16, 166.08 points, and the points tiebreaker over every 5‑5 team. TJohn91 is lurking and I'm the next victim."
+    "Jefferson’s Reserve",
+    "Three receivers went from Out to Questionable in one day, and jmello16 hasn't spent a dime of FAAB all season. Go f*** yourself, and save me a seat at the bank."
    ]
   ]
  },
@@ -897,40 +905,40 @@
    "dog": "Bourbon Lover",
    "spread": "-22.3",
    "total": "233.3",
-   "note": "Season PPG says 17.4. Nudged up because Bourbon Lover loses Drew Lock, Jerry Jeudy and Colby Parkinson to byes and would start Kenny Gainwell at superflex. Jefferson’s Reserve loses Kyle Pitts Sr. and Mack Hollins, but still has Trevor Lawrence and C.J. Stroud.",
+   "note": "Season PPG says 17.4. Nudged up because Bourbon Lover loses Drew Lock, Jerry Jeudy and Colby Parkinson to byes and would start Kenny Gainwell at superflex. Jefferson’s Reserve loses Kyle Pitts Sr. and Mack Hollins, but has Trevor Lawrence and C.J. Stroud, and Mike Evans, Marvin Harrison Jr. and Jaylen Waddle are now Questionable instead of Out.",
    "prob": 76
   },
   {
    "fav": "Kraft for Cash",
    "dog": "OBJAY",
-   "spread": "-19.0",
+   "spread": "-17.0",
    "total": "250.9",
-   "note": "PPG says 14.1. Nudged up because OBJAY has Geno Smith Out and Jaxson Dart on IR, leaving Bo Nix and Kyle McCord at quarterback. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft to byes.",
-   "prob": 73
+   "note": "PPG says 14.1. Nudged up less than Tuesday: Geno Smith went from Out to Questionable after his MRI, so OBJAY may have him next to Bo Nix instead of Kyle McCord. Jaxson Dart is on IR and Woody Marks is Doubtful. Kraft for Cash loses Quinshon Judkins, Kyren Williams and Tucker Kraft to byes.",
+   "prob": 71
   },
   {
    "fav": "The Champ",
    "dog": "StrngeJhnsonHurtsmyBoutte",
-   "spread": "-48.5",
+   "spread": "-45.0",
    "total": "248.2",
-   "note": "PPG says 34.7. Nudged way up: StrngeJhnsonHurtsmyBoutte has Drake Maye hurt and on bye, Jalen Hurts on IR and Justin Fields as the only available quarterback, plus Zach Charbonnet and AJ Barner on bye. The Champ loses Matthew Stafford, Harold Fannin Jr. and Matthew Golden.",
-   "prob": 94
+   "note": "PPG says 34.7. Nudged way up: StrngeJhnsonHurtsmyBoutte has Drake Maye Out and on bye and Jalen Hurts on IR, so it's Justin Fields or waiver add Jalon Daniels, who only plays if Baker Mayfield can't. Zach Charbonnet and AJ Barner are on bye. The Champ loses Matthew Stafford, Harold Fannin Jr. and Matthew Golden.",
+   "prob": 93
   },
   {
    "fav": "Catfan94’s Farm Team",
    "dog": "Asian Jim",
    "spread": "-27.7",
    "total": "268.0",
-   "note": "PPG says 29.6. Nudged down slightly: Catfan94’s Farm Team loses Deshaun Watson, Jadarian Price and Christian Watson to byes and Baker Mayfield is Questionable. Asian Jim loses Jaxon Smith-Njigba to Seattle's bye.",
+   "note": "PPG says 29.6. Nudged down slightly: Catfan94’s Farm Team loses Deshaun Watson, Jadarian Price and Christian Watson to byes, and Baker Mayfield is uncertain with a foot and ankle injury. Asian Jim loses Jaxon Smith-Njigba to Seattle's bye and Kyler Murray is Out; Ladd McConkey is Questionable.",
    "prob": 81
   },
   {
    "fav": "LigmaBrocksAndLoveMyPenix",
    "dog": "I Chase Brown Kids",
-   "spread": "-36.2",
+   "spread": "-38.5",
    "total": "293.5",
-   "note": "PPG says 49.5. Nudged down: Michael Penix Jr. and Jordan Love are both on bye, so the superflex spot goes to a non-quarterback, and Brock Bowers is Out. I Chase Brown Kids loses Bijan Robinson and Blake Corum to byes.",
-   "prob": 88
+   "note": "PPG says 49.5. Nudged down: Michael Penix Jr. and Jordan Love are both on bye, so the superflex spot goes to a non-quarterback. Brock Bowers is now Questionable and day-to-day, which is why this went up from 36.2. I Chase Brown Kids loses Bijan Robinson and Blake Corum to byes.",
+   "prob": 89
   },
   {
    "fav": "Hold My DK",
@@ -943,32 +951,36 @@
  ],
  "sources": [
   [
-   "Sleeper league data: matchups, rosters, transactions",
+   "Sleeper league data: matchups, rosters, transactions, waivers",
    "https://sleeper.com/leagues/1312534094717943808"
   ],
   [
-   "Chargers at Ravens, Week 10 box score and scoring plays (ESPN)",
-   "https://www.espn.com/nfl/game/_/gameId/401873065"
+   "Buccaneers QB Baker Mayfield dealing with lower leg injury ahead of Week 11 (NFL.com)",
+   "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11"
+  ],
+  [
+   "Geno Smith set for MRI on ankle (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/648136/geno-smith-set-for-mri-on-ankle/"
+  ],
+  [
+   "Brock Bowers viewed as day-to-day (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/648132/brock-bowers-viewed-as-day-to-day/"
   ],
   [
    "Drake Maye set for more tests on ankle (The Fantasy Footballers)",
    "https://www.thefantasyfootballers.com/news/647876/drake-maye-set-for-more-tests-on-ankle/"
   ],
   [
-   "Brock Bowers won't return to action Sunday (The Fantasy Footballers)",
-   "https://www.thefantasyfootballers.com/news/647994/brock-bowers-wont-return-to-action-sunday/"
-  ],
-  [
    "Kenneth Walker III expected back in Week 11 (The Fantasy Footballers)",
    "https://www.thefantasyfootballers.com/news/647817/kenneth-walker-iii-expected-back-in-week-11/"
   ],
   [
-   "2026 NFL schedule release: every team's bye week (NFL.com)",
-   "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week"
+   "Chargers at Ravens, Week 10 box score and scoring plays (ESPN)",
+   "https://www.espn.com/nfl/game/_/gameId/401873065"
   ],
   [
-   "Sleeper Week 11 projections",
-   "https://sleeper.com/leagues/1312534094717943808"
+   "2026 NFL schedule release: every team's bye week (NFL.com)",
+   "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week"
   ]
  ],
  "columnists": [
@@ -1015,15 +1027,15 @@
    ]
   },
   {
-   "id": "tre-w10tue",
+   "id": "tre-w11wed",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "Kraft for Cash didn't lose on Monday. It lost on Sunday, and Monday just made it official.",
-   "dek": "Richard \"Dick\" Gozinya watched the film. Benching Justin Herbert isn't what cost BTaylor1 this one.",
+   "title": "Bill_Buttlicker didn't fix his quarterback problem. He bought a raffle ticket.",
+   "dek": "Richard \"Dick\" Gozinya has seen lottery tickets with better odds than an $11 backup who needs someone else's ankle to cooperate.",
    "body": [
-    "Everybody wants to talk about Herbert's 16.26 on the bench. Fine. Swap him in for Bryce Young and Kraft for Cash scores 107.36. Asian Jim scored 123.46. You still lose by 16.10. The quarterback call is not the story.",
-    "The story is Kyren Williams 4.7, Travis Kelce 5.5 and Tetairoa McMillan 6.0 in the lineup. That's three starters combining for 16.2. When I played, if three guys took a Sunday off, the coach didn't blame the backup quarterback. He ran all three until somebody threw up.",
-    "BTaylor1 is 6‑4 and still in fourth place. OBJAY is next, with Bo Nix and Kyle McCord at quarterback. Win that and nobody remembers Monday. Lose that and you're one of four teams fighting for three chairs, and you're the one standing when the music stops. Toughen up."
+    "I'll give the man this: dropping Marquise Brown was right. Brown isn't on an NFL team. You can't play a guy who doesn't have a locker. That's the one thing in this transaction I'd sign off on.",
+    "Everything else is hope dressed up as strategy. Jalon Daniels starts for Tampa Bay only if Baker Mayfield's foot and ankle keep him out against Detroit. Daniels went 1-2 in three starts earlier this year. Bill_Buttlicker is 3‑7, a 45.0-point underdog, and his quarterback plan depends on another manager's quarterback getting worse. When I played, we didn't pray for the other guy to pull a hamstring. We hit him until he did. Fantasy-wise, I mean.",
+    "Meanwhile, Bill_Buttlicker owns 12 first-round picks over the next three drafts and has 28 losses all time. That's the real move. Stop paying $11 for Sunday and start packaging picks for a quarterback who'll be in the lineup in 2027. You're not contending. Act like it. Toughen up."
    ]
   },
   {
@@ -1042,15 +1054,15 @@
    ]
   },
   {
-   "id": "gary-w10tue",
+   "id": "gary-w11wed",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "Hold My DK scored 2.88 units of Dude, Your Getting a Dell. My new unit is getting a workout.",
-   "dek": "Ivana Humpalot has run the Week 10 numbers through the spreadsheet and the spreadsheet has opinions.",
+   "title": "Hold My DK spent $87 of FAAB and has 87 all-play wins. My spreadsheet calls this proof.",
+   "dek": "Ivana Humpalot ran the waiver numbers and found a correlation that is absolutely not a coincidence, according to her.",
    "body": [
-    "Yesterday I invented a unit of fantasy scoring: one Dude, Your Getting a Dell, equal to whatever that team scored that week. Then Jacoby Brissett scored 12.3 on Monday night and the final Week 10 unit came in at 68.10, so I re-ran everything. Hold My DK scored 196.34, which is 2.88 units. LigmaBrocksAndLoveMyPenix scored 232.54, or 3.41 units.",
-    "Season-long, LigmaBrocksAndLoveMyPenix has 1714.68 points and Dude, Your Getting a Dell has 784.82. That's 2.18 units of Dude, Your Getting a Dell per Catfan94, a ratio I'm calling the Catfan Coefficient. Catfan94's lead over Br0phy is 929.86 points, which is more than Br0phy has scored all year. My model says that's bad for Br0phy. My model is right.",
-    "Br0phy's all-play record is 5-105, a 4.5% win rate. Bill_Buttlicker's is 28-82, or 25.5%. That makes Bill_Buttlicker 5.6 times more competitive than Br0phy, which my spreadsheet labels 'Almost Mediocre.' Bill_Buttlicker asked me to change the label. I did not."
+    "League-wide, managers have spent $445 of $1,200 in FAAB this year. TheMoneyTeam2302 has spent $87 and Hold My DK's all-play record is 87-23. That's a 1.00 FAAB-to-all-play-win ratio, the purest number in this league. I've named it the Money Constant.",
+    "Catfan94 has spent $81 and has 95 all-play wins, a ratio of 1.17, meaning every FAAB dollar is worth 1.17 wins. TJohn91 spent $80 and has 68, so each dollar of The Champ's is worth 0.85 wins. My conclusion: TJohn91 has been overpaying by 15%, and as a two-time champion he should know better.",
+    "Then there's jmello16, who has spent $0 and has 54 all-play wins. That's an infinite ratio. My spreadsheet returned #DIV/0!, which I'm treating as 'the best value in league history.' Br0phy spent $11 total and has 5 all-play wins, 0.45 per dollar. Bill_Buttlicker has spent $17 for 28, which is 1.65 per dollar, better than Catfan94's 1.17. He asked me to put that in bold. I did not, because he's 3‑7."
    ]
   }
  ],
@@ -1078,7 +1090,7 @@
   {
    "p": "Josh Cameron",
    "team": "Catfan94’s Farm Team",
-   "t": "Scored 14.2 on the Catfan94’s Farm Team taxi squad while Zonovan Knight started at flex and scored 2.4. Would like a real roster spot on a team that's 7‑3."
+   "t": "Scored 14.2 on the Catfan94’s Farm Team taxi squad in Week 10 while Zonovan Knight started at flex and scored 2.4. jrsmith1391 has since cut Knight and picked up Myles Price instead of promoting Cameron. Cameron noticed."
   },
   {
    "p": "Elic Ayomanor",
