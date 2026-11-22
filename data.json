@@ -1,5 +1,5 @@
 {
- "updated": "Saturday, Nov 21, 2026 · 7:20 AM ET",
+ "updated": "Sunday, Nov 22, 2026 · 7:15 AM ET",
  "week": 11,
  "ticker": [
   [
@@ -41,47 +41,59 @@
  ],
  "wire": [
   {
-   "t": "The Colts released Daniel Jones on Friday, the day after he went 12 of 27 for 144 yards in a 26-3 loss to Houston. Shane Steichen named Anthony Richardson Sr. the starter going forward, beginning in Week 12 against the Giants. Jones is still on the Asian Jim roster; Richardson is on the Kraft for Cash bench.",
+   "t": "The 49ers plan to play Mike Evans (Achilles tendinitis) Sunday night against Minnesota and waived Brandin Cooks on Saturday. Evans is officially Questionable and starts for Jefferson’s Reserve.",
    "src": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
   },
   {
-   "t": "Baker Mayfield (foot, right thumb) is officially Questionable for Sunday at Detroit after limited practices Thursday and Friday. Todd Bowles said he \"had a good day today\" and is trending toward starting. Mayfield is on the Catfan94’s Farm Team bench; Jalon Daniels, the backup if he can't go, is on the StrngeJhnsonHurtsmyBoutte bench.",
-   "src": "NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-20/mayfield-foot-trending-to-start-vs-lions"
-  },
-  {
-   "t": "Kenneth Walker III (groin) has been ruled Out for Kansas City against Arizona, his second straight missed game. He is not in the Catfan94’s Farm Team starting lineup.",
-   "src": "CBS Sports",
-   "url": "https://cbssports.com/nfl/news/nfl-week-11-injury-report-kenneth-walker-iii-mike-evans-baker-mayfield"
-  },
-  {
-   "t": "Dalton Kincaid (thumb, ankle) is Doubtful after missing practice all week, and he is still in the OBJAY starting lineup at tight end as of Saturday morning. Oronde Gadsden and Tyler Higbee are on the bench.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/injuries/league/2026/REG11"
-  },
-  {
-   "t": "Mike Evans (Achilles tendinitis) is Questionable for Sunday night in Mexico City; Kyle Shanahan said the 49ers will check him at Saturday's walkthrough. Bhayshul Tuten got no designation after a limited Friday. Both start for Jefferson’s Reserve.",
-   "src": "CBS Sports",
-   "url": "https://cbssports.com/nfl/news/nfl-week-11-injury-report-kenneth-walker-iii-mike-evans-baker-mayfield"
-  },
-  {
-   "t": "Brock Bowers (ankle, quad) is Questionable after limited practices Thursday and Friday and starts for LigmaBrocksAndLoveMyPenix. Ladd McConkey (back) is Questionable and starts for Asian Jim. Kyler Murray (hamstring) is Out and sits on the Asian Jim bench. Darren Waller is Questionable on the Hold My DK bench.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/injuries/league/2026/REG11"
-  },
-  {
-   "t": "Rams coach Sean McVay said Puka Nacua had MCL surgery Tuesday and will be out \"a couple months.\" Nacua is on the Hold My DK injured reserve.",
+   "t": "Baker Mayfield is expected to play Sunday at 1:00 against Detroit with a plantar fascia strain in his foot, wearing a custom orthotic and new cleats. He's starting at superflex for Catfan94’s Farm Team.",
    "src": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
   },
   {
-   "t": "As of Saturday morning, StrngeJhnsonHurtsmyBoutte is the only team with a starter ruled Out or on bye: Drake Maye, who is out indefinitely with an ankle injury, is still in the quarterback slot. Justin Fields and Jalon Daniels are on the bench.",
+   "t": "Drake Maye reportedly has a fractured right fibula that won't need surgery, with a small chance he returns late in the regular season. He's still in the StrngeJhnsonHurtsmyBoutte quarterback slot as of Sunday morning.",
+   "src": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
+  },
+  {
+   "t": "At 6:03 AM ET Sunday, ManicOrientals added Bills tight end Dawson Knox and dropped Tyler Goodson. Knox is Buffalo's No. 2 tight end behind Dalton Kincaid, who is Doubtful and still in the OBJAY lineup. Daniel Jones, released by the Colts Friday, is still on the Asian Jim roster.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1312534094717943808"
+  },
+  {
+   "t": "Final designations: Dalton Kincaid (thumb, ankle) is Doubtful. Brock Bowers (ankle, quad) and Ladd McConkey (back) are Questionable and both start in the late afternoon window, for LigmaBrocksAndLoveMyPenix and Asian Jim. Darren Waller (knee) is Questionable on the Hold My DK bench.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG11"
+  },
+  {
+   "t": "Ruled Out for Week 11: Kenneth Walker III (benched by Catfan94’s Farm Team), Kyler Murray (Asian Jim bench), Jake Ferguson (Kraft for Cash IR), Marvin Harrison Jr. (Jefferson’s Reserve bench), Jordan Addison and Woody Marks (OBJAY bench).",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG11"
+  },
+  {
+   "t": "Sunday slate for this league: seven 1:00 games, Jets-Chargers at 4:05, Jaguars-Giants and Raiders-Broncos at 4:25, Vikings-49ers Sunday night, and Bengals-Commanders on Monday night, where Joe Burrow, Tee Higgins and Ja'Marr Chase all play.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/injuries/league/2026/REG11"
+  },
+  {
+   "t": "Justin Fields, the healthiest quarterback on the StrngeJhnsonHurtsmyBoutte bench, is Kansas City's No. 2 behind Patrick Mahomes. Jalon Daniels is Tampa Bay's No. 4 with Mayfield expected to play. Shedeur Sanders is on taxi and Jalen Hurts is on IR.",
    "src": "League rosters",
    "url": "https://sleeper.com/leagues/1312534094717943808"
   }
  ],
  "stories": [
+  {
+   "id": "sun-gameday",
+   "kicker": "Gameday",
+   "title": "Sunday of Week 11: three lineups with a hole in them, and the worst one is mine",
+   "dek": "Mike Evans is playing, Baker Mayfield is playing, Dalton Kincaid probably isn't, and StrngeJhnsonHurtsmyBoutte has no NFL starting quarterback on the entire roster.",
+   "body": [
+    "Here's where the league sits at 7:15 Sunday morning. Jefferson’s Reserve leads Bourbon Lover 26.96 to 0.0, OBJAY leads Kraft for Cash 16.9 to 5.2, The Champ leads me 14.3 to 4.5, Dude, Your Getting a Dell leads Hold My DK 10.1 to 0.0, and Asian Jim leads Catfan94’s Farm Team 4.06 to 0.0 on the last points Daniel Jones will score for anybody for a while. LigmaBrocksAndLoveMyPenix and I Chase Brown Kids haven't started.",
+    "Good news first, for other people. The 49ers waived Brandin Cooks Saturday and plan to play Mike Evans Sunday night, so jmello16 gets his receiver back in the last game of the day. Baker Mayfield is expected to play at 1:00 with a custom orthotic, and jrsmith1391 has him at superflex next to Brock Purdy. That's two starting quarterbacks against an Asian Jim team running out Tyler Shough. Line's up to 31.0.",
+    "Now the holes. Dalton Kincaid is Doubtful and still in the OBJAY lineup at tight end. And ManicOrientals, who is a 31-point dog and has nothing to lose, picked up Dawson Knox at 6:03 this morning. Knox is the Bills tight end who plays if Kincaid doesn't. JAY2913 has Oronde Gadsden and Tyler Higbee on the bench and under six hours to use one of them. Brock Bowers and Ladd McConkey are both Questionable in the 4:25 and 4:05 windows, so Catfan94 and ManicOrientals find out about 90 minutes before kickoff, same as everybody.",
+    "And then there's me. I said Saturday I'd move Justin Fields in for Drake Maye. I went and looked. Justin Fields is Patrick Mahomes' backup. Jalon Daniels is fourth on the Tampa Bay depth chart. Shedeur Sanders is on taxi and Jalen Hurts is on IR. In a superflex league, StrngeJhnsonHurtsmyBoutte has zero quarterbacks who will start an NFL game this week. That's not a lineup mistake. That's a roster built by a guy with 12 first-round picks and no idea what to do with them. The Champ by 47.0. Pencil it in."
+   ]
+  },
   {
    "id": "sat-colts",
    "kicker": "Breaking",
@@ -92,18 +104,6 @@
     "That leaves ManicOrientals with Tyler Shough and Kyler Murray, and Murray is Out again this week with a hamstring. Asian Jim was 5‑5 with three straight wins on Thursday morning. It's now a 30.5-point underdog to Catfan94’s Farm Team with its starting quarterback unemployed. In a superflex league, that's the whole ballgame for the next four weeks.",
     "The winner is BTaylor1. Anthony Richardson Sr. has been sitting on the Kraft for Cash bench behind Bryce Young and Justin Herbert, and he's 24 with a starting job as of Friday. Kraft for Cash is 6‑4 and now has three starting quarterbacks for two spots. That's a trade chip with a waiting list, and I'd bet ManicOrientals is already typing.",
     "Elsewhere: Baker Mayfield is Questionable but Todd Bowles says he's trending toward playing, which kills my $11 Jalon Daniels plan. Kenneth Walker III is Out and jrsmith1391 already has him on the bench. Dalton Kincaid is Doubtful and still in the OBJAY lineup. And Drake Maye is still in my quarterback slot on Saturday morning. He's out indefinitely with an ankle injury, New England is on bye, and none of that is the problem. The problem is the guy who sets the lineup. I'll fix it tonight. Justin Fields plays at 1:00."
-   ]
-  },
-  {
-   "id": "sat-injuries",
-   "kicker": "Injury Watch",
-   "title": "Friday designations: Walker Out, Kincaid Doubtful, Mayfield, Evans and Bowers Questionable",
-   "dek": "Five games left this week. Here's what the final injury reports mean for each one, and who still has a lineup to fix.",
-   "body": [
-    "Catfan94’s Farm Team: Kenneth Walker III is Out with a groin injury and he's already out of jrsmith1391's lineup. Baker Mayfield is Questionable and trending toward starting, but he's a bench quarterback here behind Brock Purdy. Line nudged to 30.5 over Asian Jim, which no longer has an NFL starter at quarterback after this week.",
-    "Kraft for Cash vs. OBJAY: Dalton Kincaid is Doubtful after missing every practice and he's still starting at tight end for OBJAY. Geno Smith got no designation. Jake Ferguson is Out for Kraft for Cash. OBJAY leads 16.9 to 5.2, but I moved the line from 10.5 to 12.0 toward Kraft for Cash because of Kincaid.",
-    "Jefferson’s Reserve: Mike Evans is Questionable with Achilles tendinitis and will be checked at Saturday's walkthrough before a Sunday night kickoff. Bhayshul Tuten practiced Friday and got no designation. jmello16 leads Bourbon Lover 26.96 to 0.0 and the line is up to 23.0.",
-    "LigmaBrocksAndLoveMyPenix: Brock Bowers is Questionable after two limited days and plays in the late window, so Catfan94 has to decide before he knows. Line 41.0. Hold My DK: Darren Waller is Questionable on the bench. Asian Jim: Ladd McConkey is Questionable and starting in the late game, Kyler Murray is Out. StrngeJhnsonHurtsmyBoutte: one starter ruled Out, and it's the quarterback. The Champ by 45.5."
    ]
   },
   {
@@ -322,7 +322,7 @@
    "own": "Catfan94",
    "rec": "9‑1",
    "ap": "95-15",
-   "take": "9‑1, six straight wins and 1714.68 points, 131.76 more than anyone else. Brock Bowers is Questionable after two limited practices and plays in the late window. 41.0-point favorite over I Chase Brown Kids."
+   "take": "9‑1, six straight wins, 1714.68 points. Brock Bowers is Questionable for the 4:25 game, so Catfan94 sets the lineup at about 2:55. 41.0-point favorite over I Chase Brown Kids."
   },
   {
    "rk": 2,
@@ -331,7 +331,7 @@
    "own": "TheMoneyTeam2302",
    "rec": "9‑1",
    "ap": "87-23",
-   "take": "9‑1, trailing a winless team 10.1 to 0.0 after Laquon Treadwell's 0.0 on Thursday. Still a 75.0-point favorite. No picks in the first four rounds of the next three drafts."
+   "take": "9‑1, trailing a winless team 10.1 to 0.0 after Laquon Treadwell's Thursday 0.0. Still a 75.0-point favorite. No picks in the first four rounds of the next three drafts."
   },
   {
    "rk": 3,
@@ -340,7 +340,7 @@
    "own": "jrsmith1391",
    "rec": "7‑3",
    "ap": "82-28",
-   "take": "7‑3, three straight wins, and jrsmith1391 already had Kenneth Walker III benched before he was ruled Out. 30.5-point favorite over a team whose quarterback got released Friday."
+   "take": "7‑3 and starting two real quarterbacks, Brock Purdy and Baker Mayfield, who is expected to play. Kenneth Walker III was benched before he was ruled Out. 31.0-point favorite."
   },
   {
    "rk": 4,
@@ -349,7 +349,7 @@
    "own": "TJohn91",
    "rec": "5‑5",
    "ap": "68-42",
-   "take": "5‑5 with 1414.72 points, the most of any 5‑5 team. Leads me 14.3 to 4.5 and I still have a quarterback ruled Out in my lineup. 45.5-point favorite."
+   "take": "5‑5 with 1414.72 points, most of any 5‑5 team. Leads me 14.3 to 4.5, and I don't have a quarterback who starts. 47.0-point favorite, and that's me being generous to myself."
   },
   {
    "rk": 5,
@@ -358,7 +358,7 @@
    "own": "BTaylor1",
    "rec": "6‑4",
    "ap": "64-46",
-   "take": "6‑4, trailing OBJAY 16.9 to 5.2, but the Colts just made BTaylor1's bench quarterback, Anthony Richardson Sr., their starter. Three starting quarterbacks for two spots and a buyer's market in Asian Jim."
+   "take": "6‑4, trailing OBJAY 16.9 to 5.2, with three bye-week starters. Anthony Richardson Sr. starts for the Colts next week and he's on this bench. Most valuable trade chip in the league this week."
   },
   {
    "rk": 6,
@@ -367,7 +367,7 @@
    "own": "ManicOrientals",
    "rec": "5‑5",
    "ap": "47-63",
-   "take": "5‑5 and the Colts released Daniel Jones on Friday. Kyler Murray is Out, Tyler Shough is what's left, and ManicOrientals is a 30.5-point underdog with a quarterback hole for the stretch run."
+   "take": "5‑5, 4.06 points from a quarterback who's been released, and Tyler Shough at superflex. ManicOrientals grabbed Dawson Knox at 6:03 AM. 31.0-point underdog."
   },
   {
    "rk": 7,
@@ -376,7 +376,7 @@
    "own": "jmello16",
    "rec": "5‑5",
    "ap": "54-56",
-   "take": "5‑5, up 26.96 to 0.0 on Bourbon Lover, and Bhayshul Tuten got no designation. Mike Evans is a Saturday walkthrough decision. Still hasn't spent a dollar of FAAB."
+   "take": "5‑5, up 26.96 to 0.0, and the 49ers plan to play Mike Evans Sunday night. Still $0 of FAAB spent."
   },
   {
    "rk": 8,
@@ -385,7 +385,7 @@
    "own": "ZachCarroll09",
    "rec": "4‑6",
    "ap": "48-62",
-   "take": "4‑6. Bijan Robinson and Blake Corum are on bye and LigmaBrocksAndLoveMyPenix is next. Six quarterbacks on the roster while Asian Jim has none that work. One game out."
+   "take": "4‑6 with Bijan Robinson and Blake Corum on bye. Six quarterbacks on the roster and I don't have one that starts. One game out."
   },
   {
    "rk": 9,
@@ -394,7 +394,7 @@
    "own": "JAY2913",
    "rec": "4‑6",
    "ap": "46-64",
-   "take": "4‑6 and leading Kraft for Cash 16.9 to 5.2, but Dalton Kincaid is Doubtful and still in the lineup Saturday morning. Fix it, JAY2913, and this is a real game."
+   "take": "4‑6, up 11.7 on Kraft for Cash, and Dalton Kincaid is still in the lineup on Sunday morning. He's Doubtful. Oronde Gadsden is on the bench."
   },
   {
    "rk": 10,
@@ -403,7 +403,7 @@
    "own": "paknight12",
    "rec": "3‑7",
    "ap": "36-74",
-   "take": "3‑7, down 26.96 to 0.0 before a Sunday snap, with Drew Lock, Jerry Jeudy and Colby Parkinson on bye."
+   "take": "3‑7, down 26.96 before kickoff, with Drew Lock, Jerry Jeudy and Colby Parkinson on bye."
   },
   {
    "rk": 11,
@@ -412,7 +412,7 @@
    "own": "Bill_Buttlicker",
    "rec": "3‑7",
    "ap": "28-82",
-   "take": "3‑7. The only team in the league with a starter ruled Out on Saturday morning, and it's my quarterback. Mayfield's trending to play, so the $11 Jalon Daniels plan is dead. 12 first-round picks, zero working quarterbacks."
+   "take": "3‑7. Drake Maye is Out, Justin Fields is a backup, Jalon Daniels is a fourth-stringer. No starting NFL quarterback on the roster in a superflex league. 12 first-round picks, though."
   },
   {
    "rk": 12,
@@ -421,7 +421,7 @@
    "own": "Br0phy",
    "rec": "0‑10",
    "ap": "5-105",
-   "take": "0‑10, eliminated, and leading the 9‑1 team 10.1 to 0.0 on a Saturday. Best weekend in franchise history so far."
+   "take": "0‑10, eliminated, and leading Hold My DK 10.1 to 0.0. Enjoy the next five hours, Br0phy."
   }
  ],
  "teams": [
@@ -450,7 +450,7 @@
    ],
    "body": [
     "196.34 against StrngeJhnsonHurtsmyBoutte, the biggest margin of Week 10 at 117.42. Christian McCaffrey 50.3, Patrick Mahomes 45.92, Derrick Henry 16.5 with two Monday touchdowns. Chuba Hubbard scored 35.7 on the bench.",
-    "Drake London and Cooper Kupp are on bye, Puka Nacua is on IR after MCL surgery, and Laquon Treadwell's 0.0 from Thursday is locked in. Trails Dude, Your Getting a Dell 10.1 to 0.0, still a 75.0-point favorite, still no picks in the first four rounds of 2027, 2028 or 2029."
+    "Drake London and Cooper Kupp are on bye, Puka Nacua is on IR after MCL surgery, and Laquon Treadwell's 0.0 from Thursday is locked in. Trails Dude, Your Getting a Dell 10.1 to 0.0 with the whole roster still to play. 75.0-point favorite, still no picks in the first four rounds of 2027, 2028 or 2029."
    ]
   },
   {
@@ -479,7 +479,7 @@
    ],
    "body": [
     "232.54 over Jefferson’s Reserve, the second-highest score in league history behind Catfan94's own 243.58. Six straight wins and 1714.68 points.",
-    "Michael Penix Jr. and Jordan Love are on bye, so it's Josh Allen at quarterback and Ollie Gordon II at superflex. Brock Bowers is Questionable after limited practices Thursday and Friday. 41.0-point favorite over I Chase Brown Kids."
+    "Michael Penix Jr. and Jordan Love are on bye, so it's Josh Allen at quarterback and Ollie Gordon II at superflex. Brock Bowers is Questionable and plays at 4:25, so Catfan94 decides off the inactives. 41.0-point favorite over I Chase Brown Kids."
    ]
   },
   {
@@ -495,7 +495,7 @@
     "Allen’s Degenrates (2025, 6-8)",
     "Team Cheugy (2024, runner-up)"
    ],
-   "w7": "Week 10: beat OBJAY 138.94-83.62. Week 11: vs Asian Jim (favored by 30.5; 0.00-4.06 after Thursday)",
+   "w7": "Week 10: beat OBJAY 138.94-83.62. Week 11: vs Asian Jim (favored by 31.0; 0.00-4.06 after Thursday)",
    "inj": [
     "Baker Mayfield (questionable)",
     "Jayden Reed (IR)",
@@ -505,7 +505,7 @@
    ],
    "body": [
     "Beat OBJAY 138.94 to 83.62 behind Brock Purdy's 42.16. 7-3 with three straight wins, two games clear of seventh place.",
-    "Kenneth Walker III was ruled Out Friday and he's already on the bench, with D'Andre Swift and Breece Hall in the lineup. Baker Mayfield is Questionable and trending to start for Tampa Bay, but sits behind Brock Purdy here. Asian Jim's quarterback was released Friday. 30.5-point favorite."
+    "Kenneth Walker III is Out and already on the bench, with D'Andre Swift and Breece Hall in the lineup. Baker Mayfield is expected to play at 1:00 with a custom orthotic and starts at superflex next to Brock Purdy. 31.0-point favorite over an Asian Jim team down to Tyler Shough."
    ]
   },
   {
@@ -521,7 +521,7 @@
     "The Champ (2025, champion)",
     "Dirty Mike & The Boys (2024, champion)"
    ],
-   "w7": "Week 10: beat Dude, Your Getting a Dell 166.08-68.10. Week 11: vs StrngeJhnsonHurtsmyBoutte (favored by 45.5; 14.30-4.50 after Thursday)",
+   "w7": "Week 10: beat Dude, Your Getting a Dell 166.08-68.10. Week 11: vs StrngeJhnsonHurtsmyBoutte (favored by 47.0; 14.30-4.50 after Thursday)",
    "inj": [
     "A.J. Brown (out)",
     "Davante Adams (IR)",
@@ -533,7 +533,7 @@
    ],
    "body": [
     "Beat Dude, Your Getting a Dell 166.08 to 68.10. Joe Burrow 41.16, Jared Goff 28.92, Nico Collins 22.9. Matthew Stafford (25.76) and Mark Andrews (18.7) were on the bench.",
-    "5-5 with 1414.72 points for, the best among the 5-5 teams by 161.22. Nico Collins scored 14.3 Thursday with a 42-yard touchdown, and Kayshon Boutte scored 11.5 on the bench. Stafford, Harold Fannin Jr. and Matthew Golden are on bye. Leads StrngeJhnsonHurtsmyBoutte 14.3 to 4.5."
+    "5-5 with 1414.72 points for, the best among the 5-5 teams by 161.22. Nico Collins scored 14.3 Thursday. Stafford, Harold Fannin Jr. and Matthew Golden are on bye. Joe Burrow, Tee Higgins and Jared Goff still to play. Leads a StrngeJhnsonHurtsmyBoutte team with no starting quarterback 14.3 to 4.5."
    ]
   },
   {
@@ -553,11 +553,11 @@
    "inj": [
     "Isaac Guerendo (PUP)",
     "Jake Ferguson (out)",
-    "Treylon Burks (questionable)"
+    "Kyren Williams (questionable)"
    ],
    "body": [
     "Led Asian Jim by 5.24 going into Monday night and lost 123.46 to 99.20. Zay Flowers scored 9.9. Justin Herbert scored 16.26 on the bench, which wouldn't have changed the result.",
-    "6-4. The Colts released Daniel Jones Friday and named Anthony Richardson Sr. their starter, and Richardson is on this bench behind Bryce Young and Justin Herbert. Jake Ferguson is Out, Quinshon Judkins, Kyren Williams and Tucker Kraft are on bye, and Kraft for Cash trails OBJAY 16.9 to 5.2. 12.0-point favorite."
+    "6-4. Anthony Richardson Sr. becomes the Colts starter in Week 12 and sits on this bench behind Bryce Young and Justin Herbert. Jake Ferguson is Out, Quinshon Judkins, Kyren Williams and Tucker Kraft are on bye, and Kraft for Cash trails OBJAY 16.9 to 5.2. 12.0-point favorite."
    ]
   },
   {
@@ -570,9 +570,9 @@
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "Week 10: lost to LigmaBrocksAndLoveMyPenix 232.54-134.62. Week 11: vs Bourbon Lover (favored by 23.0; 26.96-0.00 after Thursday)",
+   "w7": "Week 10: lost to LigmaBrocksAndLoveMyPenix 232.54-134.62. Week 11: vs Bourbon Lover (favored by 24.0; 26.96-0.00 after Thursday)",
    "inj": [
-    "Carson Beck (questionable)",
+    "Carson Beck (out)",
     "Emanuel Wilson (out)",
     "Marvin Harrison Jr. (out)",
     "Mike Evans (questionable)",
@@ -580,7 +580,7 @@
    ],
    "body": [
     "Scored 134.62 and lost to LigmaBrocksAndLoveMyPenix by 97.92, the bad beat of Week 10. Trevor Lawrence 34.28, C.J. Stroud 26.94, Bhayshul Tuten 20.8.",
-    "C.J. Stroud threw three touchdowns Thursday for 26.96. Bhayshul Tuten got no designation after practicing Friday; Mike Evans is Questionable and gets checked at Saturday's walkthrough. $0 of FAAB spent. Leads Bourbon Lover 26.96 to 0.0."
+    "C.J. Stroud threw three touchdowns Thursday for 26.96. The 49ers plan to play Mike Evans Sunday night, and Bhayshul Tuten has no designation for the 4:25 game. $0 of FAAB spent. Leads Bourbon Lover 26.96 to 0.0, favored by 24.0."
    ]
   },
   {
@@ -604,14 +604,14 @@
     "Jordan Addison (out)",
     "Michael Wilson (IR)",
     "Omar Cooper Jr. (out)",
-    "Tyjae Spears (questionable)",
+    "Tyjae Spears (IR)",
     "Tyrone Tracy Jr. (IR)",
     "Wan'Dale Robinson (IR)",
     "Woody Marks (out)"
    ],
    "body": [
     "Lost to Catfan94’s Farm Team 138.94 to 83.62. Cam Skattebo 28.7 and James Cook III 25.7. Kyle McCord scored 12.76 on the bench.",
-    "4-6, one game out. David Montgomery ran for 107 yards Thursday (16.9). Dalton Kincaid is Doubtful after missing practice all week and is still in the lineup at tight end, with Oronde Gadsden and Tyler Higbee on the bench. Leads Kraft for Cash 16.9 to 5.2."
+    "4-6, one game out, leading Kraft for Cash 16.9 to 5.2 after David Montgomery's Thursday. Dalton Kincaid is Doubtful and still in the lineup at tight end on Sunday morning, with Oronde Gadsden and Tyler Higbee on the bench. Asian Jim just picked up his Bills backup, Dawson Knox."
    ]
   },
   {
@@ -635,7 +635,7 @@
    ],
    "body": [
     "Beat Bourbon Lover 124.46 to 116.92 in the closest game of Week 10. Jayden Daniels 27.76, Chase Brown 26.8, Blake Corum 22.9. Cam Ward scored 24.14 on the bench.",
-    "4-6. Bijan Robinson and Blake Corum are on bye. Carnell Tate is Questionable but practiced in full and starts. Six quarterbacks on the roster and Jayden Daniels starts. 41.0-point underdog to LigmaBrocksAndLoveMyPenix."
+    "4-6. Bijan Robinson and Blake Corum are on bye. Carnell Tate is Questionable but practiced in full and starts. Six quarterbacks on the roster and Jayden Daniels and Chase Brown lead the way. 41.0-point underdog to LigmaBrocksAndLoveMyPenix."
    ]
   },
   {
@@ -651,7 +651,7 @@
     "Who Shot Rick (2025, 7-7)",
     "Who Shot Rick (2024, 9-5)"
    ],
-   "w7": "Week 10: beat Kraft for Cash 123.46-99.20. Week 11: vs Catfan94’s Farm Team (30.5-point underdog; 4.06-0.00 after Thursday)",
+   "w7": "Week 10: beat Kraft for Cash 123.46-99.20. Week 11: vs Catfan94’s Farm Team (31.0-point underdog; 4.06-0.00 after Thursday)",
    "inj": [
     "Elijah Arroyo (IR)",
     "Jack Strand (out)",
@@ -659,13 +659,12 @@
     "Kyler Murray (out)",
     "Ladd McConkey (questionable)",
     "Ricky Pearsall (IR)",
-    "Roman Wilson (IR)",
-    "Seth McGowan (out)",
-    "Tyler Goodson (IR)"
+    "Roman Wilson (questionable)",
+    "Seth McGowan (out)"
    ],
    "body": [
     "Came from 5.24 down on Monday night to beat Kraft for Cash 123.46 to 99.20. Omarion Hampton 19.0, Tre' Harris 12.6 and Justice Hill 7.8 on Monday, and Jaxon Smith-Njigba 31.6 on Sunday.",
-    "5-5 with three straight wins, and then the Colts released Daniel Jones the day after his 4.06. Kyler Murray is Out with a hamstring, leaving Tyler Shough. Jaxon Smith-Njigba and Hunter Henry are on bye and Ladd McConkey is Questionable in the lineup. 30.5-point underdog."
+    "5-5. Daniel Jones' 4.06 is locked in and he was released Friday, Kyler Murray is Out, and Tyler Shough is at superflex. ManicOrientals added Dawson Knox at 6:03 AM Sunday with Jaxon Smith-Njigba and Hunter Henry on bye. Ladd McConkey is Questionable in the lineup. 31.0-point underdog."
    ]
   },
   {
@@ -681,7 +680,7 @@
     "8==👊🏼✊🏼==D💦 🫨 (2025, 4-10)",
     "BTaylor is still my bitch (2024, 3-11)"
    ],
-   "w7": "Week 10: lost to Hold My DK 196.34-78.92. Week 11: vs The Champ (45.5-point underdog; 4.50-14.30 after Thursday)",
+   "w7": "Week 10: lost to Hold My DK 196.34-78.92. Week 11: vs The Champ (47.0-point underdog; 4.50-14.30 after Thursday)",
    "inj": [
     "Drake Maye (out)",
     "Jacory Croskey-Merritt (IR)",
@@ -690,7 +689,7 @@
    ],
    "body": [
     "Lost to Hold My DK 196.34 to 78.92. Parker Washington had 27.2. I started AJ Barner (5.9) at superflex with Dalton Schultz (8.1) and Samaje Perine (13.9) on the bench.",
-    "3-7. Drake Maye, out indefinitely with an ankle injury, is still in my quarterback slot on Saturday morning. Baker Mayfield is trending to play, so Jalon Daniels probably doesn't, and Justin Fields is the move I haven't made yet. Trailing The Champ 14.3 to 4.5."
+    "3-7. Drake Maye is Out and still in the quarterback slot, and the backup plan doesn't exist: Justin Fields is Kansas City's No. 2, Jalon Daniels is Tampa Bay's No. 4, Shedeur Sanders is on taxi and Jalen Hurts is on IR. No starting NFL quarterback on a superflex roster. Trailing The Champ 14.3 to 4.5."
    ]
   },
   {
@@ -706,15 +705,15 @@
     "Bourbon Lover (2025, 6-8)",
     "Bourbon Lover (2024, 5-9)"
    ],
-   "w7": "Week 10: lost to I Chase Brown Kids 124.46-116.92. Week 11: vs Jefferson’s Reserve (23.0-point underdog; 0.00-26.96 after Thursday)",
+   "w7": "Week 10: lost to I Chase Brown Kids 124.46-116.92. Week 11: vs Jefferson’s Reserve (24.0-point underdog; 0.00-26.96 after Thursday)",
    "inj": [
-    "Dontayvion Wicks (out)",
+    "Dontayvion Wicks (IR)",
     "Lamar Jackson (IR)",
     "Sam Darnold (out)"
    ],
    "body": [
     "Lost to I Chase Brown Kids 124.46 to 116.92 with Dak Prescott at 45.42. Devin Singletary scored 0.3 and Demarcus Robinson 0.0 in the lineup, with Jerry Jeudy's 9.4 on the bench.",
-    "3-7. Drew Lock, Jerry Jeudy and Colby Parkinson are on bye, and Lamar Jackson is on IR with Sam Darnold Out. Dak Prescott starts. Already down 26.96 to 0.0 to Jefferson’s Reserve."
+    "3-7. Drew Lock, Jerry Jeudy and Colby Parkinson are on bye, Lamar Jackson is on IR and Sam Darnold is Out. Dak Prescott starts at 1:00 against the Titans. Already down 26.96 to 0.0 to Jefferson’s Reserve."
    ]
   },
   {
@@ -739,14 +738,14 @@
    ],
    "body": [
     "Lost to The Champ 166.08 to 68.10. Jacoby Brissett threw for 340 yards on Monday and scored 12.3. Deebo Samuel Sr. had 26.9.",
-    "0-10 and mathematically eliminated. Emari Demercado (4.9) and Tank Dell (5.2) scored Thursday, and Dude, Your Getting a Dell leads Hold My DK 10.1 to 0.0. Rashid Shaheed and Rhamondre Stevenson are on bye. Br0phy has four first-round picks over the next three drafts."
+    "0-10 and mathematically eliminated, but leading Hold My DK 10.1 to 0.0 after Emari Demercado (4.9) and Tank Dell (5.2) on Thursday. Rashid Shaheed and Rhamondre Stevenson are on bye. Br0phy has four first-round picks over the next three drafts."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "ManicOrientals has reportedly refused to drop Daniel Jones from Asian Jim until the Colts 'say it to his face,' and has asked Sleeper to forward the request to Shane Steichen."
+   "t": "ManicOrientals reportedly picked up Dawson Knox at 6:03 AM because he heard OBJAY's tight end was Doubtful and wanted to 'own the whole Bills tight end room, as a lifestyle.'"
   },
   {
    "src": "Developing",
@@ -754,7 +753,7 @@
   },
   {
    "src": "Unconfirmed",
-   "t": "Br0phy has reportedly printed the 10.1 to 0.0 matchup screen, laminated it, and submitted it to the league as an official result 'pending Sunday.'"
+   "t": "Br0phy has reportedly screenshotted the 10.1 to 0.0 matchup screen, had it framed, and scheduled a team photo with it for 12:59 PM ET, one minute before Hold My DK starts scoring."
   },
   {
    "src": "Sources say",
@@ -766,15 +765,15 @@
   },
   {
    "src": "Unconfirmed",
-   "t": "Bill_Buttlicker reportedly set a phone alarm for 'FIX QB' every hour on Saturday and has snoozed all of them to write this website."
+   "t": "Bill_Buttlicker reportedly spent Saturday night writing a strongly worded email to Andy Reid asking him to 'give Fields a series or two, as a favor to a reader.'"
   },
   {
    "src": "Sources say",
-   "t": "TheMoneyTeam2302 reportedly picked up Laquon Treadwell after a Sleeper search for 'Colts receiver' sorted alphabetically by first name and he got tired of scrolling."
+   "t": "Bill_Buttlicker has reportedly offered all 12 of his first-round picks to the Patriots' practice squad in exchange for 'any guy who can throw it 15 yards.' The league has not received the paperwork."
   },
   {
    "src": "Per league sources",
-   "t": "jrsmith1391 reportedly benched Kenneth Walker III before the official designation because a tarot app told him to, and now refuses to make any lineup decision without it."
+   "t": "jrsmith1391 reportedly benched Kenneth Walker III before the official designation because a tarot app told him to, and has now asked it whether to start Baker Mayfield. It drew the Chariot. He's taking that as a yes."
   }
  ],
  "trades": [
@@ -799,7 +798,7 @@
    "bget": [
     "Parker Washington"
    ],
-   "why": "Catfan94 has Josh Allen, Michael Penix Jr. and Jordan Love for two quarterback spots. I have Drake Maye out indefinitely and a waiver-wire backup. Parker Washington scored 27.2 in Week 10 and would be the third receiver on a 9‑1 team. I'm 3‑7, but I need a quarterback for 2027 more than I need a receiver for December.",
+   "why": "Catfan94 has Josh Allen, Michael Penix Jr. and Jordan Love for two quarterback spots. I have Drake Maye out with a fractured fibula, Justin Fields backing up Mahomes, and a fourth-stringer. Parker Washington scored 27.2 in Week 10 and would be the third receiver on a 9‑1 team. I need a quarterback for 2027 more than I need a receiver for December.",
    "tag": "Fair"
   },
   {
@@ -837,7 +836,7 @@
    "bget": [
     "J.J. McCarthy"
    ],
-   "why": "jmello16 has five quarterbacks and McCarthy scored 22.12 on his bench in Week 10. I need a quarterback, and Schultz keeps getting benched for worse tight ends on my roster anyway.",
+   "why": "jmello16 has five quarterbacks and J.J. McCarthy scored 22.12 on his bench in Week 10. I have zero quarterbacks starting an NFL game this week, and Dalton Schultz keeps getting benched for worse tight ends on my roster anyway.",
    "tag": "Slight edge: StrngeJhnsonHurtsmyBoutte"
   },
   {
@@ -855,15 +854,17 @@
    "bad": true
   },
   {
-   "a": "Hold My DK",
+   "a": "Asian Jim",
    "aget": [
-    "Trey McBride"
+    "Kirk Cousins",
+    "Mack Hollins"
    ],
-   "b": "Asian Jim",
+   "b": "Jefferson’s Reserve",
    "bget": [
-    "Laquon Treadwell"
+    "Trey McBride",
+    "Jaxon Smith-Njigba"
    ],
-   "why": "ManicOrientals sees a guy score 0.0 on Thursday, decides he's due, and pays with a top tight end. TheMoneyTeam2302 accepts before the screen finishes loading.",
+   "why": "ManicOrientals panics about quarterback and pays the best tight end and best receiver on the roster for a 38-year-old backup and a 33-year-old receiver. jmello16 accepts and still doesn't spend any FAAB.",
    "tag": "Lock his account",
    "bad": true
   },
@@ -886,29 +887,29 @@
   "trying": [
    [
     "StrngeJhnsonHurtsmyBoutte",
-    "The only team in the league with a starter ruled Out on Saturday morning, and it's the quarterback. Mayfield's trending to play, so the $11 Jalon Daniels plan is dead too. Justin Fields is right there. 12 first-round picks, zero working quarterbacks."
-   ],
-   [
-    "Asian Jim",
-    "The Colts released Daniel Jones Friday. Kyler Murray is Out. ManicOrientals is down to Tyler Shough for the stretch run and a 30.5-point dog to Catfan94’s Farm Team."
+    "Drake Maye is Out and still in the lineup, and it turns out the fix was never one click: Justin Fields is Patrick Mahomes' backup. Zero starting quarterbacks on a superflex roster, 12 first-round picks in the vault."
    ],
    [
     "OBJAY",
-    "Dalton Kincaid missed every practice, is Doubtful, and is still starting. JAY2913 leads by 11.7 and is trying to hand it back."
+    "Dalton Kincaid is Doubtful, still starting Sunday morning, and Asian Jim just picked up the Bills tight end who replaces him. JAY2913 is up 11.7 and has Oronde Gadsden on the bench."
+   ],
+   [
+    "Bourbon Lover",
+    "Down 26.96 before a single Sunday snap with three starters on bye. paknight12 needs Dak Prescott to throw five touchdowns again, and last time that still lost."
    ]
   ],
   "gfy": [
    [
-    "Kraft for Cash",
-    "BTaylor1 had Anthony Richardson Sr. rotting on the bench behind two other quarterbacks and the Colts just made him a starter. Didn't have to do a thing. Go f*** yourself."
+    "Jefferson’s Reserve",
+    "Up 26.96, the 49ers planning to play Mike Evans Sunday night, and still $0 of FAAB spent all year. Go f*** yourself."
    ],
    [
     "Catfan94’s Farm Team",
-    "jrsmith1391 benched Kenneth Walker III before the Out designation even came down, and gets a quarterback-less Asian Jim. Go f*** yourself."
+    "Baker Mayfield's playing, so jrsmith1391 starts two real quarterbacks against a team that has Tyler Shough. Go f*** yourself."
    ],
    [
-    "Jefferson’s Reserve",
-    "Up 26.96 before Bourbon Lover plays a snap, Tuten cleared, and still $0 of FAAB spent all year. Go f*** yourself."
+    "Kraft for Cash",
+    "BTaylor1 had Anthony Richardson Sr. rotting on the bench and the Colts made him a starter anyway. Didn't have to do a thing. Go f*** yourself."
    ]
   ]
  },
@@ -916,33 +917,33 @@
   {
    "fav": "Jefferson’s Reserve",
    "dog": "Bourbon Lover",
-   "spread": "-23.0",
+   "spread": "-24.0",
    "total": "233.3",
-   "note": "Season PPG says 17.4. Up from 22.0: Jefferson’s Reserve already leads 26.96 to 0.0 after C.J. Stroud's Thursday, and Bhayshul Tuten practiced Friday and got no designation. Mike Evans is Questionable with Achilles tendinitis and gets checked at Saturday's walkthrough for Sunday night. Bourbon Lover loses Drew Lock, Jerry Jeudy and Colby Parkinson to byes.",
-   "prob": 77
+   "note": "Season PPG says 17.4. Up from 23.0: the 49ers plan to play Mike Evans Sunday night after waiving Brandin Cooks, and Jefferson’s Reserve already leads 26.96 to 0.0. Bourbon Lover loses Drew Lock, Jerry Jeudy and Colby Parkinson to byes.",
+   "prob": 78
   },
   {
    "fav": "Kraft for Cash",
    "dog": "OBJAY",
    "spread": "-12.0",
    "total": "250.9",
-   "note": "PPG says 14.1. Up from 10.5: Dalton Kincaid is Doubtful after missing practice all week and is still in the OBJAY lineup. OBJAY leads 16.9 to 5.2 after David Montgomery's Thursday. Kraft for Cash has Jake Ferguson Out and Quinshon Judkins, Kyren Williams and Tucker Kraft on bye.",
+   "note": "PPG says 14.1. Unchanged: Dalton Kincaid is Doubtful and still in the OBJAY lineup, OBJAY leads 16.9 to 5.2, and Kraft for Cash has Jake Ferguson Out and Quinshon Judkins, Kyren Williams and Tucker Kraft on bye. If JAY2913 starts Oronde Gadsden instead, knock a point off.",
    "prob": 65
   },
   {
    "fav": "The Champ",
    "dog": "StrngeJhnsonHurtsmyBoutte",
-   "spread": "-45.5",
+   "spread": "-47.0",
    "total": "248.2",
-   "note": "PPG says 34.7. Up from 44.0: Baker Mayfield is trending toward starting for Tampa Bay, so Jalon Daniels likely doesn't play, and StrngeJhnsonHurtsmyBoutte still has Drake Maye, who is Out, in the quarterback slot. The Champ leads 14.3 to 4.5 and loses Matthew Stafford, Harold Fannin Jr. and Matthew Golden to byes. If Justin Fields gets moved in, this comes back toward 40.",
-   "prob": 93
+   "note": "PPG says 34.7. Up from 45.5: Saturday's line assumed Justin Fields could replace Drake Maye, but Fields is Kansas City's backup and Jalon Daniels is Tampa Bay's fourth-stringer with Mayfield expected to play. StrngeJhnsonHurtsmyBoutte has no starting NFL quarterback. The Champ leads 14.3 to 4.5 and loses Matthew Stafford, Harold Fannin Jr. and Matthew Golden to byes.",
+   "prob": 94
   },
   {
    "fav": "Catfan94’s Farm Team",
    "dog": "Asian Jim",
-   "spread": "-30.5",
+   "spread": "-31.0",
    "total": "268.0",
-   "note": "PPG says 29.6. Up from 30.0: Ladd McConkey is Questionable with a back injury and starts for Asian Jim, Kyler Murray is Out, and Jaxon Smith-Njigba is on bye. Daniel Jones already scored 4.06 and was released Friday. Kenneth Walker III's news doesn't matter here: he's Out and already benched by Catfan94’s Farm Team.",
+   "note": "PPG says 29.6. Up from 30.5: Baker Mayfield is expected to play and starts at superflex next to Brock Purdy. Asian Jim has Daniel Jones' locked 4.06, Tyler Shough at superflex, Kyler Murray Out, Jaxon Smith-Njigba on bye and Ladd McConkey Questionable in the lineup.",
    "prob": 84
   },
   {
@@ -950,7 +951,7 @@
    "dog": "I Chase Brown Kids",
    "spread": "-41.0",
    "total": "293.5",
-   "note": "PPG says 49.5. Up from 40.0 after Brock Bowers practiced on limited terms Thursday and Friday; he's Questionable and plays late. Still nudged down from PPG because Michael Penix Jr. and Jordan Love are on bye, putting Ollie Gordon II at superflex. I Chase Brown Kids loses Bijan Robinson and Blake Corum to byes; Carnell Tate is Questionable but practiced in full.",
+   "note": "PPG says 49.5. Unchanged: still nudged down because Michael Penix Jr. and Jordan Love are on bye, putting Ollie Gordon II at superflex, and Brock Bowers is Questionable in the 4:25 window. I Chase Brown Kids loses Bijan Robinson and Blake Corum to byes.",
    "prob": 91
   },
   {
@@ -958,7 +959,7 @@
    "dog": "Dude, Your Getting a Dell",
    "spread": "-75.0",
    "total": "236.8",
-   "note": "PPG says 79.8. Unchanged: Dude, Your Getting a Dell leads 10.1 to 0.0 after Thursday, and Hold My DK has Drake London and Cooper Kupp on bye with Laquon Treadwell's 0.0 already in the books. Darren Waller is Questionable on the bench. Puka Nacua is on IR.",
+   "note": "PPG says 79.8. Unchanged: Dude, Your Getting a Dell leads 10.1 to 0.0 after Thursday, and Hold My DK has Drake London and Cooper Kupp on bye with Laquon Treadwell's 0.0 already in. Darren Waller is Questionable on the bench.",
    "prob": 99
   }
  ],
@@ -968,24 +969,12 @@
    "https://sleeper.com/leagues/1312534094717943808"
   ],
   [
-   "NFL news, live updates: Colts release Daniel Jones; Puka Nacua knee surgery (Yahoo Sports)",
+   "NFL news, live updates: 49ers plan to play Mike Evans, waive Brandin Cooks; Mayfield expected to play; Colts release Daniel Jones (Yahoo Sports)",
    "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
-  ],
-  [
-   "Mayfield (foot) 'trending' to start vs. Lions (NBC Sports)",
-   "https://www.nbcsports.com/fantasy/football/player-news/2026-11-20/mayfield-foot-trending-to-start-vs-lions"
-  ],
-  [
-   "NFL Week 11 injury report: Kenneth Walker III, Mike Evans, Baker Mayfield and more (CBS Sports)",
-   "https://cbssports.com/nfl/news/nfl-week-11-injury-report-kenneth-walker-iii-mike-evans-baker-mayfield"
   ],
   [
    "Official NFL Injury Report, Week 11 2026 (NFL.com)",
    "https://www.nfl.com/injuries/league/2026/REG11"
-  ],
-  [
-   "Buccaneers-Lions injury report, Nov. 20, Week 11 (Buccaneers.com)",
-   "https://www.buccaneers.com/news/buccaneers-lions-injury-report-nov-20-week-11-2026"
   ]
  ],
  "columnists": [
@@ -1033,15 +1022,15 @@
    ]
   },
   {
-   "id": "tre-w11sat",
+   "id": "tre-w11sun",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "ManicOrientals has 48 hours to stop being polite and call BTaylor1",
-   "dek": "Richard \"Dick\" Gozinya says a superflex team without a quarterback isn't a contender. It's a donor.",
+   "title": "Bill_Buttlicker built a superflex roster with no quarterbacks and 12 first-round picks. Pick one, son.",
+   "dek": "Richard \"Dick\" Gozinya says you don't get to cry about Drake Maye when you never bought a backup.",
    "body": [
-    "Let's be clear about what happened Friday. Indianapolis released Daniel Jones and handed the job to Anthony Richardson Sr. Asian Jim lost its starting quarterback for the rest of the season and didn't make a single bad decision to do it. That happens. What happens next is on ManicOrientals.",
-    "Asian Jim is 5‑5. Kyler Murray is Out again. Tyler Shough is the depth chart. Four weeks left and the tiebreaker is points for, where Asian Jim is already 222.74 behind The Champ. You don't make that up with a backup. You make it up by going to the one manager with three starting quarterbacks and paying him.",
-    "That manager is BTaylor1. Kraft for Cash is 6‑4 and can only start two of Bryce Young, Justin Herbert and Richardson. He'll want a receiver. Jake Ferguson is Out and Tucker Kraft is on bye, so he'll want a tight end too. Give him one. When I played, the guys who won were the ones who hit first. Pick up the phone. Toughen up."
+    "I want to be fair to the man who runs this site. Losing Drake Maye isn't a bad decision. That happens to every roster in football, and nobody gets to blame a manager for it. What he did after it is a different story.",
+    "Here's the quarterback room for StrngeJhnsonHurtsmyBoutte as of Sunday morning. Maye, Out. Justin Fields, Kansas City's backup. Jalon Daniels, Tampa Bay's fourth-stringer, and Baker Mayfield is expected to play. Shedeur Sanders on the taxi squad. Jalen Hurts on IR. In a league where you start two quarterbacks, that's zero. Zero. When I played, if you showed up to camp without a helmet, you sat. He showed up without two.",
+    "Meanwhile jmello16 has five quarterbacks, I Chase Brown Kids has six, and Kraft for Cash has three starters for two spots. Bill_Buttlicker owns 12 first-round picks over the next three drafts. He's 3‑7 and 10‑28 all time. You can't hoard draft capital forever and call it a plan. Go buy a quarterback. Use a pick. That's what they're for. Toughen up and spend."
    ]
   },
   {
@@ -1058,17 +1047,17 @@
    ]
   },
   {
-   "id": "dale-w11fri",
+   "id": "dale-w11sun",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "5 Friday lineup moves from Holden McGroin, who once started a punter at flex 'for field position'",
-   "dek": "Thursday night is over. Holden McGroin has learned nothing from it and would like to share.",
+   "title": "5 Sunday morning moves from Holden McGroin, who drafts quarterbacks by jersey color",
+   "dek": "Kickoff is at 1:00. Holden McGroin has been up since 4:00 and his advice has gotten worse every hour.",
    "body": [
-    "1. Laquon Treadwell scored 0.0, which means he's due. Anybody who scores zero on Thursday is statistically owed points on Sunday. That's the law of averages. I don't know which law, but it's on the books somewhere.",
-    "2. Bill_Buttlicker should keep Drake Maye in the lineup. Everyone else in the league benched their bye-week players. When 11 guys zig, the 12th guy zags all the way to 3‑7. You can't argue with that record. I mean you can, it's bad, but you can't argue with it.",
-    "3. ManicOrientals, Daniel Jones scored 4.06, so start him again next week. A quarterback who got sacked for a safety is a quarterback who knows where the end zone is. You can't teach that.",
-    "4. jmello16, now is the time to spend FAAB. Not because you need anyone. Because you're up 26.96 and you should celebrate. $100 on a kicker. Any kicker. Spend it before it expires. I don't think it expires, but neither do my coupons and I still panic.",
-    "5. Br0phy, you're up 10.1 to 0.0. Bench everyone. Lock it in. If no one on Dude, Your Getting a Dell plays, nobody can score less. I've run this play in three different leagues and been kicked out of two of them."
+    "1. JAY2913, keep Dalton Kincaid in. Doubtful isn't No. It's Maybe with a frown. I once started a guy listed Out because 'Out' could mean 'out there, getting open.' He did not play. I lost by 40. I stand by the reasoning.",
+    "2. Bill_Buttlicker, Drake Maye is Out, so start Justin Fields. What do you mean he's the backup? Backups play all the time. Patrick Mahomes has to sneeze eventually. Ride the sneeze.",
+    "3. ManicOrientals, you picked up Dawson Knox, so start him. You have Trey McBride? Start both. Start three tight ends. The more tight ends you start, the tighter your lineup. That's just physics.",
+    "4. Br0phy, you're up 10.1 to 0.0. Ask the commissioners if you can end the game early. Catfan94 and TJohn91 will say no, but the mercy rule has to start somewhere, and it should start with the 0‑10 team.",
+    "5. jrsmith1391, Baker Mayfield is wearing new cleats. New cleats mean a new man. Double-start him. I don't know if Sleeper allows that. Try it anyway and report back. I'm told this is how innovation happens."
    ]
   }
  ],
